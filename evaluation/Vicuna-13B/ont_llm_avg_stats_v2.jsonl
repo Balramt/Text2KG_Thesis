@@ -1,0 +1,10 @@
+{"onto": "1_movie", "type": "all_test_cases", "avg_precision": "0.33", "avg_recall": "0.23", "avg_f1": "0.25", "avg_onto_conf": "0.89", "avg_sub_halluc": "0.26", "avg_rel_halluc": "0.11", "avg_obj_halluc": "0.26"}
+{"onto": "2_music", "type": "all_test_cases", "avg_precision": "0.42", "avg_recall": "0.28", "avg_f1": "0.32", "avg_onto_conf": "0.94", "avg_sub_halluc": "0.16", "avg_rel_halluc": "0.06", "avg_obj_halluc": "0.22"}
+{"onto": "3_sport", "type": "all_test_cases", "avg_precision": "0.57", "avg_recall": "0.52", "avg_f1": "0.52", "avg_onto_conf": "0.85", "avg_sub_halluc": "0.22", "avg_rel_halluc": "0.15", "avg_obj_halluc": "0.13"}
+{"onto": "4_book", "type": "all_test_cases", "avg_precision": "0.31", "avg_recall": "0.25", "avg_f1": "0.26", "avg_onto_conf": "0.92", "avg_sub_halluc": "0.16", "avg_rel_halluc": "0.08", "avg_obj_halluc": "0.23"}
+{"onto": "5_military", "type": "all_test_cases", "avg_precision": "0.24", "avg_recall": "0.25", "avg_f1": "0.24", "avg_onto_conf": "0.80", "avg_sub_halluc": "0.19", "avg_rel_halluc": "0.20", "avg_obj_halluc": "0.26"}
+{"onto": "6_computer", "type": "all_test_cases", "avg_precision": "0.38", "avg_recall": "0.35", "avg_f1": "0.35", "avg_onto_conf": "0.85", "avg_sub_halluc": "0.15", "avg_rel_halluc": "0.15", "avg_obj_halluc": "0.11"}
+{"onto": "7_space", "type": "all_test_cases", "avg_precision": "0.68", "avg_recall": "0.67", "avg_f1": "0.66", "avg_onto_conf": "0.93", "avg_sub_halluc": "0.15", "avg_rel_halluc": "0.07", "avg_obj_halluc": "0.08"}
+{"onto": "8_politics", "type": "all_test_cases", "avg_precision": "0.34", "avg_recall": "0.32", "avg_f1": "0.33", "avg_onto_conf": "0.92", "avg_sub_halluc": "0.17", "avg_rel_halluc": "0.08", "avg_obj_halluc": "0.15"}
+{"onto": "9_nature", "type": "all_test_cases", "avg_precision": "0.25", "avg_recall": "0.27", "avg_f1": "0.25", "avg_onto_conf": "0.68", "avg_sub_halluc": "0.10", "avg_rel_halluc": "0.04", "avg_obj_halluc": "0.14"}
+{"onto": "10_culture", "type": "all_test_cases", "avg_precision": "0.31", "avg_recall": "0.32", "avg_f1": "0.31", "avg_onto_conf": "0.59", "avg_sub_halluc": "0.15", "avg_rel_halluc": "0.39", "avg_obj_halluc": "0.12"}
