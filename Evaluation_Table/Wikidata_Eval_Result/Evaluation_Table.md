@@ -3,37 +3,40 @@
 The following table presents the evaluation metrics for three different language models: **Alpaca-LoRA-13B**, **Model-2**, and **Model-3**. These metrics provide insights into the performance of each model across various categories, such as Movie, Music, Sport, Book, Military, Computer, Space, Politics, Nature, and Culture. The evaluation metrics include average precision, average recall, average F1 score, average ontological confidence, and various types of hallucinations (subjective and objective).
 
 | LLM Name           | Evaluation Metrics | avg_precision | avg_recall | avg_f1 | avg_onto_conf | avg_sub_halluc | avg_sub_halluc | avg_rel_halluc | avg_obj_halluc |
-|--------------------|-------------------|---------------|------------|--------|----------------|----------------|----------------|----------------|----------------|
-| Alpaca-LoRA-13B    | Movie             |               |            |        |                |                |                |                |                |
-|                    | Music             |               |            |        |                |                |                |                |                |
-|                    | Sport             |               |            |        |                |                |                |                |                |
-|                    | Book              |               |            |        |                |                |                |                |                |
-|                    | Military          |               |            |        |                |                |                |                |                |
-|                    | Computer          |               |            |        |                |                |                |                |                |
-|                    | Space             |               |            |        |                |                |                |                |                |
-|                    | Politics          |               |            |        |                |                |                |                |                |
-|                    | Nature            |               |            |        |                |                |                |                |                |
-|                    | Culture           |               |            |        |                |                |                |                |                |
-| Model-2            | Movie             |               |            |        |                |                |                |                |                |
-|                    | Music             |               |            |        |                |                |                |                |                |
-|                    | Sport             |               |            |        |                |                |                |                |                |
-|                    | Book              |               |            |        |                |                |                |                |                |
-|                    | Military          |               |            |        |                |                |                |                |                |
-|                    | Computer          |               |            |        |                |                |                |                |                |
-|                    | Space             |               |            |        |                |                |                |                |                |
-|                    | Politics          |               |            |        |                |                |                |                |                |
-|                    | Nature            |               |            |        |                |                |                |                |                |
-|                    | Culture           |               |            |        |                |                |                |                |                |
-| Model-3            | Movie             |               |            |        |                |                |                |                |                |
-|                    | Music             |               |            |        |                |                |                |                |                |
-|                    | Sport             |               |            |        |                |                |                |                |                |
-|                    | Book              |               |            |        |                |                |                |                |                |
-|                    | Military          |               |            |        |                |                |                |                |                |
-|                    | Computer          |               |            |        |                |                |                |                |                |
-|                    | Space             |               |            |        |                |                |                |                |                |
-|                    | Politics          |               |            |        |                |                |                |                |                |
-|                    | Nature            |               |            |        |                |                |                |                |                |
-|                    | Culture           |               |            |        |                |                |                |                |                |
+|--------------------|--------------------|---------------|------------|--------|----------------|----------------|----------------|----------------|----------------|
+| Alpaca-LoRA-13B    | Movie              |               |            |        |                |                |                |                |                |
+|                    | Music              |               |            |        |                |                |                |                |                |
+|                    | Sport              |               |            |        |                |                |                |                |                |
+|                    | Book               |               |            |        |                |                |                |                |                |
+|                    | Military           |               |            |        |                |                |                |                |                |
+|                    | Computer           |               |            |        |                |                |                |                |                |
+|                    | Space              |               |            |        |                |                |                |                |                |
+|                    | Politics           |               |            |        |                |                |                |                |                |
+|                    | Nature             |               |            |        |                |                |                |                |                |
+|                    | Culture            |               |            |        |                |                |                |                |                |
+|--------------------|--------------------|---------------|------------|--------|----------------|----------------|----------------|----------------|----------------|
+| Model-2            | Movie              |               |            |        |                |                |                |                |                |
+|                    | Music              |               |            |        |                |                |                |                |                |
+|                    | Sport              |               |            |        |                |                |                |                |                |
+|                    | Book               |               |            |        |                |                |                |                |                |
+|                    | Military           |               |            |        |                |                |                |                |                |
+|                    | Computer           |               |            |        |                |                |                |                |                |
+|                    | Space              |               |            |        |                |                |                |                |                |
+|                    | Politics           |               |            |        |                |                |                |                |                |
+|                    | Nature             |               |            |        |                |                |                |                |                |
+|                    | Culture            |               |            |        |                |                |                |                |                |
+|--------------------|--------------------|---------------|------------|--------|----------------|----------------|----------------|----------------|----------------|
+| Model-3            | Movie              |               |            |        |                |                |                |                |                |
+|                    | Music              |               |            |        |                |                |                |                |                |
+|                    | Sport              |               |            |        |                |                |                |                |                |
+|                    | Book               |               |            |        |                |                |                |                |                |
+|                    | Military           |               |            |        |                |                |                |                |                |
+|                    | Computer           |               |            |        |                |                |                |                |                |
+|                    | Space              |               |            |        |                |                |                |                |                |
+|                    | Politics           |               |            |        |                |                |                |                |                |
+|                    | Nature             |               |            |        |                |                |                |                |                |
+|                    | Culture            |               |            |        |                |                |                |                |                |
+|--------------------|--------------------|---------------|------------|--------|----------------|----------------|----------------|----------------|----------------|
 
 ## Models Description
 
@@ -55,4 +58,3 @@ The evaluation metrics used for these models are as follows:
 - **avg_sub_halluc**: The average subjective hallucination rate, measuring the frequency of subjective errors.
 - **avg_rel_halluc**: The average relational hallucination rate, measuring the frequency of relational errors.
 - **avg_obj_halluc**: The average objective hallucination rate, measuring the frequency of objective errors.
-
