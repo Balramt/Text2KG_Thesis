@@ -5,8 +5,8 @@ The following table presents the evaluation metrics for three different language
 | LLM Model Name  | Ontology                | avg_precision | avg_recall | avg_f1 | avg_onto_conf | avg_sub_halluc | avg_rel_halluc | avg_obj_halluc |
 |-----------------|-------------------------|---------------|------------|--------|---------------|----------------|----------------|----------------|
 | Alpaca-LoRA-13B | University              | 0.29          | 0.16       | 0.20   | 0.89          | 0.13           | 0.30           | 0.06           |
-|                 | Musical Work            | 0.20          | 0.11       | 0.13   | 0.49          | 0.39           | 0.51           | 0.31           |
-|                 | Airport                 | 0.33          | 0.11       | 0.17   | 0.63          | 0.02           | 0.37           | 0.12           |
+|                 | Musical Work            | 0.18          | 0.11       | 0.13   | 0.49          | 0.39           | 0.51           | 0.31           |
+|                 | Airport                 | 0.28          | 0.11       | 0.17   | 0.63          | 0.02           | 0.37           | 0.12           |
 |                 | Building                | 0.33          | 0.11       | 0.17   | 0.83          | 0.02           | 0.17           | 0.09           |
 |                 | Athlete                 | 0.41          | 0.15       | 0.22   | 0.73          | 0.00           | 0.27           | 0.20           |
 |                 | Politician              | 0.44          | 0.14       | 0.21   | 0.73          | 0.07           | 0.27           | 0.16           |
