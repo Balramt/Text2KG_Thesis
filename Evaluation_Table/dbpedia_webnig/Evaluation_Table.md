@@ -2,8 +2,6 @@
 
 The following table presents the evaluation metrics for three different language models: **Alpaca-LoRA-13B**, **LLAMA3**, and **Vicuna-13B**. These metrics provide insights into the performance of each model across various categories, such as University, Musical Work, Airport, Building, Athlete, Politician, Company, Celestial Body, Astronaut, Comics Character, Means of Transportation, Monument, Food, Written Work, Sports Team, City, Artist, Scientist, and Film. The evaluation metrics include average precision, average recall, average F1 score, average ontological confidence, and various types of hallucinations (subjective, relational, and objective).
 
-Sure! Here’s a combined table that incorporates the data for Alpaca-LoRA-13B, LLama3, and Vicuna-13B models with a structured format:
-
 ### Combined Performance Metrics for LLM Models
 
 | LLM Model Name      | Ontology                | avg_precision | avg_recall | avg_f1 | avg_onto_conf | avg_sub_halluc | avg_rel_halluc | avg_obj_halluc |
@@ -52,21 +50,21 @@ Sure! Here’s a combined table that incorporates the data for Alpaca-LoRA-13B, 
 |                     | Musical Work            | 0.20          | 0.18       | 0.18   | 0.89          | 0.32           | 0.11           | 0.27           |
 |                     | Airport                 | 0.33          | 0.24       | 0.27   | 0.92          | 0.03           | 0.08           | 0.27           |
 |                     | Building                | 0.48          | 0.33       | 0.38   | 0.98          | 0.02           | 0.02           | 0.22           |
-|                     | Athlete                 | 0.33          | 0.26       | 0.29   | 0.95          | 0.02           | 0.06           | 0.31           |
-|                     | Politician              | 0.39          | 0.27       | 0.31   | 0.95          | 0.03           | 0.08           | 0.30           |
-|                     | Company                 | 0.25          | 0.17       | 0.20   | 0.92          | 0.02           | 0.06           | 0.18           |
-|                     | Celestial Body          | 0.39          | 0.27       | 0.31   | 0.94          | 0.05           | 0.06           | 0.32           |
-|                     | Astronaut               | 0.44          | 0.34       | 0.38   | 0.95          | 0.01           | 0.05           | 0.19           |
-|                     | Comics Character        | 0.52          | 0.41       | 0.46   | 0.92          | 0.53           | 0.11           | 0.37           |
-|                     | Means of Transportation | 0.38          | 0.30       | 0.33   | 0.95          | 0.06           | 0.06           | 0.30           |
-|                     | Monument                | 0.12          | 0.08       | 0.09   | 0.89          | 0.05           | 0.08           | 0.25           |
-|                     | Food                    | 0.34          | 0.26       | 0.30   | 0.93          | 0.03           | 0.06           | 0.25           |
-|                     | Written Work            | 0.30          | 0.22       | 0.26   | 0.91          | 0.03           | 0.07           | 0.20           |
-|                     | Sports Team             | 0.36          | 0.29       | 0.32   | 0.90          | 0.02           | 0.06           | 0.22           |
-|                     | City                    | 0.10          | 0.09       | 0.09   | 0.87          | 0.04           | 0.05           | 0.29           |
-|                     | Artist                  | 0.35          | 0.22       | 0.26   | 0.90          | 0.04           | 0.08           | 0.18           |
-|                     | Scientist               | 0.30          | 0.25       | 0.28   | 0.94          | 0.06           | 0.06           | 0.25           |
-|                     | Film                    | 0.20          | 0.18       | 0.19   | 0.90          | 0.05           | 0.08           | 0.27           |
+|                     | Athlete                 | 0.33          | 0.26       | 0.29   | 0.92          | 0.01           | 0.08           | 0.13           |
+|                     | Politician              | 0.39          | 0.28       | 0.32   | 0.89          | 0.11           | 0.11           | 0.29           |
+|                     | Company                 | 0.49          | 0.37       | 0.41   | 1.00          | 0.09           | 0.00           | 0.36           |
+|                     | Celestial Body          | 0.48          | 0.46       | 0.46   | 0.97          | 0.05           | 0.03           | 0.46           |
+|                     | Astronaut               | 0.40          | 0.28       | 0.32   | 0.87          | 0.06           | 0.13           | 0.28           |
+|                     | Comics Character        | 0.41          | 0.41       | 0.40   | 0.97          | 0.64           | 0.03           | 0.28           |
+|                     | Means of Transportation | 0.22          | 0.17       | 0.18   | 0.94          | 0.14           | 0.06           | 0.41           |
+|                     | Monument                | 0.04          | 0.05       | 0.05   | 0.94          | 0.18           | 0.06           | 0.31           |
+|                     | Food                    | 0.43          | 0.39       | 0.39   | 0.94          | 0.05           | 0.06           | 0.20           |
+|                     | Written Work            | 0.40          | 0.34       | 0.36   | 0.92          | 0.12           | 0.08           | 0.33           |
+|                     | Sports Team             | 0.52          | 0.38       | 0.42   | 0.91          | 0.04           | 0.09           | 0.11           |
+|                     | City                    | 0.12          | 0.12       | 0.12   | 0.98          | 0.04           | 0.02           | 0.67           |
+|                     | Artist                  | 0.30          | 0.21       | 0.23   | 0.89          | 0.03           | 0.11           | 0.13           |
+|                     | Scientist               | 0.52          | 0.43       | 0.46   | 0.95          | 0.05           | 0.05           | 0.30           |
+|                     | Film                    | 0.23          | 0.19       | 0.20   | 0.94          | 0.30           | 0.06           | 0.19           |
 |---------------------|-------------------------|---------------|------------|--------|---------------|----------------|----------------|----------------|
 
 ## Models Description
