@@ -8,12 +8,14 @@ This repository contains evaluation scripts, datasets, and results for models ev
 
 ## Datasets
 
-1. **DBpedia-WebNLG**  
+1. **DBpedia-WebNLG**
+   -This datasets is created using WebNLG corpus alignments, covering 19 ontologies.
    - 19 ontologies, 4,860 sentences.
    - Includes ground truth triples aligned with ontology structure and constraints.
 
-2. **Wikidata-TekGen**  
-   - 10 ontologies, 13,474 sentences.
+3. **Wikidata-TekGen**
+   - This datasets is created using Wikidata and TekGen corpus.  
+   - It contains 10 ontologies, 13,474 sentences.
    - Structured based on Wikidata’s ontology with domain/range constraints for extracted triples.
 
 ### Example Test Input
