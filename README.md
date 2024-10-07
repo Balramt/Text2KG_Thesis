@@ -61,7 +61,6 @@ Ontology: **Movie Ontology**
   - `avg_eval_statistics/`: Average results across multiple evaluation cases.
   - `llm_responses/`: Raw responses from models like Alpaca-LoRA-13B and Vicuna-13B.
   - `eval_metrics/`: Aggregated evaluation metrics.
-- `baselines/`: Scripts and results for baseline models, including SBERT and prompt-based extraction approaches.
 
 ---
 
