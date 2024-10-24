@@ -1,0 +1,103 @@
+{"id": "ont_4_building_test_1", "triples": [{"sub": "108 St Georges Terrace", "rel": "floorCount", "obj": "50"}]}
+{"id": "ont_4_building_test_2", "triples": [{"sub": "108 St Georges Terrace", "rel": "yearOfConstruction", "obj": "1981"}]}
+{"id": "ont_4_building_test_3", "triples": [{"sub": "108 St. Georges Terrace", "rel": "location", "obj": "Perth"}]}
+{"id": "ont_4_building_test_4", "triples": [{"sub": "108 St Georges Terrace", "rel": "floorCount", "obj": "?"}]}
+{"id": "ont_4_building_test_5", "triples": [{"sub": "108 St. Georges Terrace", "rel": "floorCount", "obj": "50"}]}
+{"id": "ont_4_building_test_6", "triples": [{"sub": "11 Diagonal Street", "rel": "location", "obj": "\"11 Diagonal Street\""}]}
+{"id": "ont_4_building_test_7", "triples": []}
+{"id": "ont_4_building_test_8", "triples": []}
+{"id": "ont_4_building_test_9", "triples": [{"sub": "South Africa", "rel": "leader", "obj": "Cyril Ramaphosa"}]}
+{"id": "ont_4_building_test_10", "triples": [{"sub": "11 Diagonal Street", "rel": "country", "obj": "South Africa"}]}
+{"id": "ont_4_building_test_11", "triples": []}
+{"id": "ont_4_building_test_12", "triples": []}
+{"id": "ont_4_building_test_13", "triples": []}
+{"id": "ont_4_building_test_14", "triples": [{"sub": "250 Delaware Avenue", "rel": "cost", "obj": "\"110.0 million (dollars"}]}
+{"id": "ont_4_building_test_15", "triples": [{"sub": "250 Delaware Avenue", "rel": "floorCount", "obj": "12"}]}
+{"id": "ont_4_building_test_16", "triples": [{"sub": "250 Delaware Avenue", "rel": "floorCount", "obj": "12"}]}
+{"id": "ont_4_building_test_17", "triples": [{"sub": "object", "rel": "(Note: The output is in the format: relation", "obj": "subject"}]}
+{"id": "ont_4_building_test_18", "triples": [{"sub": "250 Delaware Avenue", "rel": "location", "obj": "Buffalo"}]}
+{"id": "ont_4_building_test_19", "triples": [{"sub": "320 South Boston Building", "rel": "architect", "obj": "George Winkler"}]}
+{"id": "ont_4_building_test_20", "triples": [{"sub": "320 South Boston Building", "rel": "architect", "obj": "George Winkler"}]}
+{"id": "ont_4_building_test_21", "triples": [{"sub": "320 South Boston Building", "rel": "buildingStartDate", "obj": "1929"}]}
+{"id": "ont_4_building_test_22", "triples": []}
+{"id": "ont_4_building_test_23", "triples": [{"sub": "3Arena", "rel": "architect", "obj": "HOK SVE"}]}
+{"id": "ont_4_building_test_24", "triples": [{"sub": "3Arena", "rel": "completionDate", "obj": "2008-12-01"}]}
+{"id": "ont_4_building_test_25", "triples": []}
+{"id": "ont_4_building_test_26", "triples": [{"sub": "3Arena", "rel": "architect", "obj": "HOK SVE"}]}
+{"id": "ont_4_building_test_27", "triples": [{"sub": "3Arena", "rel": "location", "obj": "Dublin"}]}
+{"id": "ont_4_building_test_28", "triples": []}
+{"id": "ont_4_building_test_29", "triples": []}
+{"id": "ont_4_building_test_30", "triples": []}
+{"id": "ont_4_building_test_31", "triples": []}
+{"id": "ont_4_building_test_32", "triples": []}
+{"id": "ont_4_building_test_33", "triples": []}
+{"id": "ont_4_building_test_34", "triples": []}
+{"id": "ont_4_building_test_35", "triples": []}
+{"id": "ont_4_building_test_36", "triples": [{"sub": "Adisham Hall", "rel": "architecturalStyle", "obj": "Tudor and Jacobean"}]}
+{"id": "ont_4_building_test_37", "triples": [{"sub": "Adisham Hall", "rel": "architect", "obj": "unknown"}]}
+{"id": "ont_4_building_test_38", "triples": [{"sub": "Adisham Hall", "rel": "architecturalStyle", "obj": "Tudor Revival architectural style"}]}
+{"id": "ont_4_building_test_39", "triples": [{"sub": "Adisham Hall", "rel": "country", "obj": "Sri Lanka"}]}
+{"id": "ont_4_building_test_40", "triples": [{"sub": "Adisham Hall", "rel": "country", "obj": "Sri Lanka"}]}
+{"id": "ont_4_building_test_41", "triples": [{"sub": "Adisham Hall", "rel": "country", "obj": "Sri Lanka"}]}
+{"id": "ont_4_building_test_42", "triples": [{"sub": "Adisham Hall", "rel": "country", "obj": "Sri Lanka"}]}
+{"id": "ont_4_building_test_43", "triples": [{"sub": "Adisham Hall", "rel": "country", "obj": "Sri Lanka"}]}
+{"id": "ont_4_building_test_44", "triples": [{"sub": "Adisham Hall", "rel": "country", "obj": "Sri Lanka"}]}
+{"id": "ont_4_building_test_45", "triples": [{"sub": "Adisham Hall", "rel": "country", "obj": "Sri Lanka"}]}
+{"id": "ont_4_building_test_46", "triples": [{"sub": "Adisham Hall", "rel": "architect", "obj": "unknown"}]}
+{"id": "ont_4_building_test_47", "triples": [{"sub": "Amdavad ni Gufa", "rel": "address", "obj": "\"Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road Ahmedabad, India\""}]}
+{"id": "ont_4_building_test_48", "triples": [{"sub": "Amdavad ni Gufa", "rel": "location", "obj": "India"}]}
+{"id": "ont_4_building_test_49", "triples": [{"sub": "Amdavad ni Gufa", "rel": "completionDate", "obj": "1995"}]}
+{"id": "ont_4_building_test_50", "triples": []}
+{"id": "ont_4_building_test_51", "triples": [{"sub": "Amdavad ni Gufa", "rel": "location", "obj": "Ahmedabad"}]}
+{"id": "ont_4_building_test_52", "triples": [{"sub": "Amdavad ni Gufa", "rel": "country", "obj": "India"}]}
+{"id": "ont_4_building_test_53", "triples": [{"sub": "Amdavad ni Gufa", "rel": "completionDate", "obj": "\"1995\""}]}
+{"id": "ont_4_building_test_54", "triples": [{"sub": "Amdavad ni Gufa", "rel": "location", "obj": "Gujarat"}]}
+{"id": "ont_4_building_test_55", "triples": [{"sub": "Amdavad ni Gufa", "rel": "location", "obj": "Gujarat"}]}
+{"id": "ont_4_building_test_56", "triples": [{"sub": "Amdavad ni Gufa", "rel": "country", "obj": "India"}]}
+{"id": "ont_4_building_test_57", "triples": [{"sub": "Ampara Hospital", "rel": "country", "obj": "Sri Lanka"}]}
+{"id": "ont_4_building_test_58", "triples": [{"sub": "object", "rel": "(Note: The output is in the format: relation", "obj": "value"}]}
+{"id": "ont_4_building_test_59", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "architect", "obj": "Julia Morgan"}]}
+{"id": "ont_4_building_test_60", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "architect", "obj": "Julia Morgan"}]}
+{"id": "ont_4_building_test_61", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "architect", "obj": "Julia Morgan"}]}
+{"id": "ont_4_building_test_62", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "architect", "obj": "Julia Morgan"}]}
+{"id": "ont_4_building_test_63", "triples": [{"sub": "Los Angeles Herald Examiner building", "rel": "architect", "obj": "Julia Morgan"}]}
+{"id": "ont_4_building_test_64", "triples": [{"sub": "Asilomar Conference grounds", "rel": "architect", "obj": "Julia Morgan"}]}
+{"id": "ont_4_building_test_65", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "location", "obj": "California"}]}
+{"id": "ont_4_building_test_66", "triples": [{"sub": "Asilomar State Beach", "rel": "architect", "obj": "Julia Morgan"}]}
+{"id": "ont_4_building_test_67", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "location", "obj": "Asilomar Blvd, Pacific Grove, California"}]}
+{"id": "ont_4_building_test_68", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "location", "obj": "Asilomar Blvd"}]}
+{"id": "ont_4_building_test_69", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "location", "obj": "\"Asilomar Blvd, Pacific Grove, California\""}]}
+{"id": "ont_4_building_test_70", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "location", "obj": "Pacific Grove, California"}]}
+{"id": "ont_4_building_test_71", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "location", "obj": "\"Pacific Grove, California\""}]}
+{"id": "ont_4_building_test_72", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "yearOfConstruction", "obj": "1913"}]}
+{"id": "ont_4_building_test_73", "triples": [{"sub": "3Arena", "rel": "country", "obj": "Republic of Ireland"}]}
+{"id": "ont_4_building_test_74", "triples": [{"sub": "Addis Ababa City Hall", "rel": "location", "obj": "Addis Ababa"}]}
+{"id": "ont_4_building_test_75", "triples": [{"sub": "Addis Ababa City Hall", "rel": "leader", "obj": "Mulatu Teshome"}]}
+{"id": "ont_4_building_test_76", "triples": [{"sub": "Addis Ababa City Hall", "rel": "leader", "obj": "Mulatu Teshome"}]}
+{"id": "ont_4_building_test_77", "triples": [{"sub": "Gujarat", "rel": "leader", "obj": "Anandiben Patel"}]}
+{"id": "ont_4_building_test_78", "triples": [{"sub": "Amdavad ni Gufa", "rel": "location", "obj": "India"}]}
+{"id": "ont_4_building_test_79", "triples": [{"sub": "Amdavad ni Gufa", "rel": "location", "obj": "India"}]}
+{"id": "ont_4_building_test_80", "triples": [{"sub": "India", "rel": "leader", "obj": "T S Thakur"}]}
+{"id": "ont_4_building_test_81", "triples": [{"sub": "Amdavad ni Gufa", "rel": "location", "obj": "Gujarat, India"}]}
+{"id": "ont_4_building_test_82", "triples": [{"sub": "Amdavad ni Gufa", "rel": "country", "obj": "India"}]}
+{"id": "ont_4_building_test_83", "triples": []}
+{"id": "ont_4_building_test_84", "triples": [{"sub": "Paul Ryan", "rel": "leader", "obj": "United States"}]}
+{"id": "ont_4_building_test_85", "triples": [{"sub": "250 Delaware Avenue", "rel": "location", "obj": "United States"}]}
+{"id": "ont_4_building_test_86", "triples": [{"sub": "United States", "rel": "leader", "obj": "Paul Ryan"}]}
+{"id": "ont_4_building_test_87", "triples": [{"sub": "United States", "rel": "leader", "obj": "President Barack Obama"}]}
+{"id": "ont_4_building_test_88", "triples": [{"sub": "250 Delaware Avenue", "rel": "leader", "obj": "President Joe Biden"}]}
+{"id": "ont_4_building_test_89", "triples": [{"sub": "250 Delaware Avenue", "rel": "location", "obj": "United States"}]}
+{"id": "ont_4_building_test_90", "triples": [{"sub": "250 Delaware Avenue", "rel": "location", "obj": "United States"}]}
+{"id": "ont_4_building_test_91", "triples": [{"sub": "11 Diagonal Street", "rel": "location", "obj": "South Africa"}]}
+{"id": "ont_4_building_test_92", "triples": []}
+{"id": "ont_4_building_test_93", "triples": [{"sub": "11 Diagonal Street", "rel": "location", "obj": "South Africa"}]}
+{"id": "ont_4_building_test_94", "triples": [{"sub": "250 Delaware Avenue", "rel": "location", "obj": "Buffalo, Erie County, New York"}]}
+{"id": "ont_4_building_test_95", "triples": [{"sub": "3Arena", "rel": "architect", "obj": "HOK"}]}
+{"id": "ont_4_building_test_96", "triples": [{"sub": "3Arena", "rel": "architect", "obj": "Populous"}]}
+{"id": "ont_4_building_test_97", "triples": [{"sub": "3Arena", "rel": "owner", "obj": "Live Nation Entertainment"}]}
+{"id": "ont_4_building_test_98", "triples": []}
+{"id": "ont_4_building_test_99", "triples": [{"sub": "Adisham hall", "rel": "architecturalStyle", "obj": "Tudor Revival"}]}
+{"id": "ont_4_building_test_100", "triples": [{"sub": "Ampara Hospital", "rel": "country", "obj": "Sri Lanka"}]}
+{"id": "ont_4_building_test_101", "triples": [{"sub": "Ampara Hospital", "rel": "country", "obj": "Sri Lanka"}]}
+{"id": "ont_4_building_test_102", "triples": [{"sub": "Asilomar Conference Grounds", "rel": "location", "obj": "\"Pacific Grove (California"}]}
+{"id": "ont_4_building_test_103", "triples": [{"sub": "Amdavad ni Gufa", "rel": "leader", "obj": "T S Thakur"}]}

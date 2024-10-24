@@ -1,0 +1,217 @@
+{"id": "ont_16_city_test_1", "triples": [{"sub": "Albany", "rel": "country", "obj": "United States"}]}
+{"id": "ont_16_city_test_2", "triples": [{"sub": "Albany", "rel": "populationDensity", "obj": "Georgia, 535 (inhabitants per square kilometer"}]}
+{"id": "ont_16_city_test_3", "triples": [{"sub": "Albany", "rel": "country", "obj": "Georgia, United States"}]}
+{"id": "ont_16_city_test_4", "triples": [{"sub": "Albany", "rel": "country", "obj": "Georgia, U.S."}]}
+{"id": "ont_16_city_test_5", "triples": []}
+{"id": "ont_16_city_test_6", "triples": [{"sub": "Albany", "rel": "country", "obj": "Georgia, United States"}]}
+{"id": "ont_16_city_test_7", "triples": []}
+{"id": "ont_16_city_test_8", "triples": []}
+{"id": "ont_16_city_test_9", "triples": [{"sub": "Albany", "rel": "areaTotal", "obj": "Oregon, 45.97 (square kilometres"}]}
+{"id": "ont_16_city_test_10", "triples": [{"sub": "Albany", "rel": "isPartOf", "obj": "Benton County, Oregon"}]}
+{"id": "ont_16_city_test_11", "triples": [{"sub": "Albany", "rel": "isPartOf", "obj": "Oregon, Benton County, Oregon"}]}
+{"id": "ont_16_city_test_12", "triples": [{"sub": "Albany", "rel": "isPartOf", "obj": "Oregon, Linn County, Oregon"}]}
+{"id": "ont_16_city_test_13", "triples": []}
+{"id": "ont_16_city_test_14", "triples": []}
+{"id": "ont_16_city_test_15", "triples": [{"sub": "Albany", "rel": "isPartOf", "obj": "Oregon"}]}
+{"id": "ont_16_city_test_16", "triples": [{"sub": "Alexandria", "rel": "isPartOf", "obj": "Madison County, Indiana, Monroe Township"}]}
+{"id": "ont_16_city_test_17", "triples": [{"sub": "Alexandria", "rel": "isPartOf", "obj": "Indiana"}]}
+{"id": "ont_16_city_test_18", "triples": [{"sub": "Alexandria", "rel": "isPartOf", "obj": "Madison County, Indiana, United States"}]}
+{"id": "ont_16_city_test_19", "triples": [{"sub": "Alexandria", "rel": "isPartOf", "obj": "Madison County, Indiana, Monroe Township"}]}
+{"id": "ont_16_city_test_20", "triples": [{"sub": "Alexandria", "rel": "isPartOf", "obj": "Madison County, Indiana, United States"}]}
+{"id": "ont_16_city_test_21", "triples": []}
+{"id": "ont_16_city_test_22", "triples": []}
+{"id": "ont_16_city_test_23", "triples": [{"sub": "subject", "rel": "(Note: The output is in the format: relation", "obj": "object, object2"}]}
+{"id": "ont_16_city_test_24", "triples": []}
+{"id": "ont_16_city_test_25", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Potter County, Potter County"}]}
+{"id": "ont_16_city_test_26", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Texas, Potter County"}]}
+{"id": "ont_16_city_test_27", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Texas"}, {"sub": "Amarillo", "rel": ", countySeat", "obj": "Potter County"}, {"sub": "Amarillo", "rel": ", countySeat", "obj": "Randall County"}]}
+{"id": "ont_16_city_test_28", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Potter County, Potter County"}]}
+{"id": "ont_16_city_test_29", "triples": [{"sub": "Amarillo", "rel": "ethnicGroup", "obj": "African Americans"}]}
+{"id": "ont_16_city_test_30", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Potter County"}]}
+{"id": "ont_16_city_test_31", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Texas, Randall County, Texas"}]}
+{"id": "ont_16_city_test_32", "triples": []}
+{"id": "ont_16_city_test_33", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Potter County"}]}
+{"id": "ont_16_city_test_34", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Potter County"}]}
+{"id": "ont_16_city_test_35", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Texas, Potter County"}]}
+{"id": "ont_16_city_test_36", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Texas, Texas"}]}
+{"id": "ont_16_city_test_37", "triples": []}
+{"id": "ont_16_city_test_38", "triples": []}
+{"id": "ont_16_city_test_39", "triples": []}
+{"id": "ont_16_city_test_40", "triples": [{"sub": "Anaheim", "rel": "isPartOf", "obj": "California"}]}
+{"id": "ont_16_city_test_41", "triples": [{"sub": "Anaheim", "rel": "isPartOf", "obj": "California, United States"}]}
+{"id": "ont_16_city_test_42", "triples": [{"sub": "Anaheim", "rel": "leader", "obj": "California, California State Assembly"}]}
+{"id": "ont_16_city_test_43", "triples": []}
+{"id": "ont_16_city_test_44", "triples": []}
+{"id": "ont_16_city_test_45", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Indiana, Adams Township, Madison County, Indiana"}]}
+{"id": "ont_16_city_test_46", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Indiana, Anderson Township, Madison County, Indiana"}]}
+{"id": "ont_16_city_test_47", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Indiana, Anderson Township, Madison County, Indiana"}]}
+{"id": "ont_16_city_test_48", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Indiana, Anderson Township, Madison County, Indiana"}]}
+{"id": "ont_16_city_test_49", "triples": []}
+{"id": "ont_16_city_test_50", "triples": []}
+{"id": "ont_16_city_test_51", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Indiana, Fall Creek Township, Madison County, Indiana"}]}
+{"id": "ont_16_city_test_52", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Madison County, Indiana, Fall Creek Township"}]}
+{"id": "ont_16_city_test_53", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Indiana, Adams Fall Creek"}]}
+{"id": "ont_16_city_test_54", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Lafayette Township, Madison County, Indiana"}]}
+{"id": "ont_16_city_test_55", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Indiana, Union Township, Madison County, Indiana"}]}
+{"id": "ont_16_city_test_56", "triples": [{"sub": "Angola", "rel": "ethnicGroup", "obj": "Asian Americans"}]}
+{"id": "ont_16_city_test_57", "triples": []}
+{"id": "ont_16_city_test_58", "triples": [{"sub": "Angola", "rel": "isPartOf", "obj": "Steuben County, Indiana, United States"}]}
+{"id": "ont_16_city_test_59", "triples": [{"sub": "Angola", "rel": "isPartOf", "obj": "Steuben County, Indiana"}]}
+{"id": "ont_16_city_test_60", "triples": [{"sub": "Angola", "rel": "isPartOf", "obj": "Steuben County, Indiana"}]}
+{"id": "ont_16_city_test_61", "triples": [{"sub": "Angola", "rel": "isPartOf", "obj": "Steuben County, Indiana"}]}
+{"id": "ont_16_city_test_62", "triples": [{"sub": "Angola", "rel": "isPartOf", "obj": "Indiana, Pleasant Township, Steuben County, United States"}]}
+{"id": "ont_16_city_test_63", "triples": [{"sub": "Antioch", "rel": "isPartOf", "obj": "California, Contra Costa County"}]}
+{"id": "ont_16_city_test_64", "triples": [{"sub": "Antioch", "rel": "isPartOf", "obj": "California, Contra Costa County"}]}
+{"id": "ont_16_city_test_65", "triples": [{"sub": "Antioch", "rel": "isPartOf", "obj": "California, Contra Costa County"}]}
+{"id": "ont_16_city_test_66", "triples": [{"sub": "Antioch", "rel": "leader", "obj": "mayor"}]}
+{"id": "ont_16_city_test_67", "triples": [{"sub": "Antioch", "rel": "isPartOf", "obj": "Contra Costa County, Contra Costa County"}]}
+{"id": "ont_16_city_test_68", "triples": [{"sub": "Antioch", "rel": "areaCode", "obj": "California, 925"}]}
+{"id": "ont_16_city_test_69", "triples": [{"sub": "Arlington", "rel": "isPartOf", "obj": "Tarrant County, Texas"}]}
+{"id": "ont_16_city_test_70", "triples": [{"sub": "Tarrant County", "rel": "countySeat", "obj": "Fort Worth"}]}
+{"id": "ont_16_city_test_71", "triples": [{"sub": "Arlington", "rel": "isPartOf", "obj": "Tarrant County, Texas"}]}
+{"id": "ont_16_city_test_72", "triples": []}
+{"id": "ont_16_city_test_73", "triples": []}
+{"id": "ont_16_city_test_74", "triples": []}
+{"id": "ont_16_city_test_75", "triples": []}
+{"id": "ont_16_city_test_76", "triples": [{"sub": "Atlanta", "rel": "isPartOf", "obj": "United States, United States"}]}
+{"id": "ont_16_city_test_77", "triples": []}
+{"id": "ont_16_city_test_78", "triples": [{"sub": "Atlanta", "rel": "country", "obj": "U.S."}]}
+{"id": "ont_16_city_test_79", "triples": []}
+{"id": "ont_16_city_test_80", "triples": []}
+{"id": "ont_16_city_test_81", "triples": []}
+{"id": "ont_16_city_test_82", "triples": []}
+{"id": "ont_16_city_test_83", "triples": [{"sub": "Atlanta", "rel": "country", "obj": "United States"}]}
+{"id": "ont_16_city_test_84", "triples": []}
+{"id": "ont_16_city_test_85", "triples": [{"sub": "Atlanta", "rel": "areaOfLand", "obj": "347.1 (square kilometres"}]}
+{"id": "ont_16_city_test_86", "triples": [{"sub": "Atlantic City", "rel": "isPartOf", "obj": "Atlantic County, New Jersey, United States"}]}
+{"id": "ont_16_city_test_87", "triples": [{"sub": "New Jersey", "rel": "largestCity", "obj": "Newark"}]}
+{"id": "ont_16_city_test_88", "triples": [{"sub": "Atlantic City", "rel": "isPartOf", "obj": "Atlantic County, New Jersey"}]}
+{"id": "ont_16_city_test_89", "triples": [{"sub": "Atlantic City", "rel": "county", "obj": "Atlantic County"}]}
+{"id": "ont_16_city_test_90", "triples": [{"sub": "Atlantic City", "rel": "leaderTitle", "obj": "New Jersey, \"Clerk\""}]}
+{"id": "ont_16_city_test_91", "triples": [{"sub": "Attica", "rel": "isPartOf", "obj": "United States, Indiana"}]}
+{"id": "ont_16_city_test_92", "triples": []}
+{"id": "ont_16_city_test_93", "triples": []}
+{"id": "ont_16_city_test_94", "triples": []}
+{"id": "ont_16_city_test_95", "triples": []}
+{"id": "ont_16_city_test_96", "triples": [{"sub": "Auburn", "rel": "isPartOf", "obj": "Lee County, Alabama"}]}
+{"id": "ont_16_city_test_97", "triples": [{"sub": "Auburn", "rel": "isPartOf", "obj": "Lee County, Alabama"}]}
+{"id": "ont_16_city_test_98", "triples": [{"sub": "Auburn", "rel": "isPartOf", "obj": "Lee County, Alabama"}]}
+{"id": "ont_16_city_test_99", "triples": [{"sub": "Auburn", "rel": "isPartOf", "obj": "Lee County, Alabama"}]}
+{"id": "ont_16_city_test_100", "triples": [{"sub": "Auburn", "rel": "isPartOf", "obj": "Washington, Pierce County, Washington"}]}
+{"id": "ont_16_city_test_101", "triples": [{"sub": "Auburn", "rel": "isPartOf", "obj": "Washington, Pierce County, Washington"}]}
+{"id": "ont_16_city_test_102", "triples": []}
+{"id": "ont_16_city_test_103", "triples": [{"sub": "Auburn", "rel": "isPartOf", "obj": "Washington, Washington State, United States"}]}
+{"id": "ont_16_city_test_104", "triples": []}
+{"id": "ont_16_city_test_105", "triples": []}
+{"id": "ont_16_city_test_106", "triples": []}
+{"id": "ont_16_city_test_107", "triples": [{"sub": "Austin", "rel": "isPartOf", "obj": "Texas, Travis County"}]}
+{"id": "ont_16_city_test_108", "triples": [{"sub": "Austin", "rel": "isPartOf", "obj": "Hays County, Hays County"}]}
+{"id": "ont_16_city_test_109", "triples": [{"sub": "Austin", "rel": "isPartOf", "obj": "Hays County, Texas"}]}
+{"id": "ont_16_city_test_110", "triples": []}
+{"id": "ont_16_city_test_111", "triples": [{"sub": "Austin", "rel": "areaOfLand", "obj": "Texas, 686.0 (square kilometres"}]}
+{"id": "ont_16_city_test_112", "triples": [{"sub": "Antioch", "rel": "isPartOf", "obj": "Contra Costa County, California"}]}
+{"id": "ont_16_city_test_113", "triples": [{"sub": "Alpharetta", "rel": "country", "obj": "Georgia, United States"}]}
+{"id": "ont_16_city_test_114", "triples": []}
+{"id": "ont_16_city_test_115", "triples": [{"sub": "Alpharetta", "rel": "country", "obj": "Georgia, U.S."}]}
+{"id": "ont_16_city_test_116", "triples": []}
+{"id": "ont_16_city_test_117", "triples": [{"sub": "Alexandria", "rel": "isPartOf", "obj": "Madison County, Indiana"}]}
+{"id": "ont_16_city_test_118", "triples": [{"sub": "Alexandria", "rel": "isPartOf", "obj": "Madison County, Monroe Township"}]}
+{"id": "ont_16_city_test_119", "triples": []}
+{"id": "ont_16_city_test_120", "triples": [{"sub": "Angola", "rel": "isPartOf", "obj": "Indiana"}]}
+{"id": "ont_16_city_test_121", "triples": [{"sub": "Alexandria", "rel": "isPartOf", "obj": "Madison County, Indiana, Monroe Township"}]}
+{"id": "ont_16_city_test_122", "triples": [{"sub": "Alexandria", "rel": "isPartOf", "obj": "Madison County, Monroe Township, Indiana"}]}
+{"id": "ont_16_city_test_123", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Madison County, Indiana, Adams Fall Creek"}]}
+{"id": "ont_16_city_test_124", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Madison County, Indiana"}]}
+{"id": "ont_16_city_test_125", "triples": []}
+{"id": "ont_16_city_test_126", "triples": [{"sub": "New Jersey", "rel": "largestCity", "obj": "New York"}]}
+{"id": "ont_16_city_test_127", "triples": [{"sub": "Arlington", "rel": "isPartOf", "obj": "Tarrant County, Texas"}]}
+{"id": "ont_16_city_test_128", "triples": [{"sub": "Arlington", "rel": "isPartOf", "obj": "Texas, United States"}]}
+{"id": "ont_16_city_test_129", "triples": []}
+{"id": "ont_16_city_test_130", "triples": [{"sub": "Arlington", "rel": "isPartOf", "obj": "Texas, Texas"}]}
+{"id": "ont_16_city_test_131", "triples": [{"sub": "Arlington", "rel": "isPartOf", "obj": "Texas, Texas"}]}
+{"id": "ont_16_city_test_132", "triples": [{"sub": "Arlington", "rel": "isPartOf", "obj": "Texas, Texas"}]}
+{"id": "ont_16_city_test_133", "triples": [{"sub": "Arlington", "rel": "isPartOf", "obj": "Texas, Texas"}]}
+{"id": "ont_16_city_test_134", "triples": [{"sub": "Abilene", "rel": "isPartOf", "obj": "Jones County, Texas"}]}
+{"id": "ont_16_city_test_135", "triples": [{"sub": "subject", "rel": "(Note: The output is in the format: relation", "obj": "object, object2"}]}
+{"id": "ont_16_city_test_136", "triples": []}
+{"id": "ont_16_city_test_137", "triples": []}
+{"id": "ont_16_city_test_138", "triples": [{"sub": "Albany", "rel": "isPartOf", "obj": "Oregon, Linn County, Oregon"}]}
+{"id": "ont_16_city_test_139", "triples": []}
+{"id": "ont_16_city_test_140", "triples": []}
+{"id": "ont_16_city_test_141", "triples": [{"sub": "Albany", "rel": "isPartOf", "obj": "Benton County, Oregon"}]}
+{"id": "ont_16_city_test_142", "triples": []}
+{"id": "ont_16_city_test_143", "triples": [{"sub": "Amarillo", "rel": "isPartOf", "obj": "Texas, United States"}]}
+{"id": "ont_16_city_test_144", "triples": []}
+{"id": "ont_16_city_test_145", "triples": []}
+{"id": "ont_16_city_test_146", "triples": []}
+{"id": "ont_16_city_test_147", "triples": [{"sub": "Attica", "rel": "isPartOf", "obj": "Logan Township, Fountain County, Indiana, Indiana"}]}
+{"id": "ont_16_city_test_148", "triples": [{"sub": "Attica", "rel": "isPartOf", "obj": "Indiana, Fountain County, Indiana, United States"}]}
+{"id": "ont_16_city_test_149", "triples": []}
+{"id": "ont_16_city_test_150", "triples": [{"sub": "subject", "rel": "(Note: The output is in the format: relation", "obj": "object, object2"}]}
+{"id": "ont_16_city_test_151", "triples": [{"sub": "Albuquerque", "rel": "isPartOf", "obj": "New Mexico, United States"}]}
+{"id": "ont_16_city_test_152", "triples": []}
+{"id": "ont_16_city_test_153", "triples": [{"sub": "United States", "rel": "ethnicGroup", "obj": "African Americans"}]}
+{"id": "ont_16_city_test_154", "triples": []}
+{"id": "ont_16_city_test_155", "triples": []}
+{"id": "ont_16_city_test_156", "triples": []}
+{"id": "ont_16_city_test_157", "triples": []}
+{"id": "ont_16_city_test_158", "triples": []}
+{"id": "ont_16_city_test_159", "triples": [{"sub": "Oregon", "rel": "country", "obj": "United States"}]}
+{"id": "ont_16_city_test_160", "triples": [{"sub": "Oregon", "rel": "country", "obj": "United States"}]}
+{"id": "ont_16_city_test_161", "triples": [{"sub": "Austin", "rel": "leader", "obj": "City Manager"}]}
+{"id": "ont_16_city_test_162", "triples": []}
+{"id": "ont_16_city_test_163", "triples": []}
+{"id": "ont_16_city_test_164", "triples": []}
+{"id": "ont_16_city_test_165", "triples": [{"sub": "Akron", "rel": "country", "obj": "Ohio"}]}
+{"id": "ont_16_city_test_166", "triples": [{"sub": "United States", "rel": "language", "obj": "English language"}]}
+{"id": "ont_16_city_test_167", "triples": [{"sub": "Albuquerque", "rel": "isPartOf", "obj": "New Mexico, United States"}]}
+{"id": "ont_16_city_test_168", "triples": [{"sub": "Albuquerque", "rel": "country", "obj": "New Mexico"}]}
+{"id": "ont_16_city_test_169", "triples": []}
+{"id": "ont_16_city_test_170", "triples": []}
+{"id": "ont_16_city_test_171", "triples": [{"sub": "Albuquerque", "rel": "leader", "obj": "United States House of Representatives"}]}
+{"id": "ont_16_city_test_172", "triples": []}
+{"id": "ont_16_city_test_173", "triples": []}
+{"id": "ont_16_city_test_174", "triples": [{"sub": "United States", "rel": "demonym", "obj": "Americans"}]}
+{"id": "ont_16_city_test_175", "triples": [{"sub": "Albuquerque", "rel": "isPartOf", "obj": "New Mexico, United States"}]}
+{"id": "ont_16_city_test_176", "triples": []}
+{"id": "ont_16_city_test_177", "triples": []}
+{"id": "ont_16_city_test_178", "triples": [{"sub": "United States", "rel": "language", "obj": "English language"}]}
+{"id": "ont_16_city_test_179", "triples": [{"sub": "Albany", "rel": "(Note: The city of Albany is in the state of Oregon, but we don't have the state concept in the ontology, so we can't extract the isPartOf", "obj": "Oregon"}]}
+{"id": "ont_16_city_test_180", "triples": [{"sub": "Albany", "rel": "isPartOf", "obj": "Oregon, United States"}]}
+{"id": "ont_16_city_test_181", "triples": [{"sub": "Akron", "rel": "country", "obj": "Ohio"}]}
+{"id": "ont_16_city_test_182", "triples": [{"sub": "Angola", "rel": "isPartOf", "obj": "Indiana, United States"}]}
+{"id": "ont_16_city_test_183", "triples": [{"sub": "Albuquerque", "rel": "leader", "obj": "New Mexico, United States House of Representatives"}]}
+{"id": "ont_16_city_test_184", "triples": []}
+{"id": "ont_16_city_test_185", "triples": [{"sub": "Austin", "rel": "isPartOf", "obj": "Texas, Texas"}]}
+{"id": "ont_16_city_test_186", "triples": [{"sub": "Anaheim", "rel": "isPartOf", "obj": "California, California"}]}
+{"id": "ont_16_city_test_187", "triples": [{"sub": "subject", "rel": "(Note: The output is in the format: relation", "obj": "object, object_type"}]}
+{"id": "ont_16_city_test_188", "triples": [{"sub": "Abilene", "rel": "elevationAboveTheSeaLevel", "obj": "Texas, 524.0"}]}
+{"id": "ont_16_city_test_189", "triples": []}
+{"id": "ont_16_city_test_190", "triples": [{"sub": "Albany", "rel": "isPartOf", "obj": "Dougherty County, Georgia"}]}
+{"id": "ont_16_city_test_191", "triples": [{"sub": "Albany", "rel": "isPartOf", "obj": "Oregon, Linn County, Oregon"}]}
+{"id": "ont_16_city_test_192", "triples": [{"sub": "Albuquerque", "rel": "leader", "obj": "New Mexico, Don Tripp"}]}
+{"id": "ont_16_city_test_193", "triples": [{"sub": "Albuquerque", "rel": "leaderTitle", "obj": "Albuquerque City Council"}]}
+{"id": "ont_16_city_test_194", "triples": []}
+{"id": "ont_16_city_test_195", "triples": []}
+{"id": "ont_16_city_test_196", "triples": [{"sub": "subject", "rel": "(Note: The output is in the format: relation", "obj": "object, object_type"}]}
+{"id": "ont_16_city_test_197", "triples": [{"sub": "Amarillo", "rel": "ethnicGroup", "obj": "Native Americans"}]}
+{"id": "ont_16_city_test_198", "triples": [{"sub": "Orange County", "rel": "isPartOf", "obj": "California, Greater Los Angeles Area"}]}
+{"id": "ont_16_city_test_199", "triples": [{"sub": "subject", "rel": "(Note: The output is in the format: relation", "obj": "object, object2"}]}
+{"id": "ont_16_city_test_200", "triples": [{"sub": "Angola", "rel": "isPartOf", "obj": "Steuben County, Indiana"}]}
+{"id": "ont_16_city_test_201", "triples": [{"sub": "Atlanta", "rel": "areaOfLand", "obj": "347.1 (square kilometres"}]}
+{"id": "ont_16_city_test_202", "triples": []}
+{"id": "ont_16_city_test_203", "triples": []}
+{"id": "ont_16_city_test_204", "triples": [{"sub": "Auburn", "rel": "isPartOf", "obj": "Lee County, Alabama"}]}
+{"id": "ont_16_city_test_205", "triples": [{"sub": "Auburn", "rel": "isPartOf", "obj": "Washington, Washington State, Washington"}]}
+{"id": "ont_16_city_test_206", "triples": []}
+{"id": "ont_16_city_test_207", "triples": [{"sub": "Anderson", "rel": "isPartOf", "obj": "Indiana, Madison County"}]}
+{"id": "ont_16_city_test_208", "triples": [{"sub": "Alexandria", "rel": "(Note: The test output is not exhaustive, but it should include the following triples: isPartOf", "obj": "Indiana, Madison County, Indiana"}, {"sub": "Madison County", "rel": ", country", "obj": "Indiana, United States"}, {"sub": "Madison County", "rel": ", largestCity", "obj": "Anderson"}]}
+{"id": "ont_16_city_test_209", "triples": []}
+{"id": "ont_16_city_test_210", "triples": []}
+{"id": "ont_16_city_test_211", "triples": [{"sub": "Albany", "rel": "isPartOf", "obj": "Oregon, Oregon"}]}
+{"id": "ont_16_city_test_212", "triples": []}
+{"id": "ont_16_city_test_213", "triples": [{"sub": "Albuquerque", "rel": "isPartOf", "obj": "New Mexico, United States"}]}
+{"id": "ont_16_city_test_214", "triples": [{"sub": "United States", "rel": "ethnicGroup", "obj": "Asian Americans"}]}
+{"id": "ont_16_city_test_215", "triples": []}
+{"id": "ont_16_city_test_216", "triples": []}
+{"id": "ont_16_city_test_217", "triples": []}

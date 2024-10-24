@@ -1,0 +1,209 @@
+{"id": "ont_2_musicalwork_test_1", "triples": [{"sub": "California 37 (album)", "rel": "artist", "obj": "Train (American rock band"}]}
+{"id": "ont_2_musicalwork_test_2", "triples": []}
+{"id": "ont_2_musicalwork_test_3", "triples": []}
+{"id": "ont_2_musicalwork_test_4", "triples": [{"sub": "Live at Roadburn 2008 (Year of No Light album)", "rel": "followedBy", "obj": "Nord (Year of No Light album"}]}
+{"id": "ont_2_musicalwork_test_5", "triples": []}
+{"id": "ont_2_musicalwork_test_6", "triples": []}
+{"id": "ont_2_musicalwork_test_7", "triples": [{"sub": "Nord (album)", "rel": "musicalBand", "obj": "Year of No Light"}, {"sub": "Year of No Light", "rel": ", formerBandMember", "obj": "Monarch guitarist"}, {"sub": "Nord (album)", "rel": ", artist", "obj": "Monarch guitarist"}]}
+{"id": "ont_2_musicalwork_test_8", "triples": []}
+{"id": "ont_2_musicalwork_test_9", "triples": [{"sub": "Train", "rel": "followedBy", "obj": "Imagine"}, {"sub": "Imagine", "rel": ", artist", "obj": "John Lennon"}, {"sub": "Imagine", "rel": ", certification", "obj": "FIMI"}, {"sub": "Imagine", "rel": ", producer", "obj": "Espionage"}]}
+{"id": "ont_2_musicalwork_test_10", "triples": [{"sub": "Mermaid (song)", "rel": "artist", "obj": "Amund Bjorklund (Norwegian musician"}]}
+{"id": "ont_2_musicalwork_test_11", "triples": [{"sub": "subject", "rel": "(Note: The output is in the format: relation", "obj": "object"}]}
+{"id": "ont_2_musicalwork_test_12", "triples": []}
+{"id": "ont_2_musicalwork_test_13", "triples": []}
+{"id": "ont_2_musicalwork_test_14", "triples": [{"sub": "pop rock", "rel": "stylisticOrigin", "obj": "rock music"}]}
+{"id": "ont_2_musicalwork_test_15", "triples": []}
+{"id": "ont_2_musicalwork_test_16", "triples": [{"sub": "Mermaid", "rel": "(1) genre", "obj": "Reggae"}]}
+{"id": "ont_2_musicalwork_test_17", "triples": [{"sub": "Universal Music Group", "rel": "keyPerson", "obj": "Lucian Grainge"}]}
+{"id": "ont_2_musicalwork_test_18", "triples": [{"sub": "Honeymoon Killers", "rel": "genre", "obj": "noise rock"}]}
+{"id": "ont_2_musicalwork_test_19", "triples": []}
+{"id": "ont_2_musicalwork_test_20", "triples": [{"sub": "Live at Roadburn 2008", "rel": "followedBy", "obj": "Nord (2006-09-06"}]}
+{"id": "ont_2_musicalwork_test_21", "triples": []}
+{"id": "ont_2_musicalwork_test_22", "triples": [{"sub": "Mermaid", "rel": "producer", "obj": "Stargate"}]}
+{"id": "ont_2_musicalwork_test_23", "triples": [{"sub": "The Train song Mermaid", "rel": "runtime", "obj": "3.27"}]}
+{"id": "ont_2_musicalwork_test_24", "triples": [{"sub": "Mermaid", "rel": "artist", "obj": "Train"}]}
+{"id": "ont_2_musicalwork_test_25", "triples": []}
+{"id": "ont_2_musicalwork_test_26", "triples": [{"sub": "Mermaid (song)", "rel": "artist", "obj": "Train (band"}]}
+{"id": "ont_2_musicalwork_test_27", "triples": [{"sub": "Mermaid (song)", "rel": "followedBy", "obj": "Imagine (song"}]}
+{"id": "ont_2_musicalwork_test_28", "triples": [{"sub": "Mermaid (song)", "rel": "runtime", "obj": "3.16"}]}
+{"id": "ont_2_musicalwork_test_29", "triples": []}
+{"id": "ont_2_musicalwork_test_30", "triples": []}
+{"id": "ont_2_musicalwork_test_31", "triples": [{"sub": "Year of No Light album", "rel": "recordLabel", "obj": "E-Vinyl"}]}
+{"id": "ont_2_musicalwork_test_32", "triples": []}
+{"id": "ont_2_musicalwork_test_33", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "artist", "obj": "The Velvet Underground"}]}
+{"id": "ont_2_musicalwork_test_34", "triples": [{"sub": "Mermaid (song)", "rel": "releaseDate", "obj": "<some date>"}]}
+{"id": "ont_2_musicalwork_test_35", "triples": [{"sub": "Mermaid (song)", "rel": "runtime", "obj": "3.25"}]}
+{"id": "ont_2_musicalwork_test_36", "triples": []}
+{"id": "ont_2_musicalwork_test_37", "triples": [{"sub": "Bootleg Series Volume I: The Quine Tapes", "rel": "recordedIn", "obj": "San Francisco"}]}
+{"id": "ont_2_musicalwork_test_38", "triples": []}
+{"id": "ont_2_musicalwork_test_39", "triples": [{"sub": "Mermaid (song)", "rel": "runtime", "obj": "3.25"}]}
+{"id": "ont_2_musicalwork_test_40", "triples": [{"sub": "Mermaid (song)", "rel": "releaseDate", "obj": "2012-12-27"}]}
+{"id": "ont_2_musicalwork_test_41", "triples": [{"sub": "Imagine (John Lennon song)", "rel": "followedBy", "obj": "Mermaid (Train song"}]}
+{"id": "ont_2_musicalwork_test_42", "triples": [{"sub": "Mermaid (song)", "rel": "writer", "obj": "Espen Lind"}]}
+{"id": "ont_2_musicalwork_test_43", "triples": []}
+{"id": "ont_2_musicalwork_test_44", "triples": [{"sub": "Year of No Light", "rel": "artist", "obj": "Nord"}, {"sub": "Year of No Light", "rel": ", releaseDate", "obj": "Date"}, {"sub": "Year of No Light", "rel": ", distributingLabel", "obj": "Crucial Blast"}, {"sub": "Year of No Light", "rel": ", format", "obj": "E-Vinyl"}]}
+{"id": "ont_2_musicalwork_test_45", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "precededBy", "obj": "Squeeze"}]}
+{"id": "ont_2_musicalwork_test_46", "triples": []}
+{"id": "ont_2_musicalwork_test_47", "triples": [{"sub": "San Francisco", "rel": "leader", "obj": "Ed Lee (politician"}]}
+{"id": "ont_2_musicalwork_test_48", "triples": [{"sub": "Mermaid (song)", "rel": "runtime", "obj": "3.25"}]}
+{"id": "ont_2_musicalwork_test_49", "triples": [{"sub": "Mermaid (song)", "rel": "writer", "obj": "Pat Monahan and Train"}]}
+{"id": "ont_2_musicalwork_test_50", "triples": []}
+{"id": "ont_2_musicalwork_test_51", "triples": [{"sub": "Mermaid", "rel": "artist", "obj": "Train"}]}
+{"id": "ont_2_musicalwork_test_52", "triples": [{"sub": "Nord (Year of No Light album)", "rel": "1. followedBy", "obj": "Year of No Light"}]}
+{"id": "ont_2_musicalwork_test_53", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "precededBy", "obj": "Squeeze"}]}
+{"id": "ont_2_musicalwork_test_54", "triples": [{"sub": "Bootleg Series Volume I: The Quine Tapes", "rel": "genre", "obj": "Rock music"}, {"sub": "Bootleg Series Volume I: The Quine Tapes", "rel": ", musicSubgenre", "obj": "Proto-punk"}]}
+{"id": "ont_2_musicalwork_test_55", "triples": [{"sub": "Proto-punk", "rel": "musicSubgenre", "obj": "Rock music"}]}
+{"id": "ont_2_musicalwork_test_56", "triples": []}
+{"id": "ont_2_musicalwork_test_57", "triples": [{"sub": "California 37 (album)", "rel": "artist", "obj": "Train (American rock band"}]}
+{"id": "ont_2_musicalwork_test_58", "triples": [{"sub": "Mermaid (song)", "rel": "precededBy", "obj": "This'll be my year (song"}]}
+{"id": "ont_2_musicalwork_test_59", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "recordedIn", "obj": "San Francisco"}]}
+{"id": "ont_2_musicalwork_test_60", "triples": []}
+{"id": "ont_2_musicalwork_test_61", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "artist", "obj": "The Velvet Underground"}]}
+{"id": "ont_2_musicalwork_test_62", "triples": []}
+{"id": "ont_2_musicalwork_test_63", "triples": []}
+{"id": "ont_2_musicalwork_test_64", "triples": [{"sub": "Nord (Year of No Light album)", "rel": "producer", "obj": "Year of No Light"}, {"sub": "Nord (Year of No Light album)", "rel": ", releaseDate", "obj": "\"2006-06-09\""}, {"sub": "Nord (Year of No Light album)", "rel": ", genre", "obj": "sludge metal"}, {"sub": "Nord (Year of No Light album)", "rel": ", followedBy", "obj": "Live at Roadburn 2008"}]}
+{"id": "ont_2_musicalwork_test_65", "triples": [{"sub": "Year of No Light album", "rel": "1. recordLabel", "obj": "Crucial Blast"}]}
+{"id": "ont_2_musicalwork_test_66", "triples": [{"sub": "\"Imagine\"", "rel": "artist", "obj": "John Lennon"}]}
+{"id": "ont_2_musicalwork_test_67", "triples": [{"sub": "San Francisco", "rel": "utcOffset", "obj": "-7"}]}
+{"id": "ont_2_musicalwork_test_68", "triples": [{"sub": "The Bootleg Series Volume I: The Quine Tapes", "rel": "releaseDate", "obj": "2001-10-16"}]}
+{"id": "ont_2_musicalwork_test_69", "triples": []}
+{"id": "ont_2_musicalwork_test_70", "triples": [{"sub": "Mermaid (song)", "rel": "artist", "obj": "Train (American rock band"}]}
+{"id": "ont_2_musicalwork_test_71", "triples": []}
+{"id": "ont_2_musicalwork_test_72", "triples": []}
+{"id": "ont_2_musicalwork_test_73", "triples": [{"sub": "Nord (album)", "rel": "genre", "obj": "post metal"}, {"sub": "Nord (album)", "rel": ", recordLabel", "obj": "Crucial blast"}, {"sub": "Nord (album)", "rel": ", artist", "obj": "Year of No Light"}]}
+{"id": "ont_2_musicalwork_test_74", "triples": []}
+{"id": "ont_2_musicalwork_test_75", "triples": []}
+{"id": "ont_2_musicalwork_test_76", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "recordLabel", "obj": "Polydor Records"}]}
+{"id": "ont_2_musicalwork_test_77", "triples": []}
+{"id": "ont_2_musicalwork_test_78", "triples": [{"sub": "The Mermaid song", "rel": "artist", "obj": "Train"}]}
+{"id": "ont_2_musicalwork_test_79", "triples": []}
+{"id": "ont_2_musicalwork_test_80", "triples": [{"sub": "Polydor Records", "rel": "distributingLabel", "obj": "Interscope Geffen A&M"}]}
+{"id": "ont_2_musicalwork_test_81", "triples": []}
+{"id": "ont_2_musicalwork_test_82", "triples": []}
+{"id": "ont_2_musicalwork_test_83", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "producer", "obj": "The Velvet Underground"}]}
+{"id": "ont_2_musicalwork_test_84", "triples": [{"sub": "Turn Me On (album)", "rel": "producer", "obj": "Wharton Tiers"}]}
+{"id": "ont_2_musicalwork_test_85", "triples": [{"sub": "Turn Me On (album)", "rel": "genre", "obj": "Punk blues"}, {"sub": "Turn Me On (album)", "rel": ", genre", "obj": "Noise rock"}]}
+{"id": "ont_2_musicalwork_test_86", "triples": []}
+{"id": "ont_2_musicalwork_test_87", "triples": [{"sub": "Sludge metal", "rel": "musicSubgenre", "obj": "Stoner sludge"}]}
+{"id": "ont_2_musicalwork_test_88", "triples": [{"sub": "Mermaid (song)", "rel": "writer", "obj": "Espen Lind and Stargate"}]}
+{"id": "ont_2_musicalwork_test_89", "triples": []}
+{"id": "ont_2_musicalwork_test_90", "triples": [{"sub": "Mermaid", "rel": "artist", "obj": "Train"}]}
+{"id": "ont_2_musicalwork_test_91", "triples": [{"sub": "Mermaid", "rel": "writer", "obj": "Train"}]}
+{"id": "ont_2_musicalwork_test_92", "triples": [{"sub": "Imagine (The song)", "rel": "album", "obj": "Imagine (The album"}, {"sub": "Imagine (The song)", "rel": "), artist", "obj": "John Lennon"}]}
+{"id": "ont_2_musicalwork_test_93", "triples": [{"sub": "Turn Me On (album)", "rel": "producer", "obj": "The Honeymoon Killers (American band"}]}
+{"id": "ont_2_musicalwork_test_94", "triples": [{"sub": "Mermaid (The Train song)", "rel": "genre", "obj": "Pop rock"}, {"sub": "Imagine (John Lennon album)", "rel": ", precededBy", "obj": "Mermaid (The Train song"}, {"sub": "Happy Xmas (War Is Over)", "rel": "), precededBy", "obj": "Mermaid (The Train song"}]}
+{"id": "ont_2_musicalwork_test_95", "triples": [{"sub": "Turn Me On (album)", "rel": "producer", "obj": "Wharton Tiers"}]}
+{"id": "ont_2_musicalwork_test_96", "triples": [{"sub": "Pop rock", "rel": "musicSubgenre", "obj": "Indie pop"}]}
+{"id": "ont_2_musicalwork_test_97", "triples": []}
+{"id": "ont_2_musicalwork_test_98", "triples": [{"sub": "Train", "rel": "genre", "obj": "Pop rock"}]}
+{"id": "ont_2_musicalwork_test_99", "triples": []}
+{"id": "ont_2_musicalwork_test_100", "triples": [{"sub": "Turn Me On", "rel": "genre", "obj": "Punk blues"}]}
+{"id": "ont_2_musicalwork_test_101", "triples": [{"sub": "The Bootleg Series Volume I: The Quine Tapes", "rel": "artist", "obj": "The Velvet Underground"}]}
+{"id": "ont_2_musicalwork_test_102", "triples": [{"sub": "Nord (Year of No Light album)", "rel": "releaseDate", "obj": "\"2006-09-06\""}, {"sub": "Nord (Year of No Light album)", "rel": ", artist", "obj": "Year of No Light"}, {"sub": "Nord (Year of No Light album)", "rel": ", genre", "obj": "post metal"}]}
+{"id": "ont_2_musicalwork_test_103", "triples": [{"sub": "Turn Me On (album)", "rel": "genre", "obj": "Noise rock"}]}
+{"id": "ont_2_musicalwork_test_104", "triples": []}
+{"id": "ont_2_musicalwork_test_105", "triples": [{"sub": "The Train (song)", "rel": "producer", "obj": "Espionage (production team"}]}
+{"id": "ont_2_musicalwork_test_106", "triples": [{"sub": "Reggae", "rel": "stylisticOrigin", "obj": "Rhythm and blues"}]}
+{"id": "ont_2_musicalwork_test_107", "triples": [{"sub": "The Mermaid (song)", "rel": "runtime", "obj": "3.25"}]}
+{"id": "ont_2_musicalwork_test_108", "triples": []}
+{"id": "ont_2_musicalwork_test_109", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "artist", "obj": "The Velvet Underground"}]}
+{"id": "ont_2_musicalwork_test_110", "triples": [{"sub": "Mermaid", "rel": "artist", "obj": "Train"}, {"sub": "Mermaid", "rel": ", type", "obj": "Pop rock music"}, {"sub": "Mermaid", "rel": ", recordLabel", "obj": "Columbia Records"}, {"sub": "Mermaid", "rel": ", releaseDate", "obj": "some date"}]}
+{"id": "ont_2_musicalwork_test_111", "triples": [{"sub": "Johnny Colt", "rel": "formerBandMember", "obj": "Train"}, {"sub": "Charlie Colin", "rel": ", formerBandMember", "obj": "Train"}, {"sub": "Train", "rel": ", musicalBand", "obj": "Band"}, {"sub": "Mermaid", "rel": ", album", "obj": "Album"}]}
+{"id": "ont_2_musicalwork_test_112", "triples": [{"sub": "Nord (Album)", "rel": "associatedBand", "obj": "Year of No Light"}, {"sub": "Nord (Album)", "rel": ", producer", "obj": "Altar of Plagues"}]}
+{"id": "ont_2_musicalwork_test_113", "triples": [{"sub": "Reggae", "rel": "derivative", "obj": "Hip hop music"}]}
+{"id": "ont_2_musicalwork_test_114", "triples": [{"sub": "Turn Me On (album)", "rel": "genre", "obj": "Noise rock"}]}
+{"id": "ont_2_musicalwork_test_115", "triples": []}
+{"id": "ont_2_musicalwork_test_116", "triples": [{"sub": "Turn Me On (album)", "rel": "runtime", "obj": "?"}]}
+{"id": "ont_2_musicalwork_test_117", "triples": []}
+{"id": "ont_2_musicalwork_test_118", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "recordedIn", "obj": "St. Louis, Missouri"}]}
+{"id": "ont_2_musicalwork_test_119", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "recordedIn", "obj": "St. Louis, Missouri"}]}
+{"id": "ont_2_musicalwork_test_120", "triples": [{"sub": "Train", "rel": "artist", "obj": "Train"}]}
+{"id": "ont_2_musicalwork_test_121", "triples": [{"sub": "Imagine (The John Lennon song)", "rel": "genre", "obj": "Pop music"}]}
+{"id": "ont_2_musicalwork_test_122", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "artist", "obj": "The Velvet Underground"}]}
+{"id": "ont_2_musicalwork_test_123", "triples": [{"sub": "object1", "rel": "(Note: The output is in the format: relation", "obj": "object2"}]}
+{"id": "ont_2_musicalwork_test_124", "triples": [{"sub": "Mermaid", "rel": "genre", "obj": "Reggae music"}, {"sub": "Mermaid", "rel": ", genre", "obj": "Pop rock"}]}
+{"id": "ont_2_musicalwork_test_125", "triples": [{"sub": "Turn Me On (album)", "rel": "runtime", "obj": "35.1"}]}
+{"id": "ont_2_musicalwork_test_126", "triples": []}
+{"id": "ont_2_musicalwork_test_127", "triples": [{"sub": "Imagine", "rel": "certification", "obj": "FIMI"}]}
+{"id": "ont_2_musicalwork_test_128", "triples": [{"sub": "The Velvet Underground", "rel": "formerBandMember", "obj": "Lou Reed"}]}
+{"id": "ont_2_musicalwork_test_129", "triples": []}
+{"id": "ont_2_musicalwork_test_130", "triples": [{"sub": "Mermaid", "rel": "writer", "obj": "Amund Bjorklund"}]}
+{"id": "ont_2_musicalwork_test_131", "triples": [{"sub": "Turn Me On (album)", "rel": "producer", "obj": "the Honeymoon Killers (American band"}]}
+{"id": "ont_2_musicalwork_test_132", "triples": []}
+{"id": "ont_2_musicalwork_test_133", "triples": [{"sub": "Demo 2004", "rel": "precededBy", "obj": "Year of No Light album Nord"}, {"sub": "Year of No Light album Nord", "rel": ", runtime", "obj": "58.41"}]}
+{"id": "ont_2_musicalwork_test_134", "triples": [{"sub": "Nord (Year of No Light album)", "rel": "releaseDate", "obj": "\"2006-09-06\""}]}
+{"id": "ont_2_musicalwork_test_135", "triples": [{"sub": "Mermaid", "rel": "artist", "obj": "Train"}]}
+{"id": "ont_2_musicalwork_test_136", "triples": [{"sub": "Mermaid (song)", "rel": "producer", "obj": "Espionage production team"}]}
+{"id": "ont_2_musicalwork_test_137", "triples": [{"sub": "California 37 (album)", "rel": "artist", "obj": "Train (band"}]}
+{"id": "ont_2_musicalwork_test_138", "triples": [{"sub": "Noise rock", "rel": "musicType", "obj": "rock"}]}
+{"id": "ont_2_musicalwork_test_139", "triples": [{"sub": "Nord (Year of No Light album)", "rel": "followedBy", "obj": "Live at Roadburn 2008"}]}
+{"id": "ont_2_musicalwork_test_140", "triples": []}
+{"id": "ont_2_musicalwork_test_141", "triples": [{"sub": "Turn Me On (album)", "rel": "genre", "obj": "Punk blues"}, {"sub": "Turn Me On (album)", "rel": ", stylisticOrigin", "obj": "Garage rock"}]}
+{"id": "ont_2_musicalwork_test_142", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "precededBy", "obj": "Squeeze"}]}
+{"id": "ont_2_musicalwork_test_143", "triples": [{"sub": "Imagine", "rel": "writer", "obj": "John Lennon"}, {"sub": "Power to the People", "rel": ", precededBy", "obj": "Imagine"}]}
+{"id": "ont_2_musicalwork_test_144", "triples": []}
+{"id": "ont_2_musicalwork_test_145", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "recordLabel", "obj": "Polydor Records"}]}
+{"id": "ont_2_musicalwork_test_146", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "recordedIn", "obj": "St. Louis, Missouri"}]}
+{"id": "ont_2_musicalwork_test_147", "triples": [{"sub": "Mermaid", "rel": "writer", "obj": "Pat Monahan"}]}
+{"id": "ont_2_musicalwork_test_148", "triples": []}
+{"id": "ont_2_musicalwork_test_149", "triples": [{"sub": "Pop rock", "rel": "musicFusionGenre", "obj": "Baroque pop"}]}
+{"id": "ont_2_musicalwork_test_150", "triples": []}
+{"id": "ont_2_musicalwork_test_151", "triples": [{"sub": "Turn Me On (album)", "rel": "artist", "obj": "The Honeymoon Killers (American band"}]}
+{"id": "ont_2_musicalwork_test_152", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "recordedIn", "obj": "United States"}]}
+{"id": "ont_2_musicalwork_test_153", "triples": [{"sub": "Year of No Light", "rel": "associatedBand", "obj": "Monarch"}]}
+{"id": "ont_2_musicalwork_test_154", "triples": [{"sub": "Imagine (song)", "rel": "producer", "obj": "John Lennon"}]}
+{"id": "ont_2_musicalwork_test_155", "triples": [{"sub": "Punk blues", "rel": "stylisticOrigin", "obj": "Earlier garage rock sound"}]}
+{"id": "ont_2_musicalwork_test_156", "triples": [{"sub": "Nord (album)", "rel": "genre", "obj": "post metal"}, {"sub": "Nord (album)", "rel": ", artist", "obj": "Year of No Light"}]}
+{"id": "ont_2_musicalwork_test_157", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "precededBy", "obj": "Squeeze"}]}
+{"id": "ont_2_musicalwork_test_158", "triples": [{"sub": "Year of No Light (Album)", "rel": "releaseDate", "obj": "\"2006-06-09\""}, {"sub": "Year of No Light (Album)", "rel": ", artist", "obj": "Nord (Band"}, {"sub": "Year of No Light (Album)", "rel": "), type", "obj": "Sludge metal and post metal"}]}
+{"id": "ont_2_musicalwork_test_159", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "precededBy", "obj": "Squeeze"}]}
+{"id": "ont_2_musicalwork_test_160", "triples": [{"sub": "San Francisco", "rel": "areaCode", "obj": "\"628\""}]}
+{"id": "ont_2_musicalwork_test_161", "triples": []}
+{"id": "ont_2_musicalwork_test_162", "triples": [{"sub": "Take It Off (album)", "rel": "followedBy", "obj": "Turn Me On (album"}]}
+{"id": "ont_2_musicalwork_test_163", "triples": [{"sub": "Year of No Light", "rel": "album", "obj": "Nord"}, {"sub": "Nord", "rel": ", recordLabel", "obj": "Crucial blast"}]}
+{"id": "ont_2_musicalwork_test_164", "triples": [{"sub": "Imagine", "rel": "producer", "obj": "Phil Spector"}]}
+{"id": "ont_2_musicalwork_test_165", "triples": []}
+{"id": "ont_2_musicalwork_test_166", "triples": [{"sub": "Imagine", "rel": "followedBy", "obj": "Train"}]}
+{"id": "ont_2_musicalwork_test_167", "triples": []}
+{"id": "ont_2_musicalwork_test_168", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "releaseDate", "obj": "2001-10-16"}]}
+{"id": "ont_2_musicalwork_test_169", "triples": [{"sub": "Mermaid (song)", "rel": "releaseDate", "obj": "unknown"}]}
+{"id": "ont_2_musicalwork_test_170", "triples": [{"sub": "Nord", "rel": "album", "obj": "Nord album"}, {"sub": "Nord", "rel": ", type", "obj": "post metal"}, {"sub": "Nord", "rel": ", artist", "obj": "Year of No Light"}, {"sub": "Nord", "rel": ", recordLabel", "obj": "Crucial Blast"}, {"sub": "Nord", "rel": ", releaseDate", "obj": "some date"}]}
+{"id": "ont_2_musicalwork_test_171", "triples": [{"sub": "Turn Me On (album)", "rel": "runtime", "obj": "35.1"}]}
+{"id": "ont_2_musicalwork_test_172", "triples": [{"sub": "Turn Me On (album)", "rel": "genre", "obj": "Punk blues"}]}
+{"id": "ont_2_musicalwork_test_173", "triples": [{"sub": "The Bootleg Series Volume I: The Quine Tapes", "rel": "releaseDate", "obj": "some date"}, {"sub": "The Bootleg Series Volume I: The Quine Tapes", "rel": ", recordLabel", "obj": "Polydor Records"}, {"sub": "The Bootleg Series Volume I: The Quine Tapes", "rel": ", genre", "obj": "Rock music"}]}
+{"id": "ont_2_musicalwork_test_174", "triples": []}
+{"id": "ont_2_musicalwork_test_175", "triples": [{"sub": "subject", "rel": "(Note: The output is in the format: relation", "obj": "object"}]}
+{"id": "ont_2_musicalwork_test_176", "triples": [{"sub": "Mermaid (song)", "rel": "writer", "obj": "Espen Lind"}]}
+{"id": "ont_2_musicalwork_test_177", "triples": []}
+{"id": "ont_2_musicalwork_test_178", "triples": []}
+{"id": "ont_2_musicalwork_test_179", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "recordedIn", "obj": "United States"}]}
+{"id": "ont_2_musicalwork_test_180", "triples": [{"sub": "Mermaid (song)", "rel": "followedBy", "obj": "Imagine (song"}, {"sub": "Mermaid (song)", "rel": "), album", "obj": "California 37 (album"}, {"sub": "Imagine (song)", "rel": "), album", "obj": "Imagine (album"}]}
+{"id": "ont_2_musicalwork_test_181", "triples": []}
+{"id": "ont_2_musicalwork_test_182", "triples": [{"sub": "Bootleg Series Volume I: The Quine Tapes", "rel": "(Note: The album is owned by the label Universal Music Group, so we have parentCompany", "obj": "Universal Music Group"}, {"sub": "Bootleg Series Volume I: The Quine Tapes", "rel": " instead of owner", "obj": "Universal Music Group"}]}
+{"id": "ont_2_musicalwork_test_183", "triples": [{"sub": "California 37 (album)", "rel": "artist", "obj": "Train (American band"}]}
+{"id": "ont_2_musicalwork_test_184", "triples": [{"sub": "Squeeze (The Velvet Underground album)", "rel": "producer", "obj": "The Velvet Underground"}]}
+{"id": "ont_2_musicalwork_test_185", "triples": [{"sub": "The Quine Tapes", "rel": "genre", "obj": "Rock music"}]}
+{"id": "ont_2_musicalwork_test_186", "triples": []}
+{"id": "ont_2_musicalwork_test_187", "triples": []}
+{"id": "ont_2_musicalwork_test_188", "triples": [{"sub": "Live at Roadburn 2008 (Year of No Light album)", "rel": "producer", "obj": "Roadburn Festival"}]}
+{"id": "ont_2_musicalwork_test_189", "triples": [{"sub": "Train", "rel": "followedBy", "obj": "Imagine (song by John Lennon"}]}
+{"id": "ont_2_musicalwork_test_190", "triples": [{"sub": "The United States", "rel": "areaTotal", "obj": "9800000"}]}
+{"id": "ont_2_musicalwork_test_191", "triples": []}
+{"id": "ont_2_musicalwork_test_192", "triples": [{"sub": "Turn Me On (album)", "rel": "runtime", "obj": "35.1"}]}
+{"id": "ont_2_musicalwork_test_193", "triples": []}
+{"id": "ont_2_musicalwork_test_194", "triples": [{"sub": "Mermaid", "rel": "writer", "obj": "Train"}]}
+{"id": "ont_2_musicalwork_test_195", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "precededBy", "obj": "Squeeze"}]}
+{"id": "ont_2_musicalwork_test_196", "triples": []}
+{"id": "ont_2_musicalwork_test_197", "triples": []}
+{"id": "ont_2_musicalwork_test_198", "triples": [{"sub": "Train", "rel": "formerBandMember", "obj": "Charlie Colin"}]}
+{"id": "ont_2_musicalwork_test_199", "triples": [{"sub": "Mermaid", "rel": "runtime", "obj": "3.28"}]}
+{"id": "ont_2_musicalwork_test_200", "triples": [{"sub": "object", "rel": "(Note: The output is in the format: relation", "obj": "value"}]}
+{"id": "ont_2_musicalwork_test_201", "triples": [{"sub": "Mermaid", "rel": "writer", "obj": "The Band Train"}]}
+{"id": "ont_2_musicalwork_test_202", "triples": [{"sub": "Demo 2004 album", "rel": "precededBy", "obj": "Nord album"}]}
+{"id": "ont_2_musicalwork_test_203", "triples": [{"sub": "Mermaid (song)", "rel": "releaseDate", "obj": "\"2012-12-27\""}]}
+{"id": "ont_2_musicalwork_test_204", "triples": [{"sub": "Nord (Year of No Light album)", "rel": "artist", "obj": "Year of No Light"}, {"sub": "Nord (Year of No Light album)", "rel": ", releaseDate", "obj": "Date"}, {"sub": "Nord (Year of No Light album)", "rel": ", distributingLabel", "obj": "Crucial blast"}, {"sub": "Nord (Year of No Light album)", "rel": ", format", "obj": "E-Vinyl"}]}
+{"id": "ont_2_musicalwork_test_205", "triples": [{"sub": "Altar of Plagues", "rel": "associatedMusicalArtist", "obj": "Year of No Light"}]}
+{"id": "ont_2_musicalwork_test_206", "triples": [{"sub": "Bootleg Series Volume 1: The Quine Tapes", "rel": "artist", "obj": "The Velvet Underground"}]}
+{"id": "ont_2_musicalwork_test_207", "triples": [{"sub": "Turn Me On (album)", "rel": "genre", "obj": "Punk blues"}]}
+{"id": "ont_2_musicalwork_test_208", "triples": [{"sub": "Mermaid (song)", "rel": "runtime", "obj": "3.26"}]}
+{"id": "ont_2_musicalwork_test_209", "triples": [{"sub": "Turn Me On (album)", "rel": "artist", "obj": "The Honeymoon Killers (American band"}]}
