@@ -1,4 +1,4 @@
-# Text to RDF Triple Generator along with Knowledge grapgh with LLM model
+# Text to RDF Triple Generator along with Knowledge graph with LLM model
 
 This project provides an interactive UI for generating RDF triples from text files using large language models, specifically Llama 3 and Mistral, and visualizing the results as a knowledge graph. Built using Gradio, this application allows users to upload a text file, select a model, and generate entity-relationship triples automatically.
 
