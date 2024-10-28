@@ -1,0 +1,487 @@
+{"id": "ont_3_sport_test_1", "triples": [{"sub": "LaShawn Merritt", "rel": "occupation", "obj": "track and field athlete"}]}
+{"id": "ont_3_sport_test_2", "triples": [{"sub": "Greg Rutherford", "rel": "occupation", "obj": "long jump athlete"}]}
+{"id": "ont_3_sport_test_3", "triples": [{"sub": "Terrence Alexander Jones", "rel": "league", "obj": "Philippine Basketball Association"}]}
+{"id": "ont_3_sport_test_4", "triples": [{"sub": "Abel Kirui", "rel": "occupation", "obj": "long-distance runner"}, {"sub": "Abel Kirui", "rel": ", country_for_sport", "obj": "Kenya"}]}
+{"id": "ont_3_sport_test_5", "triples": [{"sub": "Jared Tallent OAM", "rel": "occupation", "obj": "racewalker"}]}
+{"id": "ont_3_sport_test_6", "triples": [{"sub": "Veli Paloheimo", "rel": "occupation", "obj": "tennis player"}]}
+{"id": "ont_3_sport_test_7", "triples": [{"sub": "Coleman Alexander Collins", "rel": "league", "obj": "LNB Pro A"}]}
+{"id": "ont_3_sport_test_8", "triples": [{"sub": "Lashinda Demus", "rel": "occupation", "obj": "hurdler"}]}
+{"id": "ont_3_sport_test_9", "triples": [{"sub": "James Edward \"Trey\" Hardee III", "rel": "occupation", "obj": "track and field athlete"}]}
+{"id": "ont_3_sport_test_10", "triples": [{"sub": "Mark Rocco", "rel": "1. occupation", "obj": "professional wrestler"}]}
+{"id": "ont_3_sport_test_11", "triples": [{"sub": "Dwayne Johnson", "rel": "occupation", "obj": "professional wrestler"}]}
+{"id": "ont_3_sport_test_12", "triples": [{"sub": "Sara Goller", "rel": "occupation", "obj": "beach volleyball player"}]}
+{"id": "ont_3_sport_test_13", "triples": [{"sub": "Patricio Albacete", "rel": "1. occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_14", "triples": [{"sub": "Gabrielle Nicole Logan MBE", "rel": "1. occupation", "obj": "presenter"}]}
+{"id": "ont_3_sport_test_15", "triples": [{"sub": "Stephen Kiprotich", "rel": "occupation", "obj": "long-distance runner"}]}
+{"id": "ont_3_sport_test_16", "triples": [{"sub": "Magdalena Mroczkiewicz", "rel": "occupation", "obj": "fencer"}, {"sub": "Magdalena Mroczkiewicz", "rel": ", country_for_sport", "obj": "Poland"}]}
+{"id": "ont_3_sport_test_17", "triples": [{"sub": "Björn Otto", "rel": "occupation", "obj": "pole vaulter"}]}
+{"id": "ont_3_sport_test_18", "triples": [{"sub": "Mick Foley", "rel": "occupation", "obj": "professional wrestler"}]}
+{"id": "ont_3_sport_test_19", "triples": [{"sub": "Kobe Bryant", "rel": "occupation", "obj": "basketball player"}]}
+{"id": "ont_3_sport_test_20", "triples": [{"sub": "Walter Dix", "rel": "occupation", "obj": "sprinter"}]}
+{"id": "ont_3_sport_test_21", "triples": [{"sub": "Larisa Semyonovna Latynina", "rel": "occupation", "obj": "artistic gymnast"}]}
+{"id": "ont_3_sport_test_22", "triples": [{"sub": "Sandro Cuomo", "rel": "occupation", "obj": "fencer"}, {"sub": "Sandro Cuomo", "rel": ", country_for_sport", "obj": "Italy"}]}
+{"id": "ont_3_sport_test_23", "triples": [{"sub": "Laura Unsworth", "rel": "1. occupation", "obj": "field hockey player"}]}
+{"id": "ont_3_sport_test_24", "triples": [{"sub": "Lalonde Gordon", "rel": "occupation", "obj": "track and field sprinter"}]}
+{"id": "ont_3_sport_test_25", "triples": [{"sub": "Anna Chicherova", "rel": "occupation", "obj": "high jumper"}]}
+{"id": "ont_3_sport_test_26", "triples": [{"sub": "Michael Hoffa", "rel": "occupation", "obj": "shot putter"}]}
+{"id": "ont_3_sport_test_27", "triples": [{"sub": "Piotr Zaradny", "rel": "occupation", "obj": "sport cyclist"}]}
+{"id": "ont_3_sport_test_28", "triples": [{"sub": "Lewis Hamilton", "rel": "occupation", "obj": "racing automobile driver"}]}
+{"id": "ont_3_sport_test_29", "triples": [{"sub": "Kenneth King Him To", "rel": "1. occupation", "obj": "swimmer"}]}
+{"id": "ont_3_sport_test_30", "triples": [{"sub": "1991", "rel": "1. sports_season_of_league_or_competition", "obj": "University of Miami"}]}
+{"id": "ont_3_sport_test_31", "triples": [{"sub": "Tiger Woods", "rel": "league", "obj": "golf"}]}
+{"id": "ont_3_sport_test_32", "triples": [{"sub": "Lauri Asikainen", "rel": "1. occupation", "obj": "ski jumper"}]}
+{"id": "ont_3_sport_test_33", "triples": [{"sub": "Alex Danson", "rel": "occupation", "obj": "field hockey player"}]}
+{"id": "ont_3_sport_test_34", "triples": [{"sub": "Valeriy Viktorovich Borchin", "rel": "occupation", "obj": "racewalker"}]}
+{"id": "ont_3_sport_test_35", "triples": [{"sub": "Anja Huber", "rel": "occupation", "obj": "skeleton racer"}]}
+{"id": "ont_3_sport_test_36", "triples": [{"sub": "Will Claye", "rel": "1. occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_37", "triples": [{"sub": "Warren Weir", "rel": "occupation", "obj": "sprinter"}, {"sub": "Warren Weir", "rel": ", country_for_sport", "obj": "Jamaica"}, {"sub": "Warren Weir", "rel": ", sports_discipline", "obj": "200 metres"}]}
+{"id": "ont_3_sport_test_38", "triples": [{"sub": "Valerie Adams", "rel": "occupation", "obj": "shot putter"}]}
+{"id": "ont_3_sport_test_39", "triples": [{"sub": "Koji Alexander Murofushi", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_40", "triples": [{"sub": "Aleksandr Berkutov", "rel": "1. occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_41", "triples": [{"sub": "Karina Borisovna Aznavourian", "rel": "1. country_for_sport", "obj": "Russia"}]}
+{"id": "ont_3_sport_test_42", "triples": [{"sub": "Yaroslav Vladimirovich Rybakov", "rel": "country_for_sport", "obj": "Belarus"}]}
+{"id": "ont_3_sport_test_43", "triples": [{"sub": "Uilke Vuurman", "rel": "occupation", "obj": "sport shooter"}]}
+{"id": "ont_3_sport_test_44", "triples": [{"sub": "Francesco \"Franco\" Arese", "rel": "occupation", "obj": "middle-distance runner"}]}
+{"id": "ont_3_sport_test_45", "triples": [{"sub": "Maria Walliser", "rel": "occupation", "obj": "alpine skier"}]}
+{"id": "ont_3_sport_test_46", "triples": [{"sub": "Darya Pishchalnikova", "rel": "occupation", "obj": "discus thrower"}]}
+{"id": "ont_3_sport_test_47", "triples": [{"sub": "Massimo Magnani", "rel": "occupation", "obj": "marathon runner"}]}
+{"id": "ont_3_sport_test_48", "triples": [{"sub": "Suzann Pettersen", "rel": "occupation", "obj": "golfer"}]}
+{"id": "ont_3_sport_test_49", "triples": [{"sub": "Matthew Morgan", "rel": "occupation", "obj": "basketball player"}, {"sub": "Matthew Morgan", "rel": ", occupation", "obj": "professional wrestler"}]}
+{"id": "ont_3_sport_test_50", "triples": [{"sub": "Brigetta Barrett", "rel": "occupation", "obj": "high jumper"}]}
+{"id": "ont_3_sport_test_51", "triples": [{"sub": "Chris Hooijkaas", "rel": "occupation", "obj": "sailor"}]}
+{"id": "ont_3_sport_test_52", "triples": [{"sub": "Assunta Legnante", "rel": "occupation", "obj": "shot putter"}]}
+{"id": "ont_3_sport_test_53", "triples": [{"sub": "Kim Tiilikainen", "rel": "1. occupation", "obj": "tennis player"}]}
+{"id": "ont_3_sport_test_54", "triples": [{"sub": "Ella Leivo", "rel": "occupation", "obj": "tennis player"}]}
+{"id": "ont_3_sport_test_55", "triples": [{"sub": "Jenson Button", "rel": "occupation", "obj": "sportsperson"}]}
+{"id": "ont_3_sport_test_56", "triples": [{"sub": "Yarisley Silva Rodriguez", "rel": "occupation", "obj": "pole vaulter"}]}
+{"id": "ont_3_sport_test_57", "triples": [{"sub": "Mokgadi Caster Semenya", "rel": "occupation", "obj": "middle-distance runner"}]}
+{"id": "ont_3_sport_test_58", "triples": [{"sub": "Janne Henrik Väätäinen", "rel": "1. occupation", "obj": "ski jumper"}]}
+{"id": "ont_3_sport_test_59", "triples": [{"sub": "Fernando Alonso", "rel": "occupation", "obj": "racing automobile driver"}]}
+{"id": "ont_3_sport_test_60", "triples": [{"sub": "James Frederick DeGale", "rel": "occupation", "obj": "boxer"}]}
+{"id": "ont_3_sport_test_61", "triples": [{"sub": "2012 European championships international draughts", "rel": "1. sport", "obj": "draughts"}]}
+{"id": "ont_3_sport_test_62", "triples": [{"sub": "2011 Autumn International Series", "rel": "sport", "obj": "rugby union"}]}
+{"id": "ont_3_sport_test_63", "triples": [{"sub": "1949 Eastern Suburbs season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_64", "triples": [{"sub": "The International 2019", "rel": "1. competition_class", "obj": "esports tournament"}]}
+{"id": "ont_3_sport_test_65", "triples": []}
+{"id": "ont_3_sport_test_66", "triples": [{"sub": "2010 Alitalia European Cup", "rel": "sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_67", "triples": [{"sub": "The International 2018", "rel": "sport", "obj": "Dota 2"}]}
+{"id": "ont_3_sport_test_68", "triples": [{"sub": "1941 New Zealand rugby league season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_69", "triples": [{"sub": "Rugby League World Cup tournament", "rel": "sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_70", "triples": [{"sub": "The final of the Challenge Cup", "rel": "1. home_venue", "obj": "Wembley Stadium, London"}]}
+{"id": "ont_3_sport_test_71", "triples": [{"sub": "2011 Legends of Origin charity match", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_72", "triples": [{"sub": "2016 Mr. Olympia", "rel": "1. sport", "obj": "bodybuilding"}]}
+{"id": "ont_3_sport_test_73", "triples": [{"sub": "1944 New Zealand rugby league season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_74", "triples": [{"sub": "2006 Rugby League Tri-Nations", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_75", "triples": [{"sub": "Carl Hamppe", "rel": "1. occupation", "obj": "chess player"}]}
+{"id": "ont_3_sport_test_76", "triples": [{"sub": "2010 South Wales Scorpions season", "rel": "sports_season_of_league_or_competition(2010 South Wales Scorpions season,), league", "obj": "professional rugby league"}]}
+{"id": "ont_3_sport_test_77", "triples": [{"sub": "Rugby League World Cup", "rel": "2013", "obj": "sporting event"}]}
+{"id": "ont_3_sport_test_78", "triples": [{"sub": "Pacific Cup", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_79", "triples": [{"sub": "1975 Rugby League World Championship", "rel": "sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_80", "triples": []}
+{"id": "ont_3_sport_test_81", "triples": [{"sub": "New Zealand national rugby league team", "rel": "1. member_of_sports_team", "obj": "New Zealand"}]}
+{"id": "ont_3_sport_test_82", "triples": [{"sub": "2009 European Cup", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_83", "triples": []}
+{"id": "ont_3_sport_test_84", "triples": [{"sub": "1999 Rugby League Tri-Nations series", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_85", "triples": []}
+{"id": "ont_3_sport_test_86", "triples": [{"sub": "The Co-operative Championship", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_87", "triples": [{"sub": "1989 Mr. Olympia", "rel": "sport", "obj": "bodybuilding"}, {"sub": "1989 Mr. Olympia", "rel": ", country_of_origin_", "obj": "Italy"}]}
+{"id": "ont_3_sport_test_88", "triples": [{"sub": "1949 New Zealand rugby league season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_89", "triples": [{"sub": "Rugby League International Federation", "rel": "1. competition_class", "obj": "international"}]}
+{"id": "ont_3_sport_test_90", "triples": [{"sub": "1943 New Zealand rugby league season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_91", "triples": [{"sub": "1985 Mr. Olympia", "rel": "sport", "obj": "bodybuilding"}, {"sub": "1985 Mr. Olympia", "rel": ", country_of_origin_", "obj": "Belgium"}]}
+{"id": "ont_3_sport_test_92", "triples": [{"sub": "1991 Mr. Olympia", "rel": "sport", "obj": "bodybuilding"}]}
+{"id": "ont_3_sport_test_93", "triples": []}
+{"id": "ont_3_sport_test_94", "triples": [{"sub": "1910 season", "rel": "sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_95", "triples": []}
+{"id": "ont_3_sport_test_96", "triples": [{"sub": "1976 Eastern Suburbs Roosters season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_97", "triples": [{"sub": "World Cup", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_98", "triples": [{"sub": "2009 Challenge Cup", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_99", "triples": [{"sub": "2010 Northern Pride RLFC season", "rel": "sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_100", "triples": [{"sub": "1961 Eastern Suburbs season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_101", "triples": [{"sub": "2009 Northern Pride RLFC season", "rel": "sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_102", "triples": [{"sub": "1954 Eastern Suburbs season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_103", "triples": [{"sub": "2010 NRL season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_104", "triples": [{"sub": "2006 New Zealand Warriors season", "rel": "1. member_of_sports_team", "obj": "New Zealand Warriors"}]}
+{"id": "ont_3_sport_test_105", "triples": [{"sub": "2009 AMNRL season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_106", "triples": [{"sub": "2008 Rugby League World Cup", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_107", "triples": [{"sub": "1954 New Zealand rugby league season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_108", "triples": [{"sub": "2012 State of Origin series", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_109", "triples": [{"sub": "1966 Mr. Olympia", "rel": "sport", "obj": "bodybuilding"}]}
+{"id": "ont_3_sport_test_110", "triples": []}
+{"id": "ont_3_sport_test_111", "triples": [{"sub": "2011 Rugby League Four Nations", "rel": "sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_112", "triples": []}
+{"id": "ont_3_sport_test_113", "triples": [{"sub": "2009 2010 Sydney Roosters season", "rel": "1. sports_season_of_league_or_competition", "obj": "2010 Telstra Premiership"}]}
+{"id": "ont_3_sport_test_114", "triples": []}
+{"id": "ont_3_sport_test_115", "triples": [{"sub": "Lord Derby Cup", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_116", "triples": []}
+{"id": "ont_3_sport_test_117", "triples": [{"sub": "2009 Pacific Cup", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_118", "triples": [{"sub": "1970 Mr. Olympia", "rel": "1. sport", "obj": "bodybuilding"}]}
+{"id": "ont_3_sport_test_119", "triples": [{"sub": "2008 New Zealand rugby league season", "rel": "1. sport", "obj": "rugby league"}]}
+{"id": "ont_3_sport_test_120", "triples": []}
+{"id": "ont_3_sport_test_121", "triples": [{"sub": "1995-96", "rel": "1. sports_team_season", "obj": "AJ Auxerre"}]}
+{"id": "ont_3_sport_test_122", "triples": [{"sub": "Lilian Laslandes", "rel": "1. member_of_sports_team", "obj": "OGC Nice"}]}
+{"id": "ont_3_sport_test_123", "triples": [{"sub": "Domingo", "rel": "member_of_sports_team", "obj": "RCD Espanyol"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "UD Las Palmas"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "UE Lleida"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "Pontevedra CF"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "CÃ³rdoba CF"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "Granada CF"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "AtlÃ©tico de Madrid"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "CD MÃ¡laga"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "Elche CF"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "Burgos CF"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "Valencia CF"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "OGC Nice"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "Real Betis"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "RCD Mallorca"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "NÃ­mes Olympique"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "AC Arles"}, {"sub": "Domingo", "rel": ", member_of_sports_team", "obj": "HÃ©rcules CF"}]}
+{"id": "ont_3_sport_test_124", "triples": [{"sub": "Rhys Weston", "rel": "1. member_of_sports_team", "obj": "Viking FK"}]}
+{"id": "ont_3_sport_test_125", "triples": [{"sub": "Patrick Barul", "rel": "member_of_sports_team", "obj": "OGC Nice"}, {"sub": "Patrick Barul", "rel": ", country_for_sport", "obj": "France"}]}
+{"id": "ont_3_sport_test_126", "triples": [{"sub": "1998-1999", "rel": "1. sports_team_season", "obj": "Aarhus Fremad"}]}
+{"id": "ont_3_sport_test_127", "triples": [{"sub": "Anton Rogochiy", "rel": "member_of_sports_team", "obj": "FC Rostov"}]}
+{"id": "ont_3_sport_test_128", "triples": [{"sub": "Yannis Clementia", "rel": "1. member_of_sports_team", "obj": "OGC Nice"}]}
+{"id": "ont_3_sport_test_129", "triples": [{"sub": "Vitaliy Kafanov", "rel": "1. member_of_sports_team", "obj": "FC Rostov"}]}
+{"id": "ont_3_sport_test_130", "triples": [{"sub": "Khalid Kadyrov", "rel": "1. member_of_sports_team", "obj": "FC Akhmat Grozny"}]}
+{"id": "ont_3_sport_test_131", "triples": [{"sub": "Bagui", "rel": "1. member_of_sports_team", "obj": "FC Spartak Moscow"}]}
+{"id": "ont_3_sport_test_132", "triples": [{"sub": "Yuri Dyadyuk", "rel": "member_of_sports_team", "obj": "FC Rostov"}]}
+{"id": "ont_3_sport_test_133", "triples": [{"sub": "Gerhard Lusenti", "rel": "1. member_of_sports_team", "obj": "SC Young Fellows Juventus"}]}
+{"id": "ont_3_sport_test_134", "triples": [{"sub": "Damiano", "rel": "coach_of_sports_team", "obj": "OGC Nice"}]}
+{"id": "ont_3_sport_test_135", "triples": [{"sub": "Raúl Osella", "rel": "1. member_of_sports_team", "obj": "Boca Juniors"}]}
+{"id": "ont_3_sport_test_136", "triples": [{"sub": "Yevgeni Cherkes", "rel": "1. member_of_sports_team", "obj": "FC Rostov"}]}
+{"id": "ont_3_sport_test_137", "triples": [{"sub": "Peter Dursun", "rel": "1. member_of_sports_team", "obj": "Aarhus Fremad"}]}
+{"id": "ont_3_sport_test_138", "triples": [{"sub": "Neale Marmon", "rel": "1. country_of_origin_", "obj": "Germany"}]}
+{"id": "ont_3_sport_test_139", "triples": []}
+{"id": "ont_3_sport_test_140", "triples": [{"sub": "Romain Pitau", "rel": "1. member_of_sports_team", "obj": "RC Lens"}]}
+{"id": "ont_3_sport_test_141", "triples": [{"sub": "Mikhail Osinov", "rel": "member_of_sports_team", "obj": "FC Rostov"}]}
+{"id": "ont_3_sport_test_142", "triples": [{"sub": "Eddy Negadi", "rel": "1. member_of_sports_team", "obj": "AJ Auxerre"}]}
+{"id": "ont_3_sport_test_143", "triples": [{"sub": "Georgi Aslanidi", "rel": "member_of_sports_team", "obj": "FC Rostov"}]}
+{"id": "ont_3_sport_test_144", "triples": [{"sub": "Samuel Ipoua", "rel": "1. member_of_sports_team", "obj": "1. FC Toulouse"}]}
+{"id": "ont_3_sport_test_145", "triples": [{"sub": "Georgi Smurov", "rel": "member_of_sports_team", "obj": "FC Rostov"}]}
+{"id": "ont_3_sport_test_146", "triples": [{"sub": "Claude Quittet", "rel": "1. member_of_sports_team", "obj": "FC Sochaux"}]}
+{"id": "ont_3_sport_test_147", "triples": [{"sub": "Arnaud Gonzalez", "rel": "1. member_of_sports_team", "obj": "AJ Auxerre"}]}
+{"id": "ont_3_sport_test_148", "triples": [{"sub": "Lunde", "rel": "member_of_sports_team", "obj": "Brøndby IF"}, {"sub": "Lunde", "rel": ", country_for_sport", "obj": "Denmark"}]}
+{"id": "ont_3_sport_test_149", "triples": [{"sub": "Dmitri Burmistrov", "rel": "member_of_sports_team", "obj": "FC Rostov"}]}
+{"id": "ont_3_sport_test_150", "triples": [{"sub": "Moke", "rel": "1. member_of_sports_team", "obj": "PFC CSKA Sofia"}]}
+{"id": "ont_3_sport_test_151", "triples": [{"sub": "Jacques-Désiré Périatambée", "rel": "1. member_of_sports_team", "obj": "AJ Auxerre"}]}
+{"id": "ont_3_sport_test_152", "triples": [{"sub": "Numa Andoire", "rel": "1. coach_of_sports_team", "obj": "OGC Nice"}]}
+{"id": "ont_3_sport_test_153", "triples": [{"sub": "Jean-Victor Makengo", "rel": "1. member_of_sports_team", "obj": "OGC Nice"}]}
+{"id": "ont_3_sport_test_154", "triples": [{"sub": "2002", "rel": "sports_team_season_of_league_or_competition", "obj": "FC Rostov"}]}
+{"id": "ont_3_sport_test_155", "triples": [{"sub": "Jesús Molina", "rel": "1. member_of_sports_team", "obj": "Necaxa"}]}
+{"id": "ont_3_sport_test_156", "triples": [{"sub": "Ricardo Moreira", "rel": "1. country_of_origin_", "obj": "Argentina"}]}
+{"id": "ont_3_sport_test_157", "triples": [{"sub": "Hans Siegenthaler", "rel": "member_of_sports_team", "obj": "SC Young Fellows Juventus"}]}
+{"id": "ont_3_sport_test_158", "triples": [{"sub": "Karim El Idrissi", "rel": "member_of_sports_team", "obj": "AJ Auxerre"}, {"sub": "Karim El Idrissi", "rel": ", country_for_sport", "obj": "Morocco"}]}
+{"id": "ont_3_sport_test_159", "triples": [{"sub": "Isa Baytiyev", "rel": "1. member_of_sports_team", "obj": "FC Akhmat Grozny"}]}
+{"id": "ont_3_sport_test_160", "triples": [{"sub": "Miroslav Klose", "rel": "1. member_of_sports_team", "obj": "FC 08 Homburg"}]}
+{"id": "ont_3_sport_test_161", "triples": [{"sub": "Lars Ellmerich's 1st season with Eintracht Braunschweig", "rel": "1. sports_season_of_league_or_competition", "obj": "Bundesliga"}]}
+{"id": "ont_3_sport_test_162", "triples": [{"sub": "Marcel Mauron", "rel": "1. member_of_sports_team", "obj": "SC Young Fellows Juventus"}]}
+{"id": "ont_3_sport_test_163", "triples": [{"sub": "Rodolfo Dantas Bispo", "rel": "member_of_sports_team", "obj": "FC Akhmat Grozny"}]}
+{"id": "ont_3_sport_test_164", "triples": [{"sub": "Jambo", "rel": "1. member_of_sports_team", "obj": "1."}]}
+{"id": "ont_3_sport_test_165", "triples": [{"sub": "Hideki Irabu", "rel": "1. country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_166", "triples": [{"sub": "Ayane Kurihara", "rel": "1. member_of_sports_team", "obj": "Japan national badminton team"}]}
+{"id": "ont_3_sport_test_167", "triples": [{"sub": "Paul Martini", "rel": "1. country_for_sport", "obj": "Canada"}]}
+{"id": "ont_3_sport_test_168", "triples": [{"sub": "Wayne Gretzky", "rel": "country_for_sport", "obj": "Canada"}]}
+{"id": "ont_3_sport_test_169", "triples": [{"sub": "Dorothy Walton", "rel": "1. occupation", "obj": "human"}]}
+{"id": "ont_3_sport_test_170", "triples": [{"sub": "Katsuya Nomura", "rel": "1. member_of_sports_team", "obj": "Yakult Swallows"}]}
+{"id": "ont_3_sport_test_171", "triples": [{"sub": "Soichi Fujita", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_172", "triples": [{"sub": "John Carlson", "rel": "1. member_of_sports_team", "obj": "Calgary Hitmen"}]}
+{"id": "ont_3_sport_test_173", "triples": [{"sub": "Shizuka Yamamoto", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_174", "triples": [{"sub": "Melinda Czink", "rel": "occupation", "obj": "tennis player"}]}
+{"id": "ont_3_sport_test_175", "triples": [{"sub": "Veronika Schneider", "rel": "occupation", "obj": "chess player"}]}
+{"id": "ont_3_sport_test_176", "triples": [{"sub": "Daisuke Miura", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_177", "triples": [{"sub": "Narumi Takahashi", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_178", "triples": [{"sub": "Tanika Liburd", "rel": "country_for_sport", "obj": "Saint Kitts and Nevis"}]}
+{"id": "ont_3_sport_test_179", "triples": [{"sub": "Hitomi Obara", "rel": "1. occupation", "obj": "military_personnel"}]}
+{"id": "ont_3_sport_test_180", "triples": [{"sub": "Maya Yoshida", "rel": "1. member_of_sports_team", "obj": "Southampton"}]}
+{"id": "ont_3_sport_test_181", "triples": [{"sub": "Fujiwara", "rel": "1. country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_182", "triples": [{"sub": "Naoyuki Shimizu", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_183", "triples": [{"sub": "Makoto Imaoka", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_184", "triples": [{"sub": "Nobuhiko Matsunaka", "rel": "country_for_sport", "obj": "Japan"}, {"sub": "Nobuhiko Matsunaka", "rel": ", member_of_sports_team", "obj": "Fukuoka SoftBank Hawks"}]}
+{"id": "ont_3_sport_test_185", "triples": [{"sub": "Tessa Virtue", "rel": "1. member_of_sports_team", "obj": "Canada"}]}
+{"id": "ont_3_sport_test_186", "triples": [{"sub": "Hayato Sakamoto", "rel": "country_for_sport", "obj": "Japan"}, {"sub": "Hayato Sakamoto", "rel": ", member_of_sports_team", "obj": "Yomiuri Giants"}, {"sub": "Yomiuri Giants", "rel": ", sports_team", "obj": "Nippon Professional Baseball"}]}
+{"id": "ont_3_sport_test_187", "triples": [{"sub": "Ivan Babikov", "rel": "1. country_for_sport", "obj": "Canada"}]}
+{"id": "ont_3_sport_test_188", "triples": [{"sub": "Brown", "rel": "member_of_sports_team", "obj": "Jamaica national bobsled team"}, {"sub": "Brown", "rel": ", country_for_sport", "obj": "Jamaica"}, {"sub": "2002 Winter Olympics)", "rel": ", sports_team_season", "obj": "coach_of_sports_team(not specified"}, {"sub": "not specified)", "rel": ", home_venue", "obj": "country_of_origin_(bobsled, Jamaica"}]}
+{"id": "ont_3_sport_test_189", "triples": [{"sub": "Brewer", "rel": "1. country_for_sport", "obj": "Canada"}]}
+{"id": "ont_3_sport_test_190", "triples": [{"sub": "Helen Kelesi", "rel": "occupation", "obj": "tennis player"}]}
+{"id": "ont_3_sport_test_191", "triples": [{"sub": "Defiagbon", "rel": "country_for_sport", "obj": "Canada"}, {"sub": "Summer Olympics)", "rel": ", sports_organization", "obj": "competition_class(heavyweight"}, {"sub": "Defiagbon", "rel": ", medal", "obj": "silver"}]}
+{"id": "ont_3_sport_test_192", "triples": [{"sub": "Raphi Kanchanaraphi", "rel": "country_for_sport", "obj": "Thailand"}]}
+{"id": "ont_3_sport_test_193", "triples": [{"sub": "Eriko Hirose", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_194", "triples": [{"sub": "Mizuki Fujii", "rel": "1. country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_195", "triples": [{"sub": "Takahiko Sato", "rel": "1. country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_196", "triples": [{"sub": "Morita", "rel": "1. member_of_sports_team", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_197", "triples": [{"sub": "Shinya Miyamoto", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_198", "triples": [{"sub": "Derek Nesbitt-Porter", "rel": "country_for_sport", "obj": "Canada"}]}
+{"id": "ont_3_sport_test_199", "triples": [{"sub": "Yoshio Kikugawa", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_200", "triples": [{"sub": "Marino", "rel": "occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_201", "triples": [{"sub": "Satozaki Tomoya", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_202", "triples": []}
+{"id": "ont_3_sport_test_203", "triples": [{"sub": "Kaoru Betto", "rel": "1. member_of_sports_team", "obj": "Orions"}]}
+{"id": "ont_3_sport_test_204", "triples": [{"sub": "Wozniak", "rel": "1. occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_205", "triples": [{"sub": "Takashi Saito", "rel": "1. sports", "obj": "baseball"}]}
+{"id": "ont_3_sport_test_206", "triples": [{"sub": "Fighters", "rel": "1. home_venue", "obj": "Sapporo Dome"}]}
+{"id": "ont_3_sport_test_207", "triples": [{"sub": "So Taguchi", "rel": "1. sports_team_season", "obj": "Orix BlueWave season"}]}
+{"id": "ont_3_sport_test_208", "triples": [{"sub": "Hiromi Makihara", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_209", "triples": [{"sub": "Wallace Diestelmeyer", "rel": "country_for_sport", "obj": "Canada"}]}
+{"id": "ont_3_sport_test_210", "triples": [{"sub": "Satoshi Fukuda", "rel": "country_for_sport", "obj": "Japan"}, {"sub": "Satoshi Fukuda", "rel": ", member_of_sports_team", "obj": "Yomiuri Giants"}]}
+{"id": "ont_3_sport_test_211", "triples": [{"sub": "Shintaro Fujinami", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_212", "triples": [{"sub": "Adrian Mariappa", "rel": "country_for_sport", "obj": "Jamaica"}]}
+{"id": "ont_3_sport_test_213", "triples": [{"sub": "Yuji Yoshimi", "rel": "country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_214", "triples": [{"sub": "Haley Irwin", "rel": "1. member_of_sports_team", "obj": "Canada's women's national ice hockey team"}]}
+{"id": "ont_3_sport_test_215", "triples": [{"sub": "Kaetlyn Osmond", "rel": "country_for_sport", "obj": "Canada"}]}
+{"id": "ont_3_sport_test_216", "triples": [{"sub": "Takashi Ogino", "rel": "country_for_sport", "obj": "Japan"}, {"sub": "Takashi Ogino", "rel": ", member_of_sports_team", "obj": "Chiba Lotte Marines"}]}
+{"id": "ont_3_sport_test_217", "triples": [{"sub": "Jeff Pain", "rel": "country_for_sport", "obj": "Canada"}]}
+{"id": "ont_3_sport_test_218", "triples": [{"sub": "Eugenie Bouchard", "rel": "1. occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_219", "triples": [{"sub": "Ikuhiro Kiyota", "rel": "country_for_sport", "obj": "Japan"}, {"sub": "Ikuhiro Kiyota", "rel": ", member_of_sports_team", "obj": "Chiba Lotte Marines"}]}
+{"id": "ont_3_sport_test_220", "triples": [{"sub": "Rebecca Anne Johnston", "rel": "1. occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_221", "triples": [{"sub": "Nigella Jekyll Saunders", "rel": "1. country_for_sport", "obj": "Jamaica"}]}
+{"id": "ont_3_sport_test_222", "triples": [{"sub": "Smythe", "rel": "1. occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_223", "triples": [{"sub": "Viktor Konstantinovich Starukhin", "rel": "1. country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_224", "triples": [{"sub": "Nana Smith", "rel": "1. country_for_sport", "obj": "Japan"}]}
+{"id": "ont_3_sport_test_225", "triples": [{"sub": "1999 Paris Open", "rel": "1. sports_season_of_league_or_competition", "obj": "Paris Masters"}]}
+{"id": "ont_3_sport_test_226", "triples": [{"sub": "1982 Paris Open", "rel": "sports_season_of_league_or_competition", "obj": "Paris Masters"}]}
+{"id": "ont_3_sport_test_227", "triples": [{"sub": "1977 NASCAR Grand National Winston Cup Series", "rel": "sports_season_of_league_or_competition", "obj": "NASCAR Cup Series"}]}
+{"id": "ont_3_sport_test_228", "triples": [{"sub": "2016 Generali Open Kitzbühel", "rel": "1. sports_season_of_league_or_competition", "obj": "2016 Austrian Open Kitzbühel"}]}
+{"id": "ont_3_sport_test_229", "triples": [{"sub": "Valencia", "rel": "1. sports_team_season", "obj": "1998 European Super Cup"}]}
+{"id": "ont_3_sport_test_230", "triples": [{"sub": "2008 BNP Paribas Masters", "rel": "1. sports_season_of_league_or_competition", "obj": "Paris Masters"}]}
+{"id": "ont_3_sport_test_231", "triples": [{"sub": "1995 UNCAF Nations Cup", "rel": "1. sports_team_season", "obj": "Copa Centroamericana"}]}
+{"id": "ont_3_sport_test_232", "triples": [{"sub": "1905 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_233", "triples": [{"sub": "2006 NASCAR Nextel Cup Series", "rel": "sports_season_of_league_or_competition", "obj": "NASCAR Cup Series"}]}
+{"id": "ont_3_sport_test_234", "triples": [{"sub": "1963 World Ice Hockey Championships", "rel": "sports_season_of_league_or_competition", "obj": "Ice Hockey World Championships"}]}
+{"id": "ont_3_sport_test_235", "triples": [{"sub": "1969 World Shotgun Championships", "rel": "1) sports_season_of_league_or_competition", "obj": "ISSF World Shooting Championships"}]}
+{"id": "ont_3_sport_test_236", "triples": [{"sub": "1932 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_237", "triples": [{"sub": "1939 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_238", "triples": []}
+{"id": "ont_3_sport_test_239", "triples": [{"sub": "1908 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_240", "triples": [{"sub": "1975 NASCAR Grand National Winston Cup Series", "rel": "sports_season_of_league_or_competition", "obj": "NASCAR Cup Series"}]}
+{"id": "ont_3_sport_test_241", "triples": [{"sub": "1975 World Ice Hockey Championships", "rel": "sports_season_of_league_or_competition", "obj": "Ice Hockey World Championships"}]}
+{"id": "ont_3_sport_test_242", "triples": [{"sub": "1975 Paris Open", "rel": "sports_season_of_league_or_competition", "obj": "Paris Masters"}]}
+{"id": "ont_3_sport_test_243", "triples": [{"sub": "1923 Latvian Football Championship of the Latvian Higher League", "rel": "1) sports_competition", "obj": "association football"}]}
+{"id": "ont_3_sport_test_244", "triples": [{"sub": "2000 FIFA Club World Championship", "rel": "sports_season_of_league_or_competition", "obj": "FIFA Club World Cup"}]}
+{"id": "ont_3_sport_test_245", "triples": [{"sub": "1963 Latvian SSR Higher League", "rel": "sports_season_of_league_or_competition", "obj": "Latvian Higher League"}]}
+{"id": "ont_3_sport_test_246", "triples": [{"sub": "1963 NASCAR Grand National Series", "rel": "sports_season_of_league_or_competition", "obj": "NASCAR Cup Series"}]}
+{"id": "ont_3_sport_test_247", "triples": [{"sub": "1979 World Ice Hockey Championships", "rel": "sports_season_of_league_or_competition", "obj": "Ice Hockey World Championships"}]}
+{"id": "ont_3_sport_test_248", "triples": [{"sub": "2008 Miami FC season", "rel": "sports_season_of_league_or_competition", "obj": "USL First Division"}]}
+{"id": "ont_3_sport_test_249", "triples": [{"sub": "1934 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_250", "triples": [{"sub": "1938 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_251", "triples": [{"sub": "2007 Miami FC season", "rel": "sports_season_of_league_or_competition", "obj": "USL First Division"}]}
+{"id": "ont_3_sport_test_252", "triples": [{"sub": "1928 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_253", "triples": [{"sub": "1906 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_254", "triples": [{"sub": "1994 Paris Open", "rel": "1994 Paris Open, Paris Masters, sports_season_of_league_or_competition", "obj": "Paris Masters"}]}
+{"id": "ont_3_sport_test_255", "triples": [{"sub": "2004 J.League Division 1", "rel": "sports_season_of_league_or_competition", "obj": "J1 League"}]}
+{"id": "ont_3_sport_test_256", "triples": [{"sub": "1987 UEFA Super Cup", "rel": "1. sports_season_of_league_or_competition", "obj": "UEFA Super Cup"}]}
+{"id": "ont_3_sport_test_257", "triples": [{"sub": "1977 Paris Open", "rel": "sports_season_of_league_or_competition", "obj": "Paris Masters"}]}
+{"id": "ont_3_sport_test_258", "triples": [{"sub": "1998 Men's World Ice Hockey Championships", "rel": "sports_season_of_league_or_competition", "obj": "Ice Hockey World Championships"}]}
+{"id": "ont_3_sport_test_259", "triples": [{"sub": "1976 Paris Open", "rel": "sports_season_of_league_or_competition", "obj": "Paris Masters"}]}
+{"id": "ont_3_sport_test_260", "triples": [{"sub": "1991 KAL Cup Korea Open", "rel": "1. sports_season_of_league_or_competition", "obj": "Seoul Open"}]}
+{"id": "ont_3_sport_test_261", "triples": []}
+{"id": "ont_3_sport_test_262", "triples": [{"sub": "2007 Men's World Ice Hockey Championships", "rel": "sports_season_of_league_or_competition", "obj": "Ice Hockey World Championships"}]}
+{"id": "ont_3_sport_test_263", "triples": [{"sub": "1995 King Fahd Cup", "rel": "sports_season_of_league_or_competition", "obj": "FIFA Confederations Cup"}]}
+{"id": "ont_3_sport_test_264", "triples": [{"sub": "2004 Men's World Ice Hockey Championships", "rel": "sports_season_of_league_or_competition", "obj": "Ice Hockey World Championships"}]}
+{"id": "ont_3_sport_test_265", "triples": [{"sub": "2012 J. League Division 2", "rel": "sports_season_of_league_or_competition", "obj": "J2 League"}]}
+{"id": "ont_3_sport_test_266", "triples": [{"sub": "2011 BNP Paribas Masters", "rel": "1. sports_season_of_league_or_competition", "obj": "Paris Masters"}]}
+{"id": "ont_3_sport_test_267", "triples": [{"sub": "1991 Latvian SSR Higher League", "rel": "sports_season_of_league_or_competition", "obj": "Latvian Higher League"}]}
+{"id": "ont_3_sport_test_268", "triples": [{"sub": "1998 African Women's Championship", "rel": "sports_season_of_league_or_competition", "obj": "Africa Women Cup of Nations"}]}
+{"id": "ont_3_sport_test_269", "triples": [{"sub": "1919 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_270", "triples": [{"sub": "1987 Paris Open", "rel": "sports_season_of_league_or_competition", "obj": "Paris Masters"}]}
+{"id": "ont_3_sport_test_271", "triples": [{"sub": "1976 NASCAR Grand National Winston Cup Series", "rel": "sports_season_of_league_or_competition", "obj": "NASCAR Cup Series"}]}
+{"id": "ont_3_sport_test_272", "triples": [{"sub": "2010 K-League", "rel": "1. sports_season_of_league_or_competition", "obj": "2010"}]}
+{"id": "ont_3_sport_test_273", "triples": [{"sub": "FIBA AmeriCup 2011", "rel": "1. sports_season_of_league_or_competition", "obj": "FIBA AmeriCup"}]}
+{"id": "ont_3_sport_test_274", "triples": [{"sub": "1930 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_275", "triples": [{"sub": "Nextel Cup Series", "rel": "league", "obj": "NASCAR Cup Series"}]}
+{"id": "ont_3_sport_test_276", "triples": [{"sub": "1949 World Ice Hockey Championships", "rel": "sports_season_of_league_or_competition", "obj": "Ice Hockey World Championships"}]}
+{"id": "ont_3_sport_test_277", "triples": [{"sub": "1943 Tschammerpokal", "rel": "sports_season_of_league_or_competition", "obj": "1943 Tschammerpokal"}]}
+{"id": "ont_3_sport_test_278", "triples": [{"sub": "1926 International Lawn Tennis Challenge", "rel": "sports_season_of_league_or_competition", "obj": "Davis Cup"}]}
+{"id": "ont_3_sport_test_279", "triples": [{"sub": "Aleksandr Pobegalov", "rel": "coach_of_sports_team", "obj": "FC Shinnik Yaroslavl"}]}
+{"id": "ont_3_sport_test_280", "triples": [{"sub": "Stendel", "rel": "1. member_of_sports_team", "obj": "Hannover 96"}]}
+{"id": "ont_3_sport_test_281", "triples": [{"sub": "Vergil Andronache", "rel": "coach_of_sports_team", "obj": "CFR II Cluj"}]}
+{"id": "ont_3_sport_test_282", "triples": [{"sub": "Claudio Ranieri", "rel": "league", "obj": "Italian League"}]}
+{"id": "ont_3_sport_test_283", "triples": [{"sub": "Rob Valentino", "rel": "league", "obj": "MLS"}]}
+{"id": "ont_3_sport_test_284", "triples": [{"sub": "Giuseppe Santagostino", "rel": "member_of_sports_team", "obj": "A.C. Milan"}]}
+{"id": "ont_3_sport_test_285", "triples": [{"sub": "Eduardo de la Torre", "rel": "member_of_sports_team", "obj": "Guadalajara"}]}
+{"id": "ont_3_sport_test_286", "triples": [{"sub": "Seth Ablade", "rel": "member_of_sports_team", "obj": "FC Jazz"}, {"sub": "Seth Ablade", "rel": ", coach_of_sports_team", "obj": "FC Jazz"}]}
+{"id": "ont_3_sport_test_287", "triples": [{"sub": "William Eason", "rel": "member_of_sports_team", "obj": "Geelong Football Club"}]}
+{"id": "ont_3_sport_test_288", "triples": [{"sub": "Luigi Simoni", "rel": "coach_of_sports_team", "obj": "Inter Milan"}]}
+{"id": "ont_3_sport_test_289", "triples": [{"sub": "Alberto Zaccheroni", "rel": "1. coach_of_sports_team", "obj": "A.C. Milan"}]}
+{"id": "ont_3_sport_test_290", "triples": [{"sub": "Kazuaki Yoshinaga", "rel": "coach_of_sports_team", "obj": "Albirex Niigata"}]}
+{"id": "ont_3_sport_test_291", "triples": [{"sub": "Uladzimir Zhuravel", "rel": "member_of_sports_team", "obj": "FC Dinamo Minsk"}, {"sub": "1990", "rel": ", sports_season_of_league_or_competition", "obj": "Soviet Top League"}]}
+{"id": "ont_3_sport_test_292", "triples": [{"sub": "Currently working", "rel": "coach_of_sports_team", "obj": "Trélissac FC"}]}
+{"id": "ont_3_sport_test_293", "triples": [{"sub": "Jostein Grindhaug", "rel": "1. member_of_sports_team", "obj": "FK Haugesund"}]}
+{"id": "ont_3_sport_test_294", "triples": [{"sub": "Sebastiano Rossi", "rel": "12 member_of_sports_team", "obj": "A.C. Milan"}]}
+{"id": "ont_3_sport_test_295", "triples": [{"sub": "Valerio Fiori", "rel": "1. member_of_sports_team", "obj": "A.C. Milan"}]}
+{"id": "ont_3_sport_test_296", "triples": [{"sub": "Neal Ardley", "rel": "1. coach_of_sports_team", "obj": "AFC Wimbledon"}]}
+{"id": "ont_3_sport_test_297", "triples": [{"sub": "Mirko Slomka", "rel": "coach_of_sports_team", "obj": "Hannover 96"}]}
+{"id": "ont_3_sport_test_298", "triples": [{"sub": "Nils Liedholm", "rel": "1. member_of_sports_team", "obj": "A.C. Milan"}]}
+{"id": "ont_3_sport_test_299", "triples": [{"sub": "Morini", "rel": "member_of_sports_team", "obj": "A.C. Milan"}]}
+{"id": "ont_3_sport_test_300", "triples": [{"sub": "2010", "rel": "sports_season_of_league_or_competition", "obj": "Landskrona BoIS season"}]}
+{"id": "ont_3_sport_test_301", "triples": [{"sub": "Salvador Luis Reyes de la PeÃ±a", "rel": "coach_of_sports_team", "obj": "Santos Laguna"}]}
+{"id": "ont_3_sport_test_302", "triples": [{"sub": "Giovanni Lorini", "rel": "member_of_sports_team", "obj": "A.C. Milan"}]}
+{"id": "ont_3_sport_test_303", "triples": [{"sub": "Carlos Vela", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_304", "triples": [{"sub": "2015", "rel": "sports_season_of_league_or_competition", "obj": "Burnley"}]}
+{"id": "ont_3_sport_test_305", "triples": [{"sub": "Micah Richards", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_306", "triples": [{"sub": "Aaron Lennon", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_307", "triples": [{"sub": "6", "rel": "1. sports_team_season", "obj": "West Bromwich Albion sports season"}]}
+{"id": "ont_3_sport_test_308", "triples": [{"sub": "Toby Alderweireld", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_309", "triples": [{"sub": "Henri GrÃ©goire Saivet", "rel": "country_for_sport", "obj": "Senegal"}]}
+{"id": "ont_3_sport_test_310", "triples": [{"sub": "Serge Aurier", "rel": "country_for_sport", "obj": "Ivory Coast"}]}
+{"id": "ont_3_sport_test_311", "triples": [{"sub": "David de Gea Quintana", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_312", "triples": [{"sub": "Thomas Vermaelen", "rel": "1. member_of_sports_team", "obj": "Arsenal"}]}
+{"id": "ont_3_sport_test_313", "triples": [{"sub": "Robert Green", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_314", "triples": [{"sub": "David Ginola", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_315", "triples": [{"sub": "Wes Brown", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_316", "triples": [{"sub": "Winston Bogarde", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_317", "triples": [{"sub": "Jozy Altidore", "rel": "league", "obj": "Premier League"}, {"sub": "Jozy Altidore", "rel": ", league", "obj": "Turkish Super Lig"}]}
+{"id": "ont_3_sport_test_318", "triples": [{"sub": "Gareth Bale", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_319", "triples": [{"sub": "Paolo Di Canio", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_320", "triples": [{"sub": "Troy Deeney", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_321", "triples": [{"sub": "Jan Vennegoor of Hesselink", "rel": "1. member_of_sports_team", "obj": "FC Twente"}]}
+{"id": "ont_3_sport_test_322", "triples": [{"sub": "Kyle Walker", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_323", "triples": [{"sub": "Ashley Cole", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_324", "triples": [{"sub": "Ryan Nelsen", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_325", "triples": [{"sub": "Phil Babb", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_326", "triples": [{"sub": "David Seaman", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_327", "triples": [{"sub": "Chris Smalling", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_328", "triples": [{"sub": "Robert Brady", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_329", "triples": [{"sub": "Charles N'Zogbia", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_330", "triples": [{"sub": "James Milner", "rel": "sports_season_of_league_or_competition", "obj": "2002"}]}
+{"id": "ont_3_sport_test_331", "triples": [{"sub": "Salomon Kalou", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_332", "triples": [{"sub": "Glen Johnson", "rel": "league", "obj": "Premier League"}, {"sub": "Glen Johnson", "rel": ", league", "obj": "League Cup"}]}
+{"id": "ont_3_sport_test_333", "triples": [{"sub": "Luke Shaw", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_334", "triples": [{"sub": "2010-11", "rel": "sports_season_of_league_or_competition", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_335", "triples": [{"sub": "Jack Wilshere", "rel": "1. occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_336", "triples": [{"sub": "Maya Yoshida", "rel": "1. member_of_sports_team", "obj": "Southampton"}]}
+{"id": "ont_3_sport_test_337", "triples": [{"sub": "Pascal Cygan", "rel": "1. country_of_origin_", "obj": "France"}]}
+{"id": "ont_3_sport_test_338", "triples": [{"sub": "Paulo Ferreira", "rel": "league", "obj": "Primeira Liga"}]}
+{"id": "ont_3_sport_test_339", "triples": [{"sub": "Per Mertesacker", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_340", "triples": [{"sub": "Gilberto Silva", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_341", "triples": [{"sub": "Terence Kongolo", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_342", "triples": [{"sub": "John Paintsil", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_343", "triples": [{"sub": "Ian Holloway", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_344", "triples": [{"sub": "Landon Donovan", "rel": "1. league", "obj": "Bundesliga"}]}
+{"id": "ont_3_sport_test_345", "triples": [{"sub": "Heurelho da Silva Gomes", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_346", "triples": [{"sub": "Marco Materazzi", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_347", "triples": [{"sub": "Fabian Delph", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_348", "triples": [{"sub": "Sergio Germán Romero", "rel": "1. member_of_sports_team", "obj": "Manchester United"}]}
+{"id": "ont_3_sport_test_349", "triples": [{"sub": "Juan Mata", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_350", "triples": [{"sub": "Alexander Oxlade-Chamberlain", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_351", "triples": [{"sub": "Sol Campbell", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_352", "triples": [{"sub": "Marc Overmars", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_353", "triples": [{"sub": "Hidetoshi Nakata", "rel": "1. league", "obj": "Serie A"}]}
+{"id": "ont_3_sport_test_354", "triples": [{"sub": "Stanley Knight", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_355", "triples": [{"sub": "Teddy Sheringham", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_356", "triples": [{"sub": "John Ruddy", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_357", "triples": [{"sub": "Park Ji-sung", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_358", "triples": [{"sub": "Larsson", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_359", "triples": [{"sub": "Geoffrey Mujangi Bia", "rel": "league", "obj": "English Premier League"}]}
+{"id": "ont_3_sport_test_360", "triples": [{"sub": "Tom Ince", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_361", "triples": [{"sub": "Wayne Bridge", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_362", "triples": [{"sub": "UEFA Super Cup", "rel": "1. competition_class", "obj": "multi-sport event"}]}
+{"id": "ont_3_sport_test_363", "triples": [{"sub": "North Adelaide Football Club", "rel": "1. home_venue", "obj": "Prospect Oval"}]}
+{"id": "ont_3_sport_test_364", "triples": [{"sub": "Grenoble Foot 38", "rel": "home_venue", "obj": "Stade des Alpes"}]}
+{"id": "ont_3_sport_test_365", "triples": []}
+{"id": "ont_3_sport_test_366", "triples": [{"sub": "Boli Khela", "rel": "1. sport", "obj": "wrestling"}]}
+{"id": "ont_3_sport_test_367", "triples": [{"sub": "Chinlone", "rel": "country_of_origin_", "obj": "Myanmar"}]}
+{"id": "ont_3_sport_test_368", "triples": [{"sub": "David Goodwillie", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_369", "triples": [{"sub": "Ian Holloway", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_370", "triples": [{"sub": "Patrick Vieira", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_371", "triples": [{"sub": "Alan Wright", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_372", "triples": [{"sub": "Stephen Andrew Bould", "rel": "coach_of_sports_team", "obj": "Arsenal"}]}
+{"id": "ont_3_sport_test_373", "triples": [{"sub": "David Busst", "rel": "league", "obj": "FA Premier League"}]}
+{"id": "ont_3_sport_test_374", "triples": [{"sub": "Stéphane Guivarc'h", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_375", "triples": [{"sub": "Robert Brady", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_376", "triples": [{"sub": "Arjen Robben", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_377", "triples": [{"sub": "Henri GrÃ©goire Saivet", "rel": "country_for_sport", "obj": "Senegal"}]}
+{"id": "ont_3_sport_test_378", "triples": [{"sub": "Richard Michael Duffy", "rel": "member_of_sports_team", "obj": "Kidsgrove Athletic"}]}
+{"id": "ont_3_sport_test_379", "triples": [{"sub": "Rémi Garde", "rel": "1.", "obj": "athlete, occupation"}]}
+{"id": "ont_3_sport_test_380", "triples": [{"sub": "Thierry Henry", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_381", "triples": [{"sub": "Chris Kirkland", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_382", "triples": [{"sub": "Brian Laws", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_383", "triples": [{"sub": "Eden Hazard", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_384", "triples": [{"sub": "Cardiff City", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_385", "triples": [{"sub": "Toby Alderweireld", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_386", "triples": [{"sub": "Andrew Linighan", "rel": "member_of_sports_team", "obj": "Arsenal"}]}
+{"id": "ont_3_sport_test_387", "triples": []}
+{"id": "ont_3_sport_test_388", "triples": [{"sub": "Chris Iwelumo", "rel": "1. league", "obj": "Football League Championship"}]}
+{"id": "ont_3_sport_test_389", "triples": [{"sub": "Adrian Mariappa", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_390", "triples": [{"sub": "David Stockdale", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_391", "triples": [{"sub": "Titus Bramble", "rel": "1. sports_team_season", "obj": "2000-2013"}]}
+{"id": "ont_3_sport_test_392", "triples": [{"sub": "Glen Little", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_393", "triples": [{"sub": "Gary Hooper", "rel": "league", "obj": "Scottish Premier League"}]}
+{"id": "ont_3_sport_test_394", "triples": [{"sub": "Patrice Evra", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_395", "triples": [{"sub": "Lombardo", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_396", "triples": [{"sub": "Maurizio Sarri", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_397", "triples": [{"sub": "Grazer Martis", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_398", "triples": [{"sub": "Ramage", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_399", "triples": [{"sub": "Paul Gascoigne", "rel": "league", "obj": "top tier"}]}
+{"id": "ont_3_sport_test_400", "triples": [{"sub": "Roberto Pereyra", "rel": "league", "obj": "English Premier League"}]}
+{"id": "ont_3_sport_test_401", "triples": [{"sub": "Elliott Ward", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_402", "triples": [{"sub": "Michael Tonge", "rel": "1. league", "obj": "First Division"}]}
+{"id": "ont_3_sport_test_403", "triples": [{"sub": "Laurent Koscielny", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_404", "triples": [{"sub": "Christian Benteke", "rel": "1. member_of_sports_team", "obj": "Villa"}]}
+{"id": "ont_3_sport_test_405", "triples": [{"sub": "Didier Drogba", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_406", "triples": [{"sub": "Toivonen", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_407", "triples": [{"sub": "Stanley Knight", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_408", "triples": [{"sub": "Craig Gardner", "rel": "league", "obj": "Premier League"}, {"sub": "Craig Gardner", "rel": ", league", "obj": "EFL Championship"}]}
+{"id": "ont_3_sport_test_409", "triples": [{"sub": "Andrew Ronald Edward Surman", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_410", "triples": [{"sub": "Shea", "rel": "league", "obj": "English Premier League"}]}
+{"id": "ont_3_sport_test_411", "triples": [{"sub": "Larsson", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_412", "triples": [{"sub": "Jozef Warzycha", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_413", "triples": [{"sub": "Nigel Gibbs", "rel": "league", "obj": "Football League Championship"}]}
+{"id": "ont_3_sport_test_414", "triples": [{"sub": "Chris Smalling", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_415", "triples": [{"sub": "Wes Brown", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_416", "triples": [{"sub": "Pierre-Emerick Emiliano François Aubameyang", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_417", "triples": [{"sub": "Rickie Lambert", "rel": "league", "obj": "Championship"}]}
+{"id": "ont_3_sport_test_418", "triples": [{"sub": "Hugo Hadrien Dominique Lloris", "rel": "1. occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_419", "triples": [{"sub": "Kyle Bartley", "rel": "sports_team_season", "obj": "2010 season"}]}
+{"id": "ont_3_sport_test_420", "triples": [{"sub": "Nicholas Amponsah", "rel": "member_of_sports_team", "obj": "Chattanooga Red Wolves SC"}, {"sub": "Nicholas Amponsah", "rel": ", country_for_sport", "obj": "Ghana"}]}
+{"id": "ont_3_sport_test_421", "triples": [{"sub": "sports team season of a sports club", "rel": "2000-01", "obj": "Fulham"}, {"sub": "Louis Saha", "rel": ", league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_422", "triples": [{"sub": "Goose Tatum", "rel": "1. occupation", "obj": "athlete"}]}
+{"id": "ont_3_sport_test_423", "triples": [{"sub": "Jack Butland", "rel": "1. league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_424", "triples": [{"sub": "Charlie Austin", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_425", "triples": []}
+{"id": "ont_3_sport_test_426", "triples": []}
+{"id": "ont_3_sport_test_427", "triples": [{"sub": "Per Mertesacker", "rel": "league", "obj": "Premier League"}]}
+{"id": "ont_3_sport_test_428", "triples": [{"sub": "Faroe Islands U19 National Team", "rel": "1. competition_class", "obj": "men's U19 association football"}]}
+{"id": "ont_3_sport_test_429", "triples": [{"sub": "United States women's national under-23 volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_430", "triples": [{"sub": "Peru women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_431", "triples": [{"sub": "Brazil men's national under-21 volleyball team", "rel": "1. competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_432", "triples": [{"sub": "Scotland women's national under-17 football team", "rel": "1. competition_class", "obj": "women's U17 association football"}]}
+{"id": "ont_3_sport_test_433", "triples": [{"sub": "Afghanistan women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_434", "triples": [{"sub": "Uganda women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_435", "triples": [{"sub": "Chinese women's volleyball team", "rel": "1. competition_class", "obj": "CCTV sportsmanship competition"}]}
+{"id": "ont_3_sport_test_436", "triples": [{"sub": "Slovenia national men's volleyball team", "rel": "1. competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_437", "triples": [{"sub": "Chinese Taipei women's national volleyball team", "rel": "1. competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_438", "triples": [{"sub": "Mozambique national football team", "rel": "1. competition_class", "obj": "men's association football"}]}
+{"id": "ont_3_sport_test_439", "triples": [{"sub": "Vanuatu national under-23 football team", "rel": "competition_class", "obj": "men's U23 association football"}]}
+{"id": "ont_3_sport_test_440", "triples": [{"sub": "Maldives national Under-23 football team", "rel": "1. member_of_sports_team", "obj": "Football Association of Maldives"}]}
+{"id": "ont_3_sport_test_441", "triples": [{"sub": "Argentina men's national volleyball team", "rel": "1. competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_442", "triples": [{"sub": "Iceland women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_443", "triples": [{"sub": "Bulgaria women's national under-23 volleyball team", "rel": "1. competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_444", "triples": [{"sub": "Ghana women's national volleyball team", "rel": "1. competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_445", "triples": [{"sub": "Belgium women's national under-20 volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_446", "triples": [{"sub": "Ivory Coast women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_447", "triples": [{"sub": "Finnish women's national ice hockey team", "rel": "1. competition_class", "obj": "women's ice hockey"}]}
+{"id": "ont_3_sport_test_448", "triples": [{"sub": "sports team season", "rel": "13 times", "obj": "Asian Women's Volleyball Championship"}]}
+{"id": "ont_3_sport_test_449", "triples": [{"sub": "Slovenia women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_450", "triples": [{"sub": "Philippines women's national ice hockey team", "rel": "1. country_for_sport", "obj": "Philippines"}]}
+{"id": "ont_3_sport_test_451", "triples": [{"sub": "France women's water polo team", "rel": "1. competition_class", "obj": "women's water polo"}]}
+{"id": "ont_3_sport_test_452", "triples": [{"sub": "Croatia women's national water polo team", "rel": "competition_class", "obj": "women's water polo"}]}
+{"id": "ont_3_sport_test_453", "triples": [{"sub": "Cuba men's national volleyball team", "rel": "1. competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_454", "triples": [{"sub": "Republic of the Congo women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_455", "triples": [{"sub": "Malaysia women's national volleyball team", "rel": "1. competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_456", "triples": [{"sub": "England women's national under-23 football team", "rel": "1. competition_class", "obj": "women's U23 association football"}]}
+{"id": "ont_3_sport_test_457", "triples": [{"sub": "Egypt men's national volleyball team", "rel": "1. competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_458", "triples": [{"sub": "Madagascar women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_459", "triples": [{"sub": "Congo national football team", "rel": "1. competition_class", "obj": "men's association football"}]}
+{"id": "ont_3_sport_test_460", "triples": [{"sub": "Cape Verde women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_461", "triples": [{"sub": "Brazil men's national under-19 volleyball team", "rel": "1. competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_462", "triples": [{"sub": "Puerto Rico women's national volleyball team", "rel": "1. competition_class", "obj": "NORCECA Women's Volleyball Championship"}]}
+{"id": "ont_3_sport_test_463", "triples": [{"sub": "team", "rel": "1. member_of_sports_team", "obj": "U19 national team"}]}
+{"id": "ont_3_sport_test_464", "triples": []}
+{"id": "ont_3_sport_test_465", "triples": [{"sub": "Italy national under-15 football team", "rel": "competition_class", "obj": "men's U15 association football"}]}
+{"id": "ont_3_sport_test_466", "triples": [{"sub": "Serbia national under-20 football team", "rel": "1. competition_class", "obj": "men's U20 association football"}]}
+{"id": "ont_3_sport_test_467", "triples": [{"sub": "The Serbia men's national under-16 basketball team", "rel": "1. competition_class", "obj": "men's basketball"}]}
+{"id": "ont_3_sport_test_468", "triples": [{"sub": "Estonia women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_469", "triples": [{"sub": "Lithuania men's national volleyball team", "rel": "competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_470", "triples": [{"sub": "Japan women's national water polo team", "rel": "1. competition_class", "obj": "women's water polo"}]}
+{"id": "ont_3_sport_test_471", "triples": [{"sub": "Bhutan national football team", "rel": "1. country_for_sport", "obj": "Bhutan"}]}
+{"id": "ont_3_sport_test_472", "triples": [{"sub": "France national men's volleyball team", "rel": "competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_473", "triples": [{"sub": "2017 Euro U21)", "rel": "sports_team_season", "obj": "competition_class(2017 Euro U21,men's U21 association football"}, {"sub": "2017 Euro U21", "rel": ", country_of_origin_", "obj": "Poland"}]}
+{"id": "ont_3_sport_test_474", "triples": [{"sub": "Poland national men's volleyball team", "rel": "1. competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_475", "triples": [{"sub": "Turkey women's national under-18 volleyball team", "rel": "1. competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_476", "triples": [{"sub": "Samoa's U20", "rel": "home_venue", "obj": "Toleafoa J.S Blatter Soccer Stadium"}]}
+{"id": "ont_3_sport_test_477", "triples": [{"sub": "Hungary women's national water polo team", "rel": "competition_class", "obj": "women's water polo"}]}
+{"id": "ont_3_sport_test_478", "triples": [{"sub": "Maldives national Under-20 football team", "rel": "1. competition_class", "obj": "men's U20 association football"}]}
+{"id": "ont_3_sport_test_479", "triples": [{"sub": "Peru men's national volleyball team", "rel": "1. competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_480", "triples": [{"sub": "France women's national volleyball team", "rel": "competition_class", "obj": "women's volleyball"}]}
+{"id": "ont_3_sport_test_481", "triples": [{"sub": "Lebanon men's national volleyball team", "rel": "competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_482", "triples": [{"sub": "Croatia women's national volleyball team", "rel": "1. country_for_sport", "obj": "Croatia"}]}
+{"id": "ont_3_sport_test_483", "triples": [{"sub": "New Zealand women's national volleyball team", "rel": "10 times", "obj": "appeared at the Asian Women's Volleyball Championship"}]}
+{"id": "ont_3_sport_test_484", "triples": [{"sub": "U20 team", "rel": "1. competition_class", "obj": "men's U20 association football"}]}
+{"id": "ont_3_sport_test_485", "triples": [{"sub": "Bosnia and Herzegovina national under-21 football team", "rel": "1. competition_class", "obj": "men's U21 association football"}]}
+{"id": "ont_3_sport_test_486", "triples": [{"sub": "Israel men's national volleyball team", "rel": "competition_class", "obj": "men's volleyball"}]}
+{"id": "ont_3_sport_test_487", "triples": [{"sub": "Eswatini women's national volleyball team", "rel": "1. competition_class", "obj": "women's volleyball"}]}
