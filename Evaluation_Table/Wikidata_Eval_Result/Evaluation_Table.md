@@ -1,7 +1,7 @@
 # Evaluation Metrics Table
 
 The following table presents the evaluation metrics for three different language models: **Alpaca-LoRA-13B**, **LLAMA3**, and **Vicuna-13B**. These metrics provide insights into the performance of each model across various categories, such as Movie, Music, Sport, Book, Military, Computer, Space, Politics, Nature, and Culture. The evaluation metrics include average precision, average recall, average F1 score, average ontological confidence, and various types of hallucinations (subjective and objective).
-
+|--------------------|--------------------|---------------|------------|--------|---------------|----------------|----------------|----------------|
 | LLM Name           | Evaluation Metrics | avg_precision | avg_recall | avg_f1 | avg_onto_conf | avg_sub_halluc | avg_rel_halluc | avg_obj_halluc |
 |--------------------|--------------------|---------------|------------|--------|---------------|----------------|----------------|----------------|
 | Alpaca-LoRA-13B    | Movie              | 0.28          | 0.14       | 0.17   | 0.92          | 0.25           | 0.08           | 0.24           |
@@ -28,7 +28,8 @@ The following table presents the evaluation metrics for three different language
 |                    | Nature             | 0.33          | 0.29       | 0.30   | 0.46          | 0.17           | 0.54           | 0.14           |
 |                    | Culture            | 0.55          | 0.55       | 0.55   | 0.64          | 0.18           | 0.35           | 0.42           |
 |--------------------|--------------------|---------------|------------|--------|---------------|----------------|----------------|----------------|
-
+|                    |    Average         | avg           |            |        |               |                |                |                |
+|--------------------|--------------------|---------------|------------|--------|---------------|----------------|----------------|----------------|
 | Vicuna-13B         | Movie              | 0.33          | 0.23       | 0.25   | 0.89          | 0.26           | 0.11           | 0.26           |
 |                    | Music              | 0.42          | 0.28       | 0.32   | 0.94          | 0.16           | 0.06           | 0.22           |
 |                    | Sport              | 0.57          | 0.52       | 0.52   | 0.85          | 0.22           | 0.15           | 0.13           |
@@ -39,6 +40,8 @@ The following table presents the evaluation metrics for three different language
 |                    | Politics           | 0.34          | 0.32       | 0.33   | 0.92          | 0.17           | 0.08           | 0.15           |
 |                    | Nature             | 0.25          | 0.27       | 0.25   | 0.68          | 0.10           | 0.04           | 0.14           |
 |                    | Culture            | 0.31          | 0.32       | 0.31   | 0.59          | 0.15           | 0.39           | 0.12           |
+|--------------------|--------------------|---------------|------------|--------|---------------|----------------|----------------|----------------|
+|                    |    Average         | avg           |            |        |               |                |                |                |
 |--------------------|--------------------|---------------|------------|--------|---------------|----------------|----------------|----------------|
 
 ## Models Description
