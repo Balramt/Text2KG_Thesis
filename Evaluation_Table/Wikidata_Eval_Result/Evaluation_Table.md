@@ -2,7 +2,7 @@
 
 The following table presents the evaluation metrics for three different language models: **Alpaca-LoRA-13B**, **LLAMA3**, and **Vicuna-13B**. These metrics provide insights into the performance of each model across various categories, such as Movie, Music, Sport, Book, Military, Computer, Space, Politics, Nature, and Culture. The evaluation metrics include average precision, average recall, average F1 score, average ontological confidence, and various types of hallucinations (subjective and objective).
 
-|--------------------|--------------------|---------------|------------|--------|---------------|----------------|----------------|----------------|
+
 | LLM Name           | Evaluation Metrics | avg_precision | avg_recall | avg_f1 | avg_onto_conf | avg_sub_halluc | avg_rel_halluc | avg_obj_halluc |
 |--------------------|--------------------|---------------|------------|--------|---------------|----------------|----------------|----------------|
 | Alpaca-LoRA-13B    | Movie              | 0.28          | 0.14       | 0.17   | 0.92          | 0.25           | 0.08           | 0.24           |
