@@ -1,0 +1,79 @@
+{"id": "ont_3_airport_test_1", "triples": [{"sub": "Abilene Regional Airport", "rel": "location", "obj": "Texas"}]}
+{"id": "ont_3_airport_test_2", "triples": [{"sub": "Regional Airport", "rel": "location", "obj": "Texas"}, {"sub": "Texas", "rel": ", capital", "obj": "Abilene, Texas"}, {"sub": "Texas", "rel": ", country", "obj": "United States"}]}
+{"id": "ont_3_airport_test_3", "triples": [{"sub": "Abilene Regional Airport", "rel": "location", "obj": "Texas"}, {"sub": "Abilene Regional Airport", "rel": ", cityServed", "obj": "Abilene"}, {"sub": "Abilene Regional Airport", "rel": ", runwayLength", "obj": "1,121.0"}, {"sub": "Abilene Regional Airport", "rel": ", elevationAboveTheSeaLevel", "obj": "546.0"}]}
+{"id": "ont_3_airport_test_4", "triples": []}
+{"id": "ont_3_airport_test_5", "triples": [{"sub": "Regional Airport", "rel": "location", "obj": "Abilene"}]}
+{"id": "ont_3_airport_test_6", "triples": [{"sub": "Adirondack Regional Airport", "rel": "location", "obj": "Lake Placid, N.Y."}]}
+{"id": "ont_3_airport_test_7", "triples": [{"sub": "Curitiba", "rel": "stateServed", "obj": "Parana"}]}
+{"id": "ont_3_airport_test_8", "triples": [{"sub": "Parana", "rel": "country", "obj": "Brazil"}]}
+{"id": "ont_3_airport_test_9", "triples": [{"sub": "Curitiba", "rel": "isPartOf", "obj": "South Region"}]}
+{"id": "ont_3_airport_test_10", "triples": [{"sub": "Afonso Pena International Airport", "rel": "operatingOrganisation", "obj": "Infraero"}]}
+{"id": "ont_3_airport_test_11", "triples": [{"sub": "Afonso Pena International Airport", "rel": "location", "obj": "Sao Jose dos Pinhais"}]}
+{"id": "ont_3_airport_test_12", "triples": [{"sub": "Afonso Pena International Airport", "rel": "runwayLength", "obj": "1800.0"}]}
+{"id": "ont_3_airport_test_13", "triples": [{"sub": "Afonso Pena International Airport", "rel": "runwayName", "obj": "\"11/29\""}]}
+{"id": "ont_3_airport_test_14", "triples": [{"sub": "Afonso Pena International Airport", "rel": "runwayLength", "obj": "2215.0"}]}
+{"id": "ont_3_airport_test_15", "triples": [{"sub": "Agra Airport", "rel": "location", "obj": "Uttar Pradesh"}, {"sub": "Agra Airport", "rel": ",  location", "obj": "Awadh"}, {"sub": "Agra Airport", "rel": ",  elevationAboveTheSeaLevelInMetres", "obj": "167.94"}]}
+{"id": "ont_3_airport_test_16", "triples": [{"sub": "Agra Airport", "rel": "icaoLocationIdentifier", "obj": "Agra Airport"}]}
+{"id": "ont_3_airport_test_17", "triples": []}
+{"id": "ont_3_airport_test_18", "triples": [{"sub": "Agra Airport", "rel": "1stRunwaySurfaceType", "obj": "Concrete"}, {"sub": "India)", "rel": ", country", "obj": "leader(Agra Airport, Narendra Modi"}, {"sub": "Agra Airport", "rel": ", leader", "obj": "T. S. Thakur"}, {"sub": "Agra Airport", "rel": ", location", "obj": "India"}]}
+{"id": "ont_3_airport_test_19", "triples": [{"sub": "Agra Airport", "rel": "icaoLocationIdentifier", "obj": "VIAG"}]}
+{"id": "ont_3_airport_test_20", "triples": [{"sub": "Agra", "rel": "isPartOf", "obj": "Uttar Pradesh, Awadh, Uttar Pradesh"}]}
+{"id": "ont_3_airport_test_21", "triples": [{"sub": "Awadh", "rel": "areaCode", "obj": "56"}]}
+{"id": "ont_3_airport_test_22", "triples": [{"sub": "Allama Iqbal International Airport", "rel": "country", "obj": "Pakistan"}]}
+{"id": "ont_3_airport_test_23", "triples": [{"sub": "Agra Airport", "rel": "icaoLocationIdentifier", "obj": "VIAG"}]}
+{"id": "ont_3_airport_test_24", "triples": [{"sub": "Alderney Airport", "rel": "1stRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_25", "triples": [{"sub": "Alderney Airport", "rel": "1stRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_26", "triples": [{"sub": "Alderney Airport", "rel": "1stRunwaySurfaceType", "obj": "Poaceae"}, {"sub": "Alderney Airport", "rel": ", class", "obj": "Monocotyledon"}, {"sub": "Alderney Airport", "rel": ", order", "obj": "Poales"}]}
+{"id": "ont_3_airport_test_27", "triples": [{"sub": "Alderney airport", "rel": "1stRunwaySurfaceType", "obj": "Poaceae of the orders Poales and Commelinids"}]}
+{"id": "ont_3_airport_test_28", "triples": [{"sub": "Alderney Airport", "rel": "cityServed", "obj": "Alderney"}, {"sub": "Alderney Airport", "rel": ", runwayLength", "obj": "497.0"}, {"sub": "Alderney Airport", "rel": ", 1stRunwaySurfaceType", "obj": "asphalt"}]}
+{"id": "ont_3_airport_test_29", "triples": [{"sub": "Alderney Airport", "rel": "1stRunwaySurfaceType", "obj": "asphalt"}, {"sub": "Alderney Airport", "rel": ", runwayLength", "obj": "733.0"}, {"sub": "Alderney Airport", "rel": ", operatingOrganisation", "obj": "Alderney Airport"}]}
+{"id": "ont_3_airport_test_30", "triples": [{"sub": "Alderney Airport", "rel": "1stRunwaySurfaceType", "obj": "Asphalt"}, {"sub": "Alderney Airport", "rel": ", runwayLength", "obj": "877.0"}]}
+{"id": "ont_3_airport_test_31", "triples": [{"sub": "Alpena County Regional Airport", "rel": "location", "obj": "Maple Ridge Township, Michigan"}]}
+{"id": "ont_3_airport_test_32", "triples": [{"sub": "Alpena County Regional Airport", "rel": "location", "obj": "United States"}]}
+{"id": "ont_3_airport_test_33", "triples": [{"sub": "Alpena County Regional Airport", "rel": "runwayLength", "obj": "2744.0"}]}
+{"id": "ont_3_airport_test_34", "triples": []}
+{"id": "ont_3_airport_test_35", "triples": [{"sub": "Alpena County Regional Airport", "rel": "1. elevationAboveTheSeaLevel", "obj": "210"}]}
+{"id": "ont_3_airport_test_36", "triples": [{"sub": "Alpena County Regional Airport", "rel": "location", "obj": "United States"}]}
+{"id": "ont_3_airport_test_37", "triples": [{"sub": "Alpena County Regional Airport", "rel": "runwayLength", "obj": "2744"}]}
+{"id": "ont_3_airport_test_38", "triples": []}
+{"id": "ont_3_airport_test_39", "triples": [{"sub": "Angola International Airport", "rel": "location", "obj": "Ícolo e Bengo"}]}
+{"id": "ont_3_airport_test_40", "triples": [{"sub": "Angola International Airport", "rel": "location", "obj": "Icolo e Bengo"}]}
+{"id": "ont_3_airport_test_41", "triples": [{"sub": "Angola International Airport", "rel": "location", "obj": "\"Ícolo e Bengo\""}]}
+{"id": "ont_3_airport_test_42", "triples": [{"sub": "05L/23R", "rel": "3rdRunwaySurfaceType", "obj": "Angola International airport in Icolo e Bengo, Angola"}]}
+{"id": "ont_3_airport_test_43", "triples": [{"sub": "Angola International Airport", "rel": "icaoLocationIdentifier", "obj": "Icolo e Bengo"}]}
+{"id": "ont_3_airport_test_44", "triples": [{"sub": "Angola International Airport", "rel": "cityServed", "obj": "Luanda"}]}
+{"id": "ont_3_airport_test_45", "triples": [{"sub": "Ardmore Airport", "rel": "3rdRunwaySurfaceType", "obj": "Poaceae"}, {"sub": "Ardmore Airport", "rel": ", runwayLength", "obj": "518.0"}, {"sub": "Ardmore Airport", "rel": ", elevationAboveTheSeaLevel", "obj": "34.0"}]}
+{"id": "ont_3_airport_test_46", "triples": [{"sub": "Ardmore Airport", "rel": "3rdRunwaySurfaceType", "obj": "Poaceae"}, {"sub": "Ardmore Airport", "rel": ", location", "obj": "New Zealand"}, {"sub": "Ardmore Airport", "rel": ", class", "obj": "Monocotyledon"}]}
+{"id": "ont_3_airport_test_47", "triples": [{"sub": "Ardmore Airport", "rel": "3rdRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_48", "triples": [{"sub": "Ardmore Airport (New Zealand)", "rel": "3rdRunwaySurfaceType", "obj": "Poaceae"}, {"sub": "Ardmore Airport (New Zealand)", "rel": ", class", "obj": "Monocotyledon"}, {"sub": "Ardmore Airport (New Zealand)", "rel": ", order", "obj": "poales"}]}
+{"id": "ont_3_airport_test_49", "triples": [{"sub": "Ardmore Airport", "rel": "3rdRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_50", "triples": [{"sub": "Ardmore Airport", "rel": "location", "obj": "New Zealand"}]}
+{"id": "ont_3_airport_test_51", "triples": [{"sub": "Ardmore Airport", "rel": "3rdRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_52", "triples": [{"sub": "Greece", "rel": "leader", "obj": "Nikos Voutsis"}]}
+{"id": "ont_3_airport_test_53", "triples": []}
+{"id": "ont_3_airport_test_54", "triples": [{"sub": "Athens International Airport", "rel": "location", "obj": "Athens"}]}
+{"id": "ont_3_airport_test_55", "triples": [{"sub": "Athens International Airport", "rel": "location", "obj": "Spata"}]}
+{"id": "ont_3_airport_test_56", "triples": []}
+{"id": "ont_3_airport_test_57", "triples": [{"sub": "Agra Airport", "rel": "1) operatingOrganisation", "obj": "Indian Air Force"}, {"sub": "Agra Airport", "rel": " 2) transportAircraft", "obj": "Boeing C-17 Globemaster III"}, {"sub": "Agra Airport", "rel": " 3) aircraftHelicopter", "obj": "HAL Light Combat Helicopter"}]}
+{"id": "ont_3_airport_test_58", "triples": [{"sub": "Afonso Pena International Airport", "rel": "operatingOrganisation", "obj": "Infraero"}]}
+{"id": "ont_3_airport_test_59", "triples": [{"sub": "Ardmore Airport", "rel": "1stRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_60", "triples": [{"sub": "Alderney Airport", "rel": "1stRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_61", "triples": [{"sub": "Alderney airport", "rel": "1stRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_62", "triples": [{"sub": "Alderney Airport", "rel": "1stRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_63", "triples": [{"sub": "Ardmore Airport (New Zealand)", "rel": "2ndRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_64", "triples": [{"sub": "Ardmore Airport (New Zealand)", "rel": "2ndRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_65", "triples": [{"sub": "Adirondack Regional Airport", "rel": "regionServed", "obj": "New York"}]}
+{"id": "ont_3_airport_test_66", "triples": [{"sub": "Saranac Lake", "rel": "isPartOf", "obj": "Harrietstown"}]}
+{"id": "ont_3_airport_test_67", "triples": []}
+{"id": "ont_3_airport_test_68", "triples": [{"sub": "Adirondack Regional Airport", "rel": "location", "obj": "Saranac Lake Harrietstown"}]}
+{"id": "ont_3_airport_test_69", "triples": [{"sub": "Adirondack Regional Airport", "rel": "cityServed", "obj": "Saranac Lake"}]}
+{"id": "ont_3_airport_test_70", "triples": [{"sub": "Abilene Regional Airport", "rel": "location", "obj": "Taylor County"}]}
+{"id": "ont_3_airport_test_71", "triples": [{"sub": "Adirondack Regional Airport", "rel": "runwayLength", "obj": "1219.0"}, {"sub": "Adirondack Regional Airport", "rel": ", cityServed", "obj": "Lake Placid, New York"}, {"sub": "Adirondack Regional Airport", "rel": ", cityServed", "obj": "Saranac Lake, New York"}]}
+{"id": "ont_3_airport_test_72", "triples": [{"sub": "Agra Airport", "rel": "icaoLocationIdentifier", "obj": "VIAG"}, {"sub": "Agra Airport", "rel": ", operatingOrganisation", "obj": "Indian Air Force"}, {"sub": "Agra Airport", "rel": ", country", "obj": "India"}]}
+{"id": "ont_3_airport_test_73", "triples": [{"sub": "Alderney Airport", "rel": "1stRunwaySurfaceType", "obj": "\"Poaceae\""}, {"sub": "Alderney Airport", "rel": ", runwayLength", "obj": "733.0"}, {"sub": "Alderney Airport", "rel": ", cityServed", "obj": "Alderney"}]}
+{"id": "ont_3_airport_test_74", "triples": [{"sub": "Alpena County Regional Airport", "rel": "location", "obj": "Wilson Township, Alpena County, Michigan"}]}
+{"id": "ont_3_airport_test_75", "triples": [{"sub": "Angola International Airport", "rel": "location", "obj": "Icolo e Bengo Angola"}]}
+{"id": "ont_3_airport_test_76", "triples": [{"sub": "Angola International Airport", "rel": "1stRunwaySurfaceType", "obj": "south runway"}]}
+{"id": "ont_3_airport_test_77", "triples": [{"sub": "Ardmore Airport (New Zealand)", "rel": "3rdRunwaySurfaceType", "obj": "Poaceae"}]}
+{"id": "ont_3_airport_test_78", "triples": [{"sub": "Athens International Airport", "rel": "1stRunwaySurfaceType", "obj": "Concrete"}, {"sub": "Greece", "rel": ", leader", "obj": "Alexis Tsipras"}, {"sub": "Athens International Airport", "rel": ", cityServed", "obj": "Athens"}, {"sub": "Athens International Airport", "rel": ", country", "obj": "Greece"}]}
+{"id": "ont_3_airport_test_79", "triples": []}

@@ -1,0 +1,56 @@
+{"id": "ont_7_company_test_1", "triples": [{"sub": "Chinabank (company)", "rel": "type", "obj": "Public company"}]}
+{"id": "ont_7_company_test_2", "triples": [{"sub": "Chinabank", "rel": "type", "obj": "Public company"}, {"sub": "Chinabank", "rel": "  foundingDate", "obj": "Date"}, {"sub": "Philippines", "rel": "  capital", "obj": "Manila"}]}
+{"id": "ont_7_company_test_3", "triples": [{"sub": "Chinabank", "rel": "location", "obj": "Manila"}]}
+{"id": "ont_7_company_test_4", "triples": [{"sub": "Chinabank", "rel": "location", "obj": "Manila"}]}
+{"id": "ont_7_company_test_5", "triples": [{"sub": "Chinabank", "rel": "numberOfEmployees", "obj": "5594"}]}
+{"id": "ont_7_company_test_6", "triples": [{"sub": "Chinabank", "rel": "country", "obj": "China"}]}
+{"id": "ont_7_company_test_7", "triples": [{"sub": "Chinabank", "rel": "numberOfEmployees", "obj": "5594"}]}
+{"id": "ont_7_company_test_8", "triples": []}
+{"id": "ont_7_company_test_9", "triples": [{"sub": "Chinabank", "rel": "location", "obj": "Manila"}]}
+{"id": "ont_7_company_test_10", "triples": [{"sub": "Chinabank", "rel": "1. type", "obj": "public company"}]}
+{"id": "ont_7_company_test_11", "triples": []}
+{"id": "ont_7_company_test_12", "triples": [{"sub": "Chinabank (company)", "rel": "type", "obj": "Public company"}, {"sub": "Chinabank (company)", "rel": "  foundingDate", "obj": "Manila"}, {"sub": "Chinabank (company)", "rel": "  numberOfLocations", "obj": "295"}]}
+{"id": "ont_7_company_test_13", "triples": [{"sub": "Trane", "rel": "city", "obj": "La Crosse, Wisconsin"}]}
+{"id": "ont_7_company_test_14", "triples": [{"sub": "Trane", "rel": "numberOfEmployees", "obj": "29000"}]}
+{"id": "ont_7_company_test_15", "triples": [{"sub": "Trane", "rel": "foundingDate", "obj": "1913-01-01"}]}
+{"id": "ont_7_company_test_16", "triples": []}
+{"id": "ont_7_company_test_17", "triples": [{"sub": "Trane", "rel": "country", "obj": "Ireland"}]}
+{"id": "ont_7_company_test_18", "triples": [{"sub": "Trane", "rel": "numberOfEmployees", "obj": "29000"}]}
+{"id": "ont_7_company_test_19", "triples": [{"sub": "Trane", "rel": "product", "obj": "HVAC"}, {"sub": "Trane", "rel": ", country", "obj": "Ireland"}, {"sub": "Trane", "rel": ", location", "obj": "Europe"}]}
+{"id": "ont_7_company_test_20", "triples": [{"sub": "Trane", "rel": "city", "obj": "Swords, Dublin, Ireland"}]}
+{"id": "ont_7_company_test_21", "triples": [{"sub": "Trane", "rel": "type", "obj": "subsidiary"}]}
+{"id": "ont_7_company_test_22", "triples": [{"sub": "Trane", "rel": "numberOfEmployees", "obj": "29000"}]}
+{"id": "ont_7_company_test_23", "triples": [{"sub": "Trane", "rel": "1. operatingIncome", "obj": "875400000"}]}
+{"id": "ont_7_company_test_24", "triples": [{"sub": "Trane", "rel": "country", "obj": "United States"}]}
+{"id": "ont_7_company_test_25", "triples": [{"sub": "Trane", "rel": "industry", "obj": "Building Materials"}]}
+{"id": "ont_7_company_test_26", "triples": [{"sub": "Trane", "rel": "product", "obj": "Building Management Systems"}]}
+{"id": "ont_7_company_test_27", "triples": [{"sub": "Trane", "rel": "netIncome", "obj": "556300000"}]}
+{"id": "ont_7_company_test_28", "triples": [{"sub": "Trane", "rel": "revenue", "obj": "10264000000"}, {"sub": "Trane", "rel": "  operatingIncome", "obj": "10264000000"}, {"sub": "Trane", "rel": "  location", "obj": "Swords"}, {"sub": "Trane", "rel": "  city", "obj": "Dublin"}, {"sub": "Trane", "rel": "  industry", "obj": "building management systems"}]}
+{"id": "ont_7_company_test_29", "triples": [{"sub": "Trane", "rel": "revenue", "obj": "10264000000"}]}
+{"id": "ont_7_company_test_30", "triples": [{"sub": "Trane", "rel": "revenue", "obj": "10264000000"}]}
+{"id": "ont_7_company_test_31", "triples": [{"sub": "Trane", "rel": "revenue", "obj": "10264000000"}, {"sub": "Trane", "rel": ", netIncome", "obj": "556300000"}]}
+{"id": "ont_7_company_test_32", "triples": [{"sub": "Trane", "rel": "operatingIncome", "obj": "875400000"}]}
+{"id": "ont_7_company_test_33", "triples": [{"sub": "Chinabank", "rel": "location", "obj": "Philippines"}]}
+{"id": "ont_7_company_test_34", "triples": [{"sub": "Chinabank", "rel": "netIncome", "obj": "15100000000"}]}
+{"id": "ont_7_company_test_35", "triples": [{"sub": "Chinabank (company)", "rel": "type", "obj": "Public company"}]}
+{"id": "ont_7_company_test_36", "triples": [{"sub": "Chinabank", "rel": "location", "obj": "Philippines"}]}
+{"id": "ont_7_company_test_37", "triples": [{"sub": "Philippines", "rel": "isPartOf", "obj": "Metro Manila"}]}
+{"id": "ont_7_company_test_38", "triples": [{"sub": "La Crosse", "rel": "city", "obj": "La Crosse"}]}
+{"id": "ont_7_company_test_39", "triples": [{"sub": "Trane", "rel": "1) country", "obj": "United States"}]}
+{"id": "ont_7_company_test_40", "triples": [{"sub": "Chinabank (company)", "rel": "type", "obj": "Public company"}]}
+{"id": "ont_7_company_test_41", "triples": [{"sub": "Trane", "rel": "1. industry", "obj": "Heating, ventilation, air conditioning, and refrigeration equipment"}]}
+{"id": "ont_7_company_test_42", "triples": []}
+{"id": "ont_7_company_test_43", "triples": [{"sub": "Wisconsin", "rel": "city", "obj": "La Crosse"}]}
+{"id": "ont_7_company_test_44", "triples": [{"sub": "Trane", "rel": "foundingDate", "obj": "1913-01-01"}]}
+{"id": "ont_7_company_test_45", "triples": [{"sub": "Chinabank", "rel": "country", "obj": "China"}]}
+{"id": "ont_7_company_test_46", "triples": [{"sub": "Chinabank (company)", "rel": "1. type", "obj": "Public company"}]}
+{"id": "ont_7_company_test_47", "triples": [{"sub": "Trane", "rel": "country", "obj": "Ireland"}]}
+{"id": "ont_7_company_test_48", "triples": [{"sub": "Chinabank", "rel": "location", "obj": "Manila"}]}
+{"id": "ont_7_company_test_49", "triples": [{"sub": "La Crosse Wisconsin", "rel": "areaTotal", "obj": "204.0"}]}
+{"id": "ont_7_company_test_50", "triples": []}
+{"id": "ont_7_company_test_51", "triples": [{"sub": "Trane", "rel": "operatingIncome", "obj": "875400000"}]}
+{"id": "ont_7_company_test_52", "triples": [{"sub": "Trane", "rel": "location", "obj": "Swords Dublin"}, {"sub": "Trane", "rel": ", countyManager", "obj": "Swords Dublin"}, {"sub": "Swords Dublin", "rel": ", leader", "obj": "County Manager"}]}
+{"id": "ont_7_company_test_53", "triples": [{"sub": "Chinabank", "rel": "location", "obj": "Manila"}]}
+{"id": "ont_7_company_test_54", "triples": [{"sub": "Trane", "rel": "subsidiary", "obj": "Trane"}]}
+{"id": "ont_7_company_test_55", "triples": [{"sub": "Trane", "rel": "country", "obj": "United States"}]}
+{"id": "ont_7_company_test_56", "triples": [{"sub": "Trane", "rel": "revenue", "obj": "10264000000"}]}

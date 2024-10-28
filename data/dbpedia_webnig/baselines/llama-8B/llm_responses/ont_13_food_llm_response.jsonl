@@ -1,0 +1,153 @@
+{"id": "ont_13_food_test_1", "triples": [{"sub": "Amatriciana sauce", "rel": "mainIngredient", "obj": "\"Tomatoes\""}]}
+{"id": "ont_13_food_test_2", "triples": [{"sub": "amatriciana sauce", "rel": "mainIngredient", "obj": "\"Tomatoes\""}]}
+{"id": "ont_13_food_test_3", "triples": [{"sub": "Amatriciana sauce", "rel": "mainIngredient", "obj": "\"Tomatoes, guanciale, cheese and olive oil\""}]}
+{"id": "ont_13_food_test_4", "triples": [{"sub": "amatriciana sauce", "rel": "country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_5", "triples": [{"sub": "Amatriciana sauce", "rel": "country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_6", "triples": [{"sub": "Traditional Italian sauce from Lazio", "rel": "country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_7", "triples": [{"sub": "Amatriciana sauce", "rel": "region", "obj": "Lazio"}]}
+{"id": "ont_13_food_test_8", "triples": [{"sub": "amatriciana sauce", "rel": "country", "obj": "italy"}]}
+{"id": "ont_13_food_test_9", "triples": [{"sub": "Arem-arem", "rel": "region", "obj": "\"Nationwide in Indonesia, but is more specific to Java\""}]}
+{"id": "ont_13_food_test_10", "triples": [{"sub": "Arem-arem", "rel": "region", "obj": "Indonesia"}, {"sub": "Arem-arem", "rel": ", carbohydrate", "obj": "2.3"}, {"sub": "Arem-arem", "rel": ", protein", "obj": "1.3"}, {"sub": "Arem-arem", "rel": ", fat", "obj": "0.7"}, {"sub": "Arem-arem", "rel": ", mainIngredient", "obj": "banana leaf"}, {"sub": "Arem-arem", "rel": ", family", "obj": "Arems"}, {"sub": "Arem-arem", "rel": ", dishVariation", "obj": "Arem-arem"}, {"sub": "Arem-arem", "rel": ", region", "obj": "Indonesia"}, {"sub": "Arem-arem", "rel": ", carbohydrate", "obj": "2.3"}, {"sub": "Arem-arem", "rel": ", protein", "obj": "1.3"}, {"sub": "Arem-arem", "rel": ", fat", "obj": "0.7"}, {"sub": "Arem-arem", "rel": ", mainIngredient", "obj": "banana leaf"}, {"sub": "Arem-arem", "rel": ", family", "obj": "Arems"}, {"sub": "Arem-arem", "rel": ", dishVariation", "obj": "Arem-arem"}, {"sub": "Arem-arem", "rel": ", region", "obj": "Indonesia"}, {"sub": "Arem-arem", "rel": ", carbohydrate", "obj": "2.3"}, {"sub": "Arem-arem", "rel": ", protein", "obj": "1.3"}]}
+{"id": "ont_13_food_test_11", "triples": [{"sub": "Indonesia", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_12", "triples": [{"sub": "Arem arem", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_13", "triples": [{"sub": "Arem-arem", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_14", "triples": [{"sub": "Arem-arem", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_15", "triples": [{"sub": "Arem-arem", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_16", "triples": [{"sub": "Arem-arem", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_17", "triples": [{"sub": "Arem arem", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_18", "triples": [{"sub": "Arrabbiata sauce", "rel": "country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_19", "triples": [{"sub": "Arrabbiata sauce", "rel": "country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_20", "triples": [{"sub": "Asam pedas", "rel": "country", "obj": "Malaysia"}]}
+{"id": "ont_13_food_test_21", "triples": [{"sub": "Arrabbiata sauce", "rel": "1. country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_22", "triples": [{"sub": "Chili pepper", "rel": "mainIngredient", "obj": "Arrabbiata sauce"}, {"sub": "Oregano", "rel": ", mainIngredient", "obj": "Arrabbiata sauce"}, {"sub": "Chili pepper", "rel": ", country", "obj": "Italy"}, {"sub": "Oregano", "rel": ", country", "obj": "Italy"}, {"sub": "Chili pepper", "rel": ", mainIngredient", "obj": "Arrabbiata sauce"}, {"sub": "Oregano", "rel": ", mainIngredient", "obj": "Arrabbiata sauce"}, {"sub": "Chili pepper", "rel": ", country", "obj": "Italy"}, {"sub": "Oregano", "rel": ", country", "obj": "Italy"}, {"sub": "Chili pepper", "rel": ", mainIngredient", "obj": "Arrabbiata sauce"}, {"sub": "Oregano", "rel": ", mainIngredient", "obj": "Arrabbiata sauce"}, {"sub": "Chili pepper", "rel": ", country", "obj": "Italy"}, {"sub": "Oregano", "rel": ", country", "obj": "Italy"}, {"sub": "Chili pepper", "rel": ", mainIngredient", "obj": "Arrabbiata sauce"}, {"sub": "Oregano", "rel": ", mainIngredient", "obj": "Arrabbiata sauce"}, {"sub": "Chili pepper", "rel": ", country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_23", "triples": [{"sub": "Arrabbiata sauce", "rel": "country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_24", "triples": [{"sub": "Arrabbiata sauce", "rel": "ingredient", "obj": "Tomato"}]}
+{"id": "ont_13_food_test_25", "triples": [{"sub": "BLT", "rel": "dishVariation", "obj": "Club sandwich"}]}
+{"id": "ont_13_food_test_26", "triples": [{"sub": "Bacon sandwich", "rel": "ingredient", "obj": "Condiments"}]}
+{"id": "ont_13_food_test_27", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "United States"}, {"sub": "Bacon Explosion", "rel": "  mainIngredient", "obj": "Bacon"}, {"sub": "Bacon Explosion", "rel": "  course", "obj": "Main course"}]}
+{"id": "ont_13_food_test_28", "triples": [{"sub": "Kansas City metropolitan area", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_29", "triples": [{"sub": "United States", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_30", "triples": [{"sub": "Bacon explosion", "rel": "mainIngredient", "obj": "bacon"}]}
+{"id": "ont_13_food_test_31", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "US"}]}
+{"id": "ont_13_food_test_32", "triples": [{"sub": "United States", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_33", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_34", "triples": [{"sub": "United States", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_35", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_36", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_37", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "U.S."}]}
+{"id": "ont_13_food_test_38", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_39", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "U.S."}]}
+{"id": "ont_13_food_test_40", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_41", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "U.S."}]}
+{"id": "ont_13_food_test_42", "triples": [{"sub": "White Americans", "rel": "1. ethnicGroup", "obj": "ethnic group"}]}
+{"id": "ont_13_food_test_43", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_44", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_45", "triples": [{"sub": "Bacon explosion", "rel": "mainCourse", "obj": "main course"}]}
+{"id": "ont_13_food_test_46", "triples": []}
+{"id": "ont_13_food_test_47", "triples": [{"sub": "bacon sandwich", "rel": "ingredient", "obj": "bacon"}, {"sub": "bacon sandwich", "rel": ",  ingredient", "obj": "bacon"}, {"sub": "bacon sandwich", "rel": ",  country", "obj": "UK"}, {"sub": "bacon sandwich", "rel": ",  ingredient", "obj": "bacon"}, {"sub": "bacon sandwich", "rel": ",  alternativeName", "obj": "bacon butty"}, {"sub": "bacon sandwich", "rel": ",  alternativeName", "obj": "bacon sarnie"}, {"sub": "bacon sandwich", "rel": ",  alternativeName", "obj": "rasher sandwich"}, {"sub": "bacon sandwich", "rel": ",  alternativeName", "obj": "bacon sanger"}, {"sub": "bacon sandwich", "rel": ",  alternativeName", "obj": "piece 'n bacon"}, {"sub": "bacon sandwich", "rel": ",  alternativeName", "obj": "bacon cob"}, {"sub": "bacon sandwich", "rel": ",  alternativeName", "obj": "bacon barm"}, {"sub": "bacon sandwich", "rel": ",  alternativeName", "obj": "bacon muffin"}]}
+{"id": "ont_13_food_test_48", "triples": []}
+{"id": "ont_13_food_test_49", "triples": [{"sub": "United Kingdom", "rel": "country", "obj": "United Kingdom"}]}
+{"id": "ont_13_food_test_50", "triples": []}
+{"id": "ont_13_food_test_51", "triples": [{"sub": "bacon sandwich", "rel": "1) country", "obj": "UK"}, {"sub": "bacon sandwich", "rel": " 2) ingredient", "obj": "bacon"}, {"sub": "bacon sandwich", "rel": " 3) ingredient", "obj": "ketchup"}, {"sub": "bacon sandwich", "rel": " 4) alternativeName", "obj": "bacon butty"}, {"sub": "bacon sandwich", "rel": " 5) alternativeName", "obj": "bacon sarnie"}, {"sub": "bacon sandwich", "rel": " 6) alternativeName", "obj": "rasher sandwich"}, {"sub": "bacon sandwich", "rel": " 7) alternativeName", "obj": "bacon sanger"}, {"sub": "bacon sandwich", "rel": " 8) alternativeName", "obj": "piece 'n bacon"}, {"sub": "bacon sandwich", "rel": " 9) alternativeName", "obj": "bacon cob"}, {"sub": "bacon sandwich", "rel": " 10) alternativeName", "obj": "bacon barm"}]}
+{"id": "ont_13_food_test_52", "triples": [{"sub": "Tomato", "rel": "ingredient", "obj": "BLT sandwich"}, {"sub": "BLT sandwich", "rel": ", alternativeName", "obj": "\"Club sandwich\""}, {"sub": "BLT sandwich", "rel": ", ingredient", "obj": "Bacon"}]}
+{"id": "ont_13_food_test_53", "triples": [{"sub": "Bacon sandwich", "rel": "ingredient", "obj": "Brown sauce"}]}
+{"id": "ont_13_food_test_54", "triples": [{"sub": "A variation of the BLT", "rel": "country", "obj": "United Kingdom"}]}
+{"id": "ont_13_food_test_55", "triples": [{"sub": "Bacon sandwich", "rel": "country", "obj": "United Kingdom"}]}
+{"id": "ont_13_food_test_56", "triples": [{"sub": "Brown sauce", "rel": "region", "obj": "United Kingdom"}]}
+{"id": "ont_13_food_test_57", "triples": []}
+{"id": "ont_13_food_test_58", "triples": [{"sub": "BLT", "rel": "ingredient", "obj": "Bacon"}]}
+{"id": "ont_13_food_test_59", "triples": [{"sub": "Bionico", "rel": "mainIngredient", "obj": "Condensed milk"}]}
+{"id": "ont_13_food_test_60", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexican cuisine"}]}
+{"id": "ont_13_food_test_61", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Sour cream"}]}
+{"id": "ont_13_food_test_62", "triples": [{"sub": "Bionico", "rel": "mainIngredient", "obj": "Condensed milk"}]}
+{"id": "ont_13_food_test_63", "triples": [{"sub": "Bionico", "rel": "region", "obj": "Jalisco"}]}
+{"id": "ont_13_food_test_64", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Sour cream"}]}
+{"id": "ont_13_food_test_65", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_66", "triples": []}
+{"id": "ont_13_food_test_67", "triples": [{"sub": "Mexico", "rel": "1. leader", "obj": "Silvano Aureoles Conejo"}]}
+{"id": "ont_13_food_test_68", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_69", "triples": []}
+{"id": "ont_13_food_test_70", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_71", "triples": [{"sub": "Mexico", "rel": "language", "obj": "Mexican Spanish"}]}
+{"id": "ont_13_food_test_72", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_73", "triples": [{"sub": "Granola", "rel": "ingredient", "obj": "Bionico"}]}
+{"id": "ont_13_food_test_74", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Granola"}]}
+{"id": "ont_13_food_test_75", "triples": []}
+{"id": "ont_13_food_test_76", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Granola"}, {"sub": "Bionico", "rel": ", course", "obj": "Dessert"}, {"sub": "Dessert", "rel": ", dishVariation", "obj": "Bionico"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "25"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "26"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "27"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "28"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "29"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "30"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "31"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "32"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "33"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "34"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "35"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "36"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "37"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "38"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "39"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "40"}]}
+{"id": "ont_13_food_test_77", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Raisins"}]}
+{"id": "ont_13_food_test_78", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Raisin"}]}
+{"id": "ont_13_food_test_79", "triples": [{"sub": "Cake", "rel": "course", "obj": "Dessert"}]}
+{"id": "ont_13_food_test_80", "triples": [{"sub": "Ice cream", "rel": "carbohydrate", "obj": "number"}]}
+{"id": "ont_13_food_test_81", "triples": [{"sub": "Dessert", "rel": "1. carbohydrate", "obj": "number"}, {"sub": "Bionico", "rel": " 2. carbohydrate", "obj": "number"}, {"sub": "Bionico", "rel": " 3. course", "obj": "Dessert"}, {"sub": "Dessert", "rel": " 4. dishVariation", "obj": "Bionico (confectionery"}, {"sub": "Bionico", "rel": ") 5. ingredient", "obj": "Raisins"}, {"sub": "Ice cream", "rel": " 6. carbohydrate", "obj": "number"}, {"sub": "Ice cream", "rel": " 7. course", "obj": "Dessert"}, {"sub": "Dessert", "rel": " 8. dishVariation", "obj": "Bionico (confectionery"}, {"sub": "Ice cream", "rel": ") 9. ingredient", "obj": "Dairy product"}, {"sub": "Bionico", "rel": " 10. carbohydrate", "obj": "number"}, {"sub": "Ice cream", "rel": " 11. carbohydrate", "obj": "number"}, {"sub": "Dessert", "rel": " 12. carbohydrate", "obj": "number"}, {"sub": "Bionico", "rel": " 13. course", "obj": "Dessert"}, {"sub": "Dessert", "rel": " 14. dishVariation", "obj": "Bionico (confectionery"}, {"sub": "Bionico", "rel": ") 15. ingredient", "obj": "Raisins"}, {"sub": "Ice cream", "rel": " 16. carbohydrate", "obj": "number"}]}
+{"id": "ont_13_food_test_82", "triples": [{"sub": "Bakso", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_83", "triples": [{"sub": "Bakso", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_84", "triples": [{"sub": "amatriciana sauce", "rel": "country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_85", "triples": [{"sub": "amatriciana sauce", "rel": "country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_86", "triples": [{"sub": "Asam pedas", "rel": "country", "obj": "Malaysia"}]}
+{"id": "ont_13_food_test_87", "triples": []}
+{"id": "ont_13_food_test_88", "triples": [{"sub": "U.S.", "rel": "leaderTitle", "obj": "President"}]}
+{"id": "ont_13_food_test_89", "triples": [{"sub": "United States", "rel": "ethnicGroup", "obj": "Native Americans"}]}
+{"id": "ont_13_food_test_90", "triples": []}
+{"id": "ont_13_food_test_91", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_92", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_93", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_94", "triples": [{"sub": "Bionico", "rel": "1. course", "obj": "Dessert"}]}
+{"id": "ont_13_food_test_95", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_96", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_97", "triples": [{"sub": "Mexico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_98", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Milk"}, {"sub": "Bionico", "rel": ", course", "obj": "Dessert"}, {"sub": "Dessert", "rel": ", dishVariation", "obj": "Cookie"}]}
+{"id": "ont_13_food_test_99", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Sour cream"}]}
+{"id": "ont_13_food_test_100", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Cookie"}]}
+{"id": "ont_13_food_test_101", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_102", "triples": [{"sub": "Honey", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_103", "triples": [{"sub": "Dessert", "rel": "dishVariation", "obj": "Sandesh"}]}
+{"id": "ont_13_food_test_104", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Raisins"}]}
+{"id": "ont_13_food_test_105", "triples": []}
+{"id": "ont_13_food_test_106", "triples": []}
+{"id": "ont_13_food_test_107", "triples": []}
+{"id": "ont_13_food_test_108", "triples": [{"sub": "Mexico", "rel": "currency", "obj": "Peso"}]}
+{"id": "ont_13_food_test_109", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Taro"}]}
+{"id": "ont_13_food_test_110", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_111", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Granola"}]}
+{"id": "ont_13_food_test_112", "triples": []}
+{"id": "ont_13_food_test_113", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_114", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_115", "triples": [{"sub": "Mexico", "rel": "1. country", "obj": "Country"}]}
+{"id": "ont_13_food_test_116", "triples": []}
+{"id": "ont_13_food_test_117", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}, {"sub": "Bionico", "rel": ", course", "obj": "Dessert"}, {"sub": "Bionico", "rel": ", region", "obj": "Guadalajara"}]}
+{"id": "ont_13_food_test_118", "triples": [{"sub": "Bionico (contains raisins)", "rel": "ingredient", "obj": "Raisins"}]}
+{"id": "ont_13_food_test_119", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_120", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Sour cream"}]}
+{"id": "ont_13_food_test_121", "triples": [{"sub": "Dessert", "rel": "dishVariation", "obj": "Bionico"}]}
+{"id": "ont_13_food_test_122", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_123", "triples": [{"sub": "Bionico", "rel": "1) ingredient", "obj": "shredded coconut"}]}
+{"id": "ont_13_food_test_124", "triples": []}
+{"id": "ont_13_food_test_125", "triples": []}
+{"id": "ont_13_food_test_126", "triples": [{"sub": "Mexico", "rel": "currency", "obj": "peso"}]}
+{"id": "ont_13_food_test_127", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_128", "triples": [{"sub": "Dessert", "rel": "dishVariation", "obj": "Bionico"}]}
+{"id": "ont_13_food_test_129", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Mexico"}, {"sub": "Bionico", "rel": "  course", "obj": "Dessert"}, {"sub": "Bionico", "rel": "  ingredient", "obj": "Granola"}, {"sub": "Mexico", "rel": "  leader", "obj": "Silvano Aureoles Conejo"}, {"sub": "Mexico", "rel": "  country", "obj": "Mexico"}, {"sub": "Bionico", "rel": "  course", "obj": "Dessert"}, {"sub": "Bionico", "rel": "  ingredient", "obj": "Granola"}, {"sub": "Mexico", "rel": "  leader", "obj": "Silvano Aureoles Conejo"}, {"sub": "Mexico", "rel": "  country", "obj": "Mexico"}, {"sub": "Bionico", "rel": "  course", "obj": "Dessert"}, {"sub": "Bionico", "rel": "  ingredient", "obj": "Granola"}, {"sub": "Mexico", "rel": "  leader", "obj": "Silvano Aureoles Conejo"}, {"sub": "Mexico", "rel": "  country", "obj": "Mexico"}, {"sub": "Bionico", "rel": "  course", "obj": "Dessert"}, {"sub": "Bionico", "rel": "  ingredient", "obj": "Granola"}, {"sub": "Mexico", "rel": "  leader", "obj": "Silvano Aureoles Conejo"}, {"sub": "Mexico", "rel": "  country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_130", "triples": [{"sub": "Bionico", "rel": "1. ingredient", "obj": "Taro"}]}
+{"id": "ont_13_food_test_131", "triples": [{"sub": "Bionico", "rel": "ingredient", "obj": "Taro"}]}
+{"id": "ont_13_food_test_132", "triples": [{"sub": "Mexico", "rel": "1. country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_133", "triples": [{"sub": "Bionico", "rel": "country", "obj": "Guadalajara"}]}
+{"id": "ont_13_food_test_134", "triples": [{"sub": "Mexico", "rel": "country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_135", "triples": [{"sub": "Arem arem", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_136", "triples": [{"sub": "arem-arem", "rel": "country", "obj": "Indonesia"}]}
+{"id": "ont_13_food_test_137", "triples": [{"sub": "Italy", "rel": "language", "obj": "Italian language"}]}
+{"id": "ont_13_food_test_138", "triples": [{"sub": "Traditional dish from Rome", "rel": "country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_139", "triples": [{"sub": "Arrabbiata sauce", "rel": "country", "obj": "Italy"}]}
+{"id": "ont_13_food_test_140", "triples": [{"sub": "Bacon Explosion", "rel": "mainIngredient", "obj": "Bacon"}, {"sub": "Bacon Explosion", "rel": "  mainIngredient", "obj": "Sausage"}, {"sub": "Bacon Explosion", "rel": "  region", "obj": "United States"}]}
+{"id": "ont_13_food_test_141", "triples": [{"sub": "United States", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_142", "triples": [{"sub": "Bacon Explosion", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_143", "triples": [{"sub": "Bacon Explosion", "rel": "1. ingredient", "obj": "Bacon"}]}
+{"id": "ont_13_food_test_144", "triples": []}
+{"id": "ont_13_food_test_145", "triples": [{"sub": "Baked Alaska", "rel": "country", "obj": "France"}]}
+{"id": "ont_13_food_test_146", "triples": [{"sub": "Baked Alaska", "rel": "country", "obj": "United States"}]}
+{"id": "ont_13_food_test_147", "triples": [{"sub": "Baked Alaska", "rel": "dishVariation", "obj": "Christmas pudding"}]}
+{"id": "ont_13_food_test_148", "triples": [{"sub": "Baked Alaska", "rel": "course", "obj": "Dessert"}]}
+{"id": "ont_13_food_test_149", "triples": [{"sub": "Bionico", "rel": "carbohydrate", "obj": "number"}, {"sub": "Bionico", "rel": ", course", "obj": "Dessert"}, {"sub": "Dessert", "rel": ", dishVariation", "obj": "Bionico"}, {"sub": "Bionico", "rel": ", fat", "obj": "number"}, {"sub": "Bionico", "rel": ", mainIngredient", "obj": "Sour Cream"}, {"sub": "Bionico", "rel": ", servingTemperature", "obj": "number"}, {"sub": "Bionico", "rel": ", country", "obj": "Mexico"}, {"sub": "Bionico", "rel": ", region", "obj": "Mexico"}, {"sub": "Bionico", "rel": ", genus", "obj": "Genus"}, {"sub": "Bionico", "rel": ", ethnicGroup", "obj": "EthnicGroup"}, {"sub": "Bionico", "rel": ", order", "obj": "number"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}, {"sub": "Mexico", "rel": ", capital", "obj": "City"}]}
+{"id": "ont_13_food_test_150", "triples": [{"sub": "Bionico", "rel": "region", "obj": "Jalisco"}, {"sub": "Bionico", "rel": ", ingredient", "obj": "Raisin"}, {"sub": "Bionico", "rel": ", country", "obj": "Mexico"}]}
+{"id": "ont_13_food_test_151", "triples": [{"sub": "Bakso", "rel": "ingredient", "obj": "Celery"}, {"sub": "Celery", "rel": ", genus", "obj": "Apium"}, {"sub": "Celery", "rel": ", family", "obj": "Apiaceae"}]}
+{"id": "ont_13_food_test_152", "triples": [{"sub": "Bionico", "rel": "1. course", "obj": "Dessert"}, {"sub": "Dessert", "rel": " 2. dishVariation", "obj": "Cake"}, {"sub": "Bionico", "rel": " 3. ingredient", "obj": "Granola"}, {"sub": "Bionico", "rel": " 4. dishVariation", "obj": "Cake"}]}
+{"id": "ont_13_food_test_153", "triples": [{"sub": "Bakso", "rel": "country", "obj": "Indonesia"}, {"sub": "Indonesia", "rel": ", capital", "obj": "Jakarta"}, {"sub": "Indonesia", "rel": ", leader", "obj": "Jusuf Kalla"}]}

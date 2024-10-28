@@ -1,0 +1,127 @@
+{"id": "ont_14_writtenwork_test_1", "triples": [{"sub": "\"ACM Trans. Inf. Syst.\"", "rel": "abbreviation", "obj": "\"ACM Trans. Inf. Syst.\""}]}
+{"id": "ont_14_writtenwork_test_2", "triples": [{"sub": "ACM Transactions on Information Systems", "rel": "abbreviation", "obj": "\"ACM Trans. Inf. Syst\""}]}
+{"id": "ont_14_writtenwork_test_3", "triples": [{"sub": "ACM Transactions on Information Systems", "rel": "codenCode", "obj": "\"ATISET\""}]}
+{"id": "ont_14_writtenwork_test_4", "triples": []}
+{"id": "ont_14_writtenwork_test_5", "triples": [{"sub": "AIDS (journal)", "rel": "academicDiscipline", "obj": "AIDS"}]}
+{"id": "ont_14_writtenwork_test_6", "triples": [{"sub": "AIDS Journal", "rel": "academicDiscipline", "obj": "HIV/AIDS"}]}
+{"id": "ont_14_writtenwork_test_7", "triples": [{"sub": "AIDS journal", "rel": "academicDiscipline", "obj": "HIV"}]}
+{"id": "ont_14_writtenwork_test_8", "triples": [{"sub": "AIDS (journal)", "rel": "publisher", "obj": "Lippincott, Williams & Wilkins"}]}
+{"id": "ont_14_writtenwork_test_9", "triples": [{"sub": "AIDS (journal)", "rel": "publisher", "obj": "Lippincott, Williams & Wilkins"}]}
+{"id": "ont_14_writtenwork_test_10", "triples": [{"sub": "AIDS (journal)", "rel": "academicDiscipline", "obj": "HIV/AIDS"}]}
+{"id": "ont_14_writtenwork_test_11", "triples": [{"sub": "AIDS (journal)", "rel": "publisher", "obj": "Lippincott Williams & Wilkins"}]}
+{"id": "ont_14_writtenwork_test_12", "triples": [{"sub": "AIP Advances", "rel": "abbreviation", "obj": "\"AIP Adv.\""}]}
+{"id": "ont_14_writtenwork_test_13", "triples": [{"sub": "AIP Advances", "rel": "1. academicDiscipline", "obj": "AIP Advances"}]}
+{"id": "ont_14_writtenwork_test_14", "triples": [{"sub": "Michael Tinkham", "rel": "1. graduation", "obj": "Harvard University"}]}
+{"id": "ont_14_writtenwork_test_15", "triples": [{"sub": "A T Charlie Johnson", "rel": "1. almaMater", "obj": "Harvard University"}]}
+{"id": "ont_14_writtenwork_test_16", "triples": [{"sub": "AIP Advances", "rel": "1. editor", "obj": "A.t. Charlie Johnson"}]}
+{"id": "ont_14_writtenwork_test_17", "triples": [{"sub": "A.T. Charlie Johnson", "rel": "1. editor", "obj": "AIP Advances"}]}
+{"id": "ont_14_writtenwork_test_18", "triples": [{"sub": "A T Charlie Johnson", "rel": "1. almaMater", "obj": "Harvard University"}]}
+{"id": "ont_14_writtenwork_test_19", "triples": [{"sub": "AIP Advances", "rel": "publisher", "obj": "American Institute of Physics"}]}
+{"id": "ont_14_writtenwork_test_20", "triples": []}
+{"id": "ont_14_writtenwork_test_21", "triples": [{"sub": "AIP Advances", "rel": "editorial", "obj": "Charlie Johnson"}, {"sub": "Charlie Johnson", "rel": ", nationality", "obj": "American"}, {"sub": "Charlie Johnson", "rel": ", doctoralAdvisor", "obj": "Michael Tinkham"}]}
+{"id": "ont_14_writtenwork_test_22", "triples": [{"sub": "A T Charlie Johnson", "rel": "1. residence", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_23", "triples": [{"sub": "Stanford University", "rel": "1) country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_24", "triples": []}
+{"id": "ont_14_writtenwork_test_25", "triples": []}
+{"id": "ont_14_writtenwork_test_26", "triples": []}
+{"id": "ont_14_writtenwork_test_27", "triples": [{"sub": "A Loyal Character Dancer", "rel": "mediaType", "obj": "\"Print  & Paperback\""}]}
+{"id": "ont_14_writtenwork_test_28", "triples": []}
+{"id": "ont_14_writtenwork_test_29", "triples": [{"sub": "A Loyal Character Dancer", "rel": "numberOfPages", "obj": "360"}]}
+{"id": "ont_14_writtenwork_test_30", "triples": [{"sub": "A Loyal Character Dancer", "rel": "1. author", "obj": "Qiu Xiaolong"}]}
+{"id": "ont_14_writtenwork_test_31", "triples": [{"sub": "A Loyal Character Dancer", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_32", "triples": [{"sub": "A Loyal Character Dancer", "rel": "country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_33", "triples": [{"sub": "Viking Press", "rel": "country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_34", "triples": [{"sub": "A Loyal Character Dancer", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_35", "triples": [{"sub": "A Loyal Character Dancer", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_36", "triples": [{"sub": "A Loyal Character Dancer", "rel": "publisher", "obj": "Soho Press"}]}
+{"id": "ont_14_writtenwork_test_37", "triples": [{"sub": "A Loyal Character Dancer", "rel": "publisher", "obj": "Soho Press"}]}
+{"id": "ont_14_writtenwork_test_38", "triples": [{"sub": "Soho Press", "rel": "country", "obj": "United States"}, {"sub": "A Loyal Character Dancer", "rel": "  publisher", "obj": "Soho Press"}, {"sub": "A Loyal Character Dancer", "rel": "  regionServed", "obj": "United States"}, {"sub": "A Loyal Character Dancer", "rel": "  mediaType", "obj": "book"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "fiction"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "literary"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "historical fiction"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "historical"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "romance"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "contemporary"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "multicultural"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "Asian American"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "Asian"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "multiculturalism"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "romance"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "contemporary"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "multicultural"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "Asian American"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "Asian"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "multiculturalism"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "romance"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "contemporary"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "multicultural"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "Asian American"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "Asian"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "multiculturalism"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "romance"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "contemporary"}, {"sub": "A Loyal Character Dancer", "rel": "  genre", "obj": "multicultural"}]}
+{"id": "ont_14_writtenwork_test_39", "triples": [{"sub": "A Loyal Character Dancer", "rel": "publisher", "obj": "Soho Press"}]}
+{"id": "ont_14_writtenwork_test_40", "triples": [{"sub": "A Loyal Character Dancer", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_41", "triples": []}
+{"id": "ont_14_writtenwork_test_42", "triples": [{"sub": "A Severed Wasp", "rel": "1. language", "obj": "English"}, {"sub": "A Severed Wasp", "rel": " 2. country", "obj": "United States"}, {"sub": "United States", "rel": " 3. ethnicGroup", "obj": "Native Americans"}]}
+{"id": "ont_14_writtenwork_test_43", "triples": [{"sub": "A Severed Wasp", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_44", "triples": [{"sub": "A Severed Wasp", "rel": "oclcNumber", "obj": "8805735"}]}
+{"id": "ont_14_writtenwork_test_45", "triples": [{"sub": "A Severed Wasp", "rel": "numberOfPages", "obj": "388"}]}
+{"id": "ont_14_writtenwork_test_46", "triples": [{"sub": "A Wizard of Mars", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_47", "triples": [{"sub": "A Wizard of Mars", "rel": "1.  language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_48", "triples": [{"sub": "A Wizard of Mars", "rel": "1) nationality", "obj": "\"United States\""}, {"sub": "A Wizard of Mars", "rel": " 2) language", "obj": "\"English\""}, {"sub": "\"United States\"", "rel": " 3) ethnicGroup", "obj": "\"Asian Americans\""}]}
+{"id": "ont_14_writtenwork_test_49", "triples": []}
+{"id": "ont_14_writtenwork_test_50", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "1. isbnNumber", "obj": "\"0-316-04345-9\""}, {"sub": "Alcatraz Versus the Evil Librarians", "rel": " 2. language", "obj": "English language"}, {"sub": "Brandon Sanderson", "rel": " 3. birthPlace", "obj": "Lincoln, Nebraska"}, {"sub": "Alcatraz Versus the Evil Librarians", "rel": " 4. followedBy", "obj": "Alcatraz Versus the Scrivener's Bones"}]}
+{"id": "ont_14_writtenwork_test_51", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_52", "triples": []}
+{"id": "ont_14_writtenwork_test_53", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "language", "obj": "English language"}, {"sub": "Alcatraz Versus the Evil Librarians", "rel": "  country", "obj": "The United States"}, {"sub": "The United States", "rel": "  ethnicGroup", "obj": "Asian Americans in the United States"}]}
+{"id": "ont_14_writtenwork_test_54", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_55", "triples": [{"sub": "Alcatraz Versus the Evil Librarians) 7877110 oclcNumber(Alcatraz Versus the Evil Librarians) mediaType(Alcatraz Versus the Evil Librarians", "rel": "0-439-92550-9 isbnNumber", "obj": "Print"}]}
+{"id": "ont_14_writtenwork_test_56", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "mediaType", "obj": "Hardcover"}]}
+{"id": "ont_14_writtenwork_test_57", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "1. mediaType", "obj": "Hardcover"}]}
+{"id": "ont_14_writtenwork_test_58", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "author", "obj": "Brandon Sanderson"}, {"sub": "Alcatraz Versus the Evil Librarians", "rel": ", isbnNumber", "obj": "\"0-439-92550-9\""}, {"sub": "Alcatraz Versus the Evil Librarians", "rel": ", mediaType", "obj": "Hardcover"}, {"sub": "Alcatraz Versus the Evil Librarians", "rel": ", numberOfPages", "obj": "320"}]}
+{"id": "ont_14_writtenwork_test_59", "triples": []}
+{"id": "ont_14_writtenwork_test_60", "triples": [{"sub": "numberOfPages", "rel": "320", "obj": "Alcatraz Versus the Evil Librarians"}, {"sub": "Alcatraz Versus the Evil Librarians", "rel": ", isbnNumber", "obj": "0-439-92550-9"}, {"sub": "Alcatraz Versus the Evil Librarians", "rel": ", mediaType", "obj": "\"Print\""}]}
+{"id": "ont_14_writtenwork_test_61", "triples": []}
+{"id": "ont_14_writtenwork_test_62", "triples": [{"sub": "A Loyal Character Dancer", "rel": "country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_63", "triples": [{"sub": "English language", "rel": "spokenIn", "obj": "Great Britain"}]}
+{"id": "ont_14_writtenwork_test_64", "triples": [{"sub": "English language", "rel": "spokenIn", "obj": "Great Britain"}, {"sub": "English language", "rel": " spokenIn", "obj": "United States"}, {"sub": "A Wizard of Mars", "rel": " country", "obj": "United States"}, {"sub": "A Wizard of Mars", "rel": " language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_65", "triples": [{"sub": "AIDS (journal)", "rel": "publisher", "obj": "Lippincott Williams & Wilkins"}]}
+{"id": "ont_14_writtenwork_test_66", "triples": []}
+{"id": "ont_14_writtenwork_test_67", "triples": [{"sub": "1634 The Ram Rebellion", "rel": "mediaType", "obj": "\"Print\""}]}
+{"id": "ont_14_writtenwork_test_68", "triples": []}
+{"id": "ont_14_writtenwork_test_69", "triples": [{"sub": "A Fortress of Grey Ice", "rel": "country", "obj": "United States"}, {"sub": "United States", "rel": "  capital", "obj": "Washington DC"}, {"sub": "United States", "rel": "  ethnicGroup", "obj": "Native Americans in the United States"}]}
+{"id": "ont_14_writtenwork_test_70", "triples": [{"sub": "United States", "rel": "capital", "obj": "Washington D.C."}]}
+{"id": "ont_14_writtenwork_test_71", "triples": [{"sub": "A Wizard of Mars", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_72", "triples": [{"sub": "A Fortress of Grey Ice", "rel": "1. language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_73", "triples": [{"sub": "A Fortress of Grey Ice", "rel": "country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_74", "triples": []}
+{"id": "ont_14_writtenwork_test_75", "triples": [{"sub": "A Fortress of Grey Ice", "rel": "1. language", "obj": "English language"}, {"sub": "A Fortress of Grey Ice", "rel": " 2. country", "obj": "United States"}, {"sub": "United States", "rel": " 3. ethnicGroup", "obj": "African American"}]}
+{"id": "ont_14_writtenwork_test_76", "triples": [{"sub": "A Wizard of Mars", "rel": "ethnicity", "obj": "African Americans"}]}
+{"id": "ont_14_writtenwork_test_77", "triples": [{"sub": "A Wizard of Mars", "rel": "1. country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_78", "triples": [{"sub": "A Wizard of Mars", "rel": "leader", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_79", "triples": [{"sub": "Many Asian Americans", "rel": "country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_80", "triples": []}
+{"id": "ont_14_writtenwork_test_81", "triples": []}
+{"id": "ont_14_writtenwork_test_82", "triples": [{"sub": "English language", "rel": "1. spokenIn", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_83", "triples": []}
+{"id": "ont_14_writtenwork_test_84", "triples": [{"sub": "A Fortress of Grey Ice", "rel": "country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_85", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "1. country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_86", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "1. mediaType", "obj": "Book"}, {"sub": "Alcatraz Versus the Evil Librarians", "rel": " 2. country", "obj": "U.S."}, {"sub": "U.S.", "rel": " 3. leader", "obj": "Joe Biden"}, {"sub": "U.S.", "rel": " 4. ethnicGroup", "obj": "Asian Americans in the United States"}]}
+{"id": "ont_14_writtenwork_test_87", "triples": [{"sub": "A Fortress of Grey Ice", "rel": "1. country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_88", "triples": []}
+{"id": "ont_14_writtenwork_test_89", "triples": [{"sub": "A severed Wasp", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_90", "triples": [{"sub": "A Wizard of Mars", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_91", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "1. language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_92", "triples": [{"sub": "Alcatraz Versus the Evil Librarians", "rel": "language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_93", "triples": [{"sub": "A Fortress of Grey Ice", "rel": "country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_94", "triples": []}
+{"id": "ont_14_writtenwork_test_95", "triples": []}
+{"id": "ont_14_writtenwork_test_96", "triples": []}
+{"id": "ont_14_writtenwork_test_97", "triples": []}
+{"id": "ont_14_writtenwork_test_98", "triples": [{"sub": "A Fortress of Grey Ice", "rel": "country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_99", "triples": [{"sub": "A Severed Wasp", "rel": "1. country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_100", "triples": [{"sub": "A severed Wasp", "rel": "1. country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_101", "triples": [{"sub": "United States", "rel": "president", "obj": "Barack Obama"}]}
+{"id": "ont_14_writtenwork_test_102", "triples": [{"sub": "Native Americans", "rel": "1. language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_103", "triples": [{"sub": "A Severed Wasp", "rel": "mediaType", "obj": "\"Print\""}]}
+{"id": "ont_14_writtenwork_test_104", "triples": []}
+{"id": "ont_14_writtenwork_test_105", "triples": []}
+{"id": "ont_14_writtenwork_test_106", "triples": []}
+{"id": "ont_14_writtenwork_test_107", "triples": []}
+{"id": "ont_14_writtenwork_test_108", "triples": [{"sub": "A Wizard of Mars", "rel": "1. language", "obj": "English language"}]}
+{"id": "ont_14_writtenwork_test_109", "triples": [{"sub": "Asian Americans", "rel": "ethnicity", "obj": "EthnicGroup"}]}
+{"id": "ont_14_writtenwork_test_110", "triples": [{"sub": "1634: The Ram Rebellion", "rel": "author", "obj": "Eric Flint"}, {"sub": "1634: The Ram Rebellion", "rel": " mediaType", "obj": "E-book"}, {"sub": "1634: The Ram Rebellion", "rel": " numberOfPages", "obj": "512"}]}
+{"id": "ont_14_writtenwork_test_111", "triples": []}
+{"id": "ont_14_writtenwork_test_112", "triples": []}
+{"id": "ont_14_writtenwork_test_113", "triples": [{"sub": "ACM Transactions on Information Systems", "rel": "academicDiscipline", "obj": "Computer Science"}]}
+{"id": "ont_14_writtenwork_test_114", "triples": [{"sub": "ACM Transactions on Information Systems", "rel": "issnNumber", "obj": "\"1558-2868\""}]}
+{"id": "ont_14_writtenwork_test_115", "triples": [{"sub": "AIDS (journal)", "rel": "publisher", "obj": "Lippincott Williams & Wilkins"}]}
+{"id": "ont_14_writtenwork_test_116", "triples": [{"sub": "AIP Advances", "rel": "publisher", "obj": "American Institute of Physics"}]}
+{"id": "ont_14_writtenwork_test_117", "triples": [{"sub": "AIP Advances", "rel": "abbreviation", "obj": "\"AIP Adv.\""}]}
+{"id": "ont_14_writtenwork_test_118", "triples": [{"sub": "A Long Long Way", "rel": "country", "obj": "Great Britain"}]}
+{"id": "ont_14_writtenwork_test_119", "triples": [{"sub": "A Loyal Character Dancer", "rel": "publisher", "obj": "Soho Press"}]}
+{"id": "ont_14_writtenwork_test_120", "triples": [{"sub": "A Loyal Character Dancer", "rel": "1. publisher", "obj": "Soho Press"}]}
+{"id": "ont_14_writtenwork_test_121", "triples": []}
+{"id": "ont_14_writtenwork_test_122", "triples": [{"sub": "A Severed Wasp", "rel": "1) isbnNumber", "obj": "\"0-374-26131-8\""}]}
+{"id": "ont_14_writtenwork_test_123", "triples": []}
+{"id": "ont_14_writtenwork_test_124", "triples": [{"sub": "A Wizard of Mars", "rel": "author", "obj": "Diane Duane"}, {"sub": "A Wizard of Mars", "rel": " mediaType", "obj": "\"Hardcover\""}, {"sub": "A Wizard of Mars", "rel": " isbnNumber", "obj": "\"978-0-15-204770-2\""}]}
+{"id": "ont_14_writtenwork_test_125", "triples": [{"sub": "AIDS (journal)", "rel": "publisher", "obj": "Lippincott Williams & Wilkins"}]}
+{"id": "ont_14_writtenwork_test_126", "triples": [{"sub": "A Fortress of Grey Ice", "rel": "1. country", "obj": "United States"}]}
+{"id": "ont_14_writtenwork_test_127", "triples": []}
