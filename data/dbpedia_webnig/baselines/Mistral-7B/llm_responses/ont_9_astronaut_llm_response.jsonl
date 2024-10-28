@@ -1,0 +1,68 @@
+{"id": "ont_9_astronaut_test_1", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, MA 1957\""}]}
+{"id": "ont_9_astronaut_test_2", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, M.A. 1957\""}]}
+{"id": "ont_9_astronaut_test_3", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, M.A. 1957\""}]}
+{"id": "ont_9_astronaut_test_4", "triples": [{"sub": "Alan Shepard", "rel": "selectedByNasa", "obj": "1959"}]}
+{"id": "ont_9_astronaut_test_5", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "\"New Hampshire\""}]}
+{"id": "ont_9_astronaut_test_6", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "New Hampshire"}]}
+{"id": "ont_9_astronaut_test_7", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "New Hampshire"}]}
+{"id": "ont_9_astronaut_test_8", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "New Hampshire"}]}
+{"id": "ont_9_astronaut_test_9", "triples": []}
+{"id": "ont_9_astronaut_test_10", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "New Hampshire"}]}
+{"id": "ont_9_astronaut_test_11", "triples": [{"sub": "California", "rel": "senators", "obj": "Dianne Feinstein"}]}
+{"id": "ont_9_astronaut_test_12", "triples": [{"sub": "Elliot See", "rel": "nationality", "obj": "United States"}]}
+{"id": "ont_9_astronaut_test_13", "triples": []}
+{"id": "ont_9_astronaut_test_14", "triples": [{"sub": "Elliot See", "rel": "almaMater", "obj": "\"UT Austin\""}]}
+{"id": "ont_9_astronaut_test_15", "triples": [{"sub": "Elliot See", "rel": "almaMater", "obj": "\"UT Austin\""}]}
+{"id": "ont_9_astronaut_test_16", "triples": [{"sub": "Elliot See", "rel": "affiliation", "obj": "\"The University of Texas at Austin\""}]}
+{"id": "ont_9_astronaut_test_17", "triples": [{"sub": "Elliot See", "rel": "almaMater", "obj": "\"UT Austin\""}]}
+{"id": "ont_9_astronaut_test_18", "triples": [{"sub": "Elliot See", "rel": "birthPlace", "obj": "\"Dallas\""}]}
+{"id": "ont_9_astronaut_test_19", "triples": [{"sub": "Elliot See", "rel": "selectedByNasa", "obj": "1962"}]}
+{"id": "ont_9_astronaut_test_20", "triples": [{"sub": "Elliot See", "rel": "nationality", "obj": "United States"}]}
+{"id": "ont_9_astronaut_test_21", "triples": [{"sub": "Elliot See", "rel": "birthDate", "obj": "1927-07-23"}]}
+{"id": "ont_9_astronaut_test_22", "triples": [{"sub": "Elliot See", "rel": "nationality", "obj": "United States"}]}
+{"id": "ont_9_astronaut_test_23", "triples": [{"sub": "Elliot See", "rel": "nationality", "obj": "United States"}]}
+{"id": "ont_9_astronaut_test_24", "triples": [{"sub": "Elliot See", "rel": "deathPlace", "obj": "\"St. Louis\""}]}
+{"id": "ont_9_astronaut_test_25", "triples": []}
+{"id": "ont_9_astronaut_test_26", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "New Hampshire"}]}
+{"id": "ont_9_astronaut_test_27", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "New Hampshire"}]}
+{"id": "ont_9_astronaut_test_28", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, M.A. 1957\""}]}
+{"id": "ont_9_astronaut_test_29", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "\"New Hampshire\""}]}
+{"id": "ont_9_astronaut_test_30", "triples": []}
+{"id": "ont_9_astronaut_test_31", "triples": [{"sub": "Alan Shepard", "rel": "selectedByNasa", "obj": "string"}]}
+{"id": "ont_9_astronaut_test_32", "triples": [{"sub": "Alan Shepard", "rel": "selectedByNasa", "obj": "1963"}]}
+{"id": "ont_9_astronaut_test_33", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "New Hampshire"}]}
+{"id": "ont_9_astronaut_test_34", "triples": [{"sub": "Alan Shepard", "rel": "selectedByNasa", "obj": "1959"}]}
+{"id": "ont_9_astronaut_test_35", "triples": []}
+{"id": "ont_9_astronaut_test_36", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "New Hampshire"}]}
+{"id": "ont_9_astronaut_test_37", "triples": []}
+{"id": "ont_9_astronaut_test_38", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, MA 1957\""}]}
+{"id": "ont_9_astronaut_test_39", "triples": [{"sub": "Alan Shepard", "rel": "nationality", "obj": "United States"}]}
+{"id": "ont_9_astronaut_test_40", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, M.A. 1957\""}]}
+{"id": "ont_9_astronaut_test_41", "triples": [{"sub": "Alan Shepard", "rel": "birthDate", "obj": "\"1923-11-18\""}]}
+{"id": "ont_9_astronaut_test_42", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "New Hampshire"}]}
+{"id": "ont_9_astronaut_test_43", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "\"New Hampshire\""}]}
+{"id": "ont_9_astronaut_test_44", "triples": []}
+{"id": "ont_9_astronaut_test_45", "triples": []}
+{"id": "ont_9_astronaut_test_46", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, M.A. 1957\""}]}
+{"id": "ont_9_astronaut_test_47", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, M.A. 1957\""}]}
+{"id": "ont_9_astronaut_test_48", "triples": [{"sub": "Alan Shepard", "rel": "nationality", "obj": "United States"}]}
+{"id": "ont_9_astronaut_test_49", "triples": []}
+{"id": "ont_9_astronaut_test_50", "triples": [{"sub": "subject", "rel": "(Note: The output is in the format: relation", "obj": "object"}]}
+{"id": "ont_9_astronaut_test_51", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "\"New Hampshire\""}]}
+{"id": "ont_9_astronaut_test_52", "triples": [{"sub": "Alan Shepard", "rel": "selectedByNasa", "obj": "1959"}]}
+{"id": "ont_9_astronaut_test_53", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "New Hampshire"}]}
+{"id": "ont_9_astronaut_test_54", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "\"New Hampshire\""}]}
+{"id": "ont_9_astronaut_test_55", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, M.A. 1957\""}]}
+{"id": "ont_9_astronaut_test_56", "triples": []}
+{"id": "ont_9_astronaut_test_57", "triples": [{"sub": "Alan Shepard", "rel": "birthPlace", "obj": "\"New Hampshire\""}]}
+{"id": "ont_9_astronaut_test_58", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, MA 1957\""}]}
+{"id": "ont_9_astronaut_test_59", "triples": [{"sub": "Alan Shepard", "rel": "almaMater", "obj": "\"NWC, M.A. 1957\""}]}
+{"id": "ont_9_astronaut_test_60", "triples": []}
+{"id": "ont_9_astronaut_test_61", "triples": []}
+{"id": "ont_9_astronaut_test_62", "triples": [{"sub": "Alan Shepard", "rel": "birthDate", "obj": "\"1923-11-18\""}]}
+{"id": "ont_9_astronaut_test_63", "triples": [{"sub": "Alan Shepard", "rel": "nationality", "obj": "United States"}]}
+{"id": "ont_9_astronaut_test_64", "triples": [{"sub": "Alan Shepard", "rel": "affiliation", "obj": "United States"}]}
+{"id": "ont_9_astronaut_test_65", "triples": [{"sub": "California", "rel": "senators", "obj": "Dianne Feinstein"}]}
+{"id": "ont_9_astronaut_test_66", "triples": [{"sub": "Alan Shepard", "rel": "deathPlace", "obj": "\"California\""}]}
+{"id": "ont_9_astronaut_test_67", "triples": [{"sub": "Elliot See", "rel": "selectedByNasa", "obj": "1962"}]}
+{"id": "ont_9_astronaut_test_68", "triples": [{"sub": "Elliot See", "rel": "birthPlace", "obj": "\"Dallas\""}]}

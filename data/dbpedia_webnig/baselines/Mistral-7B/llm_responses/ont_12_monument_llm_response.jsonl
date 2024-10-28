@@ -1,0 +1,19 @@
+{"id": "ont_12_monument_test_1", "triples": []}
+{"id": "ont_12_monument_test_2", "triples": []}
+{"id": "ont_12_monument_test_3", "triples": []}
+{"id": "ont_12_monument_test_4", "triples": []}
+{"id": "ont_12_monument_test_5", "triples": []}
+{"id": "ont_12_monument_test_6", "triples": []}
+{"id": "ont_12_monument_test_7", "triples": [{"sub": "Azerbaijan", "rel": "leader", "obj": "Artur Rasizade"}]}
+{"id": "ont_12_monument_test_8", "triples": [{"sub": "Baku Turkish Martyrs memorial", "rel": "designer", "obj": "Huseyin Butuner"}]}
+{"id": "ont_12_monument_test_9", "triples": [{"sub": "Baku Turkish Martyrs memorial", "rel": "designer", "obj": "Huseyin Butuner"}]}
+{"id": "ont_12_monument_test_10", "triples": [{"sub": "Baku Turkish Martyrs memorial", "rel": "material", "obj": "red granite and white marble"}]}
+{"id": "ont_12_monument_test_11", "triples": [{"sub": "Baku Turkish Martyrs memorial", "rel": "designer", "obj": "Huseyin Butuner"}]}
+{"id": "ont_12_monument_test_12", "triples": [{"sub": "Monocacy National Battlefield", "rel": "location", "obj": "Frederick County, Maryland"}]}
+{"id": "ont_12_monument_test_13", "triples": [{"sub": "14th New Jersey Volunteer Infantry Monument", "rel": "location", "obj": "Frederick County"}]}
+{"id": "ont_12_monument_test_14", "triples": [{"sub": "Baku Turkish Martyrs' Memorial", "rel": "nativeName", "obj": "\"Türk Sehitleri Aniti\""}]}
+{"id": "ont_12_monument_test_15", "triples": [{"sub": "Baku Turkish Martyrs' Memorial", "rel": "dedicatedTo", "obj": "Ottoman Army soldiers killed in the Battle of Baku"}]}
+{"id": "ont_12_monument_test_16", "triples": []}
+{"id": "ont_12_monument_test_17", "triples": [{"sub": "Baku Turkish Martyrs Memorial", "rel": "designer", "obj": "Hüseyin Bütüner"}]}
+{"id": "ont_12_monument_test_18", "triples": [{"sub": "Azerbaijan", "rel": "leader", "obj": "Artur Rasizade"}]}
+{"id": "ont_12_monument_test_19", "triples": [{"sub": "Baku Turkish Martyrs' Memorial", "rel": "designer", "obj": "Huseyin Butuner"}]}
