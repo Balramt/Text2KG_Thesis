@@ -40,6 +40,8 @@ The `networkx` library is used to visualize relationships by creating a directed
 3. **Generate RDF Triples**: Click on "Generate RDF Triples" to extract entities and relationships.
 4. **View Results**:
    - **Extracted Triples**: The output field will show extracted triples in RDF format.
+     ![image](https://github.com/user-attachments/assets/8d8a26e9-8b30-49e7-932d-314636cd4f22)
+
    - **Knowledge Graph**: An image of the generated knowledge graph is displayed, illustrating entity relationships visually.
 
 ## Code Explanation
