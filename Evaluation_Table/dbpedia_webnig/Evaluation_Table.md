@@ -5,7 +5,7 @@ The following table presents the evaluation metrics for three different language
 ### Combined Performance Metrics for LLM Models
 | LLM Name           | Evaluation Metrics | avg_precision | avg_recall | avg_f1 | avg_onto_conf| avg_sub_halluc | avg_rel_halluc | avg_obj_halluc |
 |--------------------|--------------------|---------------|------------|--------|--------------|----------------|----------------|----------------|
-|LLama-8B            | University         | 0.29          | 0.10       | 0.15   | 0.78         | 0.00            | 0.22           | 0.06          |
+|LLama 3-8B            | University         | 0.29          | 0.10       | 0.15   | 0.78         | 0.00            | 0.22           | 0.06          |
 |                    | Musicalwork        | 0.25          | 0.17       | 0.19   | 0.67         | 0.39            | 0.33           | 0.31          |
 |                    | Airport            | 0.23          | 0.11       | 0.14   | 0.76         | 0.02            | 0.24           | 0.12          |
 |                    | Building           | 0.35          | 0.13       | 0.18   | 0.92         | 0.01            | 0.07           | 0.09          |
